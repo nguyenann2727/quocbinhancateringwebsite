@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="vi">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>HSNL PDF Draft Editor - Quốc Bình An</title>
+    <link rel="stylesheet" href="hsnl-pdf-editor.css" />
+  </head>
+  <body>
+    <header class="editor-header">
+      <div>
+        <span>QUỐC BÌNH AN</span>
+        <h1>Chỉnh sửa trực tiếp HSNL PDF draft</h1>
+      </div>
+      <p>Bấm khung ảnh/chữ trên từng trang. Bấm đúp khung ảnh hoặc nền hero để thay ảnh từ máy tính; kéo khung, kéo cạnh/góc hoặc zoom để căn phần đẹp nhất.</p>
+    </header>
+
+    <main class="editor-shell">
+      <section class="pdf-stage" id="pdf-stage" aria-label="Các trang PDF đang chỉnh sửa"></section>
+
+      <aside class="property-panel" id="property-panel" aria-label="Bảng chỉnh sửa">
+        <div class="panel-empty">
+          <strong>Chọn một khung trên trang</strong>
+          <span>Bật chế độ Ảnh hoặc Chữ ở góc dưới, sau đó bấm vào khung cần chỉnh.</span>
+        </div>
+      </aside>
+    </main>
+
+    <div class="editor-dock" aria-label="Công cụ chỉnh sửa PDF">
+      <button id="mode-all" class="active primary-edit" type="button">Sửa chữ & ảnh</button>
+      <button id="mode-image" type="button">Chỉnh ảnh</button>
+      <button id="mode-text" type="button">Chỉnh chữ</button>
+      <button id="save-state" type="button">Lưu vào dự án</button>
+      <button id="rebuild-pdf" type="button">Dựng lại PDF</button>
+      <button id="hide-pdf-edit-button" type="button">Xoá nút tạm</button>
+    <a id="open-final-pdf" href="../output/pdf/HSNL-Quoc-Binh-An-Catering-FINAL.pdf" target="_blank" rel="noreferrer">Mở PDF</a>
+    </div>
+
+    <div class="editor-toast" id="editor-toast" role="status" aria-live="polite"></div>
+
+    <script src="hsnl-pdf-editor.js"></script>
+  </body>
+</html>

@@ -1,0 +1,3413 @@
+{
+  "version": 1,
+  "images": {
+    "p01-qba-hero-natural-v2-01": {
+      "x": 0.9414610140195891,
+      "y": 10.177449802970584,
+      "w": 595.2755905511812,
+      "h": 841.8897637795277,
+      "alignX": 0.52,
+      "alignY": 0.5,
+      "zoom": 100,
+      "rotate": 0
+    },
+    "p01-qba-logo-full-01": {
+      "x": 38,
+      "y": 750.8897637795277,
+      "w": 58,
+      "h": 58,
+      "alignX": 0.5,
+      "alignY": 0.5,
+      "zoom": 100,
+      "rotate": 0
+    },
+    "p02-qba-logo-full-01": {
+      "x": 33.5,
+      "y": 785.8897637795277,
+      "w": 31,
+      "h": 31,
+      "alignX": 0.5,
+      "alignY": 0.5,
+      "zoom": 100,
+      "rotate": 0
+    },
+    "p02-qba-logo-full-02": {
+      "x": 34,
+      "y": 646,
+      "w": 70,
+      "h": 70,
+      "alignX": 0.5,
+      "alignY": 0.5,
+      "zoom": 100,
+      "rotate": 0
+    },
+    "p02-hop-doi-ngu-quan-ly-01": {
+      "x": 285.7050845016324,
+      "y": 126.35730250074513,
+      "w": 260.9216109323987,
+      "h": 142.9584781369195,
+      "alignX": 0.5,
+      "alignY": 0.66,
+      "zoom": 100,
+      "rotate": 0
+    },
+    "p02-qba-logo-full-03": {
+      "x": 33.5,
+      "y": 785.8897637795277,
+      "w": 31,
+      "h": 31,
+      "alignX": 0.5,
+      "alignY": 0.5,
+      "zoom": 100,
+      "rotate": 0
+    },
+    "p03-qba-logo-full-01": {
+      "x": 33.5,
+      "y": 785.8897637795277,
+      "w": 31,
+      "h": 31,
+      "alignX": 0.5,
+      "alignY": 0.5,
+      "zoom": 100,
+      "rotate": 0
+    },
+    "p03-qba-logo-full-02": {
+      "x": 33.5,
+      "y": 785.8897637795277,
+      "w": 31,
+      "h": 31,
+      "alignX": 0.5,
+      "alignY": 0.5,
+      "zoom": 100,
+      "rotate": 0
+    },
+    "p04-qba-logo-full-01": {
+      "x": 33.5,
+      "y": 785.8897637795277,
+      "w": 31,
+      "h": 31,
+      "alignX": 0.5,
+      "alignY": 0.5,
+      "zoom": 100,
+      "rotate": 0
+    },
+    "p04-menu-24k-sample-03-01": {
+      "x": 35.75087322354523,
+      "y": 99.07230151333042,
+      "w": 269.5162791674668,
+      "h": 452.58053747505403,
+      "alignX": 0.5,
+      "alignY": 0.5,
+      "zoom": 100,
+      "rotate": 0
+    },
+    "p04-qba-logo-full-02": {
+      "x": 33.5,
+      "y": 785.8897637795277,
+      "w": 31,
+      "h": 31,
+      "alignX": 0.5,
+      "alignY": 0.5,
+      "zoom": 100,
+      "rotate": 0
+    },
+    "p05-qba-logo-full-01": {
+      "x": 33.5,
+      "y": 785.8897637795277,
+      "w": 31,
+      "h": 31,
+      "alignX": 0.5,
+      "alignY": 0.5,
+      "zoom": 100,
+      "rotate": 0
+    },
+    "p05-qba-logo-full-02": {
+      "x": 33.5,
+      "y": 785.8897637795277,
+      "w": 31,
+      "h": 31,
+      "alignX": 0.5,
+      "alignY": 0.5,
+      "zoom": 100,
+      "rotate": 0
+    },
+    "p06-qba-logo-full-01": {
+      "x": 33.5,
+      "y": 785.8897637795277,
+      "w": 31,
+      "h": 31,
+      "alignX": 0.5,
+      "alignY": 0.5,
+      "zoom": 100,
+      "rotate": 0
+    },
+    "p06-qba-logo-full-02": {
+      "x": 33.5,
+      "y": 785.8897637795277,
+      "w": 31,
+      "h": 31,
+      "alignX": 0.5,
+      "alignY": 0.5,
+      "zoom": 100,
+      "rotate": 0
+    },
+    "p07-qba-logo-full-01": {
+      "x": 33.5,
+      "y": 785.8897637795277,
+      "w": 31,
+      "h": 31,
+      "alignX": 0.5,
+      "alignY": 0.5,
+      "zoom": 100,
+      "rotate": 0
+    },
+    "p07-qba-logo-full-02": {
+      "x": 33.5,
+      "y": 785.8897637795277,
+      "w": 31,
+      "h": 31,
+      "alignX": 0.5,
+      "alignY": 0.5,
+      "zoom": 100,
+      "rotate": 0
+    },
+    "p08-qba-logo-full-01": {
+      "x": 33.5,
+      "y": 785.8897637795277,
+      "w": 31,
+      "h": 31,
+      "alignX": 0.5,
+      "alignY": 0.5,
+      "zoom": 100,
+      "rotate": 0
+    },
+    "p08-featured-01": {
+      "x": 44,
+      "y": 200,
+      "w": 324,
+      "h": 430,
+      "alignX": 0.5,
+      "alignY": 0.5,
+      "zoom": 100,
+      "rotate": 0
+    },
+    "p08-qba-logo-full-02": {
+      "x": 33.5,
+      "y": 785.8897637795277,
+      "w": 31,
+      "h": 31,
+      "alignX": 0.5,
+      "alignY": 0.5,
+      "zoom": 100,
+      "rotate": 0
+    },
+    "p09-qba-logo-full-01": {
+      "x": 33.5,
+      "y": 785.8897637795277,
+      "w": 31,
+      "h": 31,
+      "alignX": 0.5,
+      "alignY": 0.5,
+      "zoom": 100,
+      "rotate": 0
+    },
+    "p09-dining-hall-01": {
+      "x": 42.11910048972537,
+      "y": 347.7306052573747,
+      "w": 150,
+      "h": 278.5938892952946,
+      "alignX": 0.5,
+      "alignY": 0.5,
+      "zoom": 100,
+      "rotate": 0
+    },
+    "p09-fish-menu-01": {
+      "x": 219,
+      "y": 348,
+      "w": 158.0903261234876,
+      "h": 274,
+      "alignX": 0.5,
+      "alignY": 0.5,
+      "zoom": 100,
+      "rotate": 0
+    },
+    "p09-structure-01": {
+      "x": 395.2485326243518,
+      "y": 348.4140171834031,
+      "w": 150,
+      "h": 274,
+      "alignX": 0.5,
+      "alignY": 0.5,
+      "zoom": 100,
+      "rotate": 0
+    },
+    "p09-qba-logo-full-02": {
+      "x": 33.5,
+      "y": 785.8897637795277,
+      "w": 31,
+      "h": 31,
+      "alignX": 0.5,
+      "alignY": 0.5,
+      "zoom": 100,
+      "rotate": 0
+    },
+    "p10-qba-logo-full-01": {
+      "x": 33.5,
+      "y": 785.8897637795277,
+      "w": 31,
+      "h": 31,
+      "alignX": 0.5,
+      "alignY": 0.5,
+      "zoom": 100,
+      "rotate": 0
+    },
+    "p10-qba-logo-full-02": {
+      "x": 33.5,
+      "y": 785.8897637795277,
+      "w": 31,
+      "h": 31,
+      "alignX": 0.5,
+      "alignY": 0.5,
+      "zoom": 100,
+      "rotate": 0
+    },
+    "p11-qba-logo-full-01": {
+      "x": 33.5,
+      "y": 785.8897637795277,
+      "w": 31,
+      "h": 31,
+      "alignX": 0.5,
+      "alignY": 0.5,
+      "zoom": 100,
+      "rotate": 0
+    },
+    "p11-03-chia-suat-va-rau-xanh-01": {
+      "x": 42,
+      "y": 340,
+      "w": 310,
+      "h": 290,
+      "alignX": 0.52,
+      "alignY": 0.55,
+      "zoom": 100,
+      "rotate": 0
+    },
+    "p11-04-so-che-rau-xanh-01": {
+      "x": 382,
+      "y": 516,
+      "w": 176,
+      "h": 114,
+      "alignX": 0.48,
+      "alignY": 0.56,
+      "zoom": 100,
+      "rotate": 0
+    },
+    "p11-05-phan-khu-song-rau-01": {
+      "x": 382,
+      "y": 328,
+      "w": 176,
+      "h": 108,
+      "alignX": 0.46,
+      "alignY": 0.68,
+      "zoom": 100,
+      "rotate": 0
+    },
+    "p11-qba-logo-full-02": {
+      "x": 33.5,
+      "y": 785.8897637795277,
+      "w": 31,
+      "h": 31,
+      "alignX": 0.5,
+      "alignY": 0.5,
+      "zoom": 100,
+      "rotate": 0
+    },
+    "p12-qba-logo-full-01": {
+      "x": 33.5,
+      "y": 785.8897637795277,
+      "w": 31,
+      "h": 31,
+      "alignX": 0.5,
+      "alignY": 0.5,
+      "zoom": 100,
+      "rotate": 0
+    },
+    "p12-qba-logo-full-02": {
+      "x": 33.5,
+      "y": 785.8897637795277,
+      "w": 31,
+      "h": 31,
+      "alignX": 0.5,
+      "alignY": 0.5,
+      "zoom": 100,
+      "rotate": 0
+    },
+    "p13-qba-logo-full-01": {
+      "x": 33.5,
+      "y": 785.8897637795277,
+      "w": 31,
+      "h": 31,
+      "alignX": 0.5,
+      "alignY": 0.5,
+      "zoom": 100,
+      "rotate": 0
+    },
+    "p13-11-xe-nguyen-lieu-01": {
+      "x": 334,
+      "y": 562,
+      "w": 214,
+      "h": 60,
+      "alignX": 0.5,
+      "alignY": 0.5,
+      "zoom": 100,
+      "rotate": 0
+    },
+    "p13-09-ky-nhan-giao-nhan-01": {
+      "x": 334,
+      "y": 381.44134096170217,
+      "w": 214,
+      "h": 107.31904921112645,
+      "alignX": 0.52,
+      "alignY": 0.72,
+      "zoom": 100,
+      "rotate": 0
+    },
+    "p13-08-ke-nguyen-lieu-rau-cu-01": {
+      "x": 334,
+      "y": 216.55011300766523,
+      "w": 96,
+      "h": 99.44988699233477,
+      "alignX": 0.5,
+      "alignY": 0.46,
+      "zoom": 100,
+      "rotate": 0
+    },
+    "p13-07-so-che-thit-va-kiem-soat-nguyen-lieu-01": {
+      "x": 452,
+      "y": 211.35221234206338,
+      "w": 96,
+      "h": 104.64778765793663,
+      "alignX": 0.58,
+      "alignY": 0.55,
+      "zoom": 100,
+      "rotate": 0
+    },
+    "p13-qba-logo-full-02": {
+      "x": 33.5,
+      "y": 785.8897637795277,
+      "w": 31,
+      "h": 31,
+      "alignX": 0.5,
+      "alignY": 0.5,
+      "zoom": 100,
+      "rotate": 0
+    },
+    "p14-qba-logo-full-01": {
+      "x": 33.5,
+      "y": 785.8897637795277,
+      "w": 31,
+      "h": 31,
+      "alignX": 0.5,
+      "alignY": 0.5,
+      "zoom": 100,
+      "rotate": 0
+    },
+    "p14-chung-nhan-attp-2024-01": {
+      "x": 44,
+      "y": 100,
+      "w": 312,
+      "h": 534,
+      "alignX": 0.5,
+      "alignY": 0.5,
+      "zoom": 100,
+      "rotate": 0
+    },
+    "p14-qba-logo-full-02": {
+      "x": 33.5,
+      "y": 785.8897637795277,
+      "w": 31,
+      "h": 31,
+      "alignX": 0.5,
+      "alignY": 0.5,
+      "zoom": 100,
+      "rotate": 0
+    },
+    "p15-qba-logo-full-01": {
+      "x": 33.5,
+      "y": 785.8897637795277,
+      "w": 31,
+      "h": 31,
+      "alignX": 0.5,
+      "alignY": 0.5,
+      "zoom": 100,
+      "rotate": 0
+    },
+    "p15-tap-huan-attp-01-public-01": {
+      "x": 42,
+      "y": 110,
+      "w": 238,
+      "h": 422,
+      "alignX": 0.5,
+      "alignY": 0.5,
+      "zoom": 100,
+      "rotate": 0
+    },
+    "p15-the-an-toan-lao-dong-public-01": {
+      "x": 314,
+      "y": 110,
+      "w": 234,
+      "h": 422,
+      "alignX": 0.5,
+      "alignY": 0.5,
+      "zoom": 100,
+      "rotate": 0
+    },
+    "p15-qba-logo-full-02": {
+      "x": 33.5,
+      "y": 785.8897637795277,
+      "w": 31,
+      "h": 31,
+      "alignX": 0.5,
+      "alignY": 0.5,
+      "zoom": 100,
+      "rotate": 0
+    },
+    "p16-qba-logo-full-01": {
+      "x": 33.5,
+      "y": 785.8897637795277,
+      "w": 31,
+      "h": 31,
+      "alignX": 0.5,
+      "alignY": 0.5,
+      "zoom": 100,
+      "rotate": 0
+    },
+    "p16-iso-22000-qba-2023-2026-01": {
+      "x": 44,
+      "y": 114,
+      "w": 230,
+      "h": 482,
+      "alignX": 0.5,
+      "alignY": 0.5,
+      "zoom": 100,
+      "rotate": 0
+    },
+    "p16-iso-dao-tao-nguyen-quoc-chinh-01": {
+      "x": 314,
+      "y": 282,
+      "w": 106,
+      "h": 72,
+      "alignX": 0.5,
+      "alignY": 0.5,
+      "zoom": 100,
+      "rotate": 0
+    },
+    "p16-iso-dao-tao-tran-thi-thanh-thuy-01": {
+      "x": 442,
+      "y": 282,
+      "w": 106,
+      "h": 72,
+      "alignX": 0.5,
+      "alignY": 0.5,
+      "zoom": 100,
+      "rotate": 0
+    },
+    "p16-iso-dao-tao-nguyen-thi-quynh-01": {
+      "x": 314,
+      "y": 146,
+      "w": 106,
+      "h": 72,
+      "alignX": 0.5,
+      "alignY": 0.5,
+      "zoom": 100,
+      "rotate": 0
+    },
+    "p16-iso-dao-tao-nguyen-thi-ha-01": {
+      "x": 442,
+      "y": 146,
+      "w": 106,
+      "h": 72,
+      "alignX": 0.5,
+      "alignY": 0.5,
+      "zoom": 100,
+      "rotate": 0
+    },
+    "p16-qba-logo-full-02": {
+      "x": 33.5,
+      "y": 785.8897637795277,
+      "w": 31,
+      "h": 31,
+      "alignX": 0.5,
+      "alignY": 0.5,
+      "zoom": 100,
+      "rotate": 0
+    },
+    "p17-qba-logo-full-01": {
+      "x": 33.5,
+      "y": 785.8897637795277,
+      "w": 31,
+      "h": 31,
+      "alignX": 0.5,
+      "alignY": 0.5,
+      "zoom": 100,
+      "rotate": 0
+    },
+    "p17-ncc-attp-sao-bien-2017-2020-01": {
+      "x": 46,
+      "y": 248,
+      "w": 226,
+      "h": 356,
+      "alignX": 0.5,
+      "alignY": 0.5,
+      "zoom": 100,
+      "rotate": 0
+    },
+    "p17-ncc-attp-thuy-duong-2025-2028-01": {
+      "x": 318,
+      "y": 248,
+      "w": 226,
+      "h": 356,
+      "alignX": 0.5,
+      "alignY": 0.5,
+      "zoom": 100,
+      "rotate": 0
+    },
+    "p17-qba-logo-full-02": {
+      "x": 33.5,
+      "y": 785.8897637795277,
+      "w": 31,
+      "h": 31,
+      "alignX": 0.5,
+      "alignY": 0.5,
+      "zoom": 100,
+      "rotate": 0
+    },
+    "p18-qba-logo-full-01": {
+      "x": 33.5,
+      "y": 785.8897637795277,
+      "w": 31,
+      "h": 31,
+      "alignX": 0.5,
+      "alignY": 0.5,
+      "zoom": 100,
+      "rotate": 0
+    },
+    "p18-kiem-nghiem-nuoc-ro-2026-01": {
+      "x": 44,
+      "y": 118,
+      "w": 258,
+      "h": 506,
+      "alignX": 0.5,
+      "alignY": 0.5,
+      "zoom": 100,
+      "rotate": 0
+    },
+    "p18-10-luu-mau-01": {
+      "x": 342,
+      "y": 366,
+      "w": 206,
+      "h": 134,
+      "alignX": 0.5,
+      "alignY": 0.5,
+      "zoom": 100,
+      "rotate": 0
+    },
+    "p18-qba-logo-full-02": {
+      "x": 33.5,
+      "y": 785.8897637795277,
+      "w": 31,
+      "h": 31,
+      "alignX": 0.5,
+      "alignY": 0.5,
+      "zoom": 100,
+      "rotate": 0
+    },
+    "p19-qba-logo-full-01": {
+      "x": 33.5,
+      "y": 785.8897637795277,
+      "w": 31,
+      "h": 31,
+      "alignX": 0.5,
+      "alignY": 0.5,
+      "zoom": 100,
+      "rotate": 0
+    },
+    "p19-02-may-thai-so-che-01": {
+      "x": 42,
+      "y": 254,
+      "w": 234,
+      "h": 324,
+      "alignX": 0.5,
+      "alignY": 0.5,
+      "zoom": 100,
+      "rotate": 0
+    },
+    "p19-01-che-bien-bep-nong-01": {
+      "x": 317.94165906472057,
+      "y": 425.2282474765228,
+      "w": 219.65689816593047,
+      "h": 157.39116342596785,
+      "alignX": 0.5,
+      "alignY": 0.62,
+      "zoom": 100,
+      "rotate": 0
+    },
+    "p19-06-thiet-bi-va-bep-01": {
+      "x": 314,
+      "y": 254,
+      "w": 234,
+      "h": 112,
+      "alignX": 0.5,
+      "alignY": 0.5,
+      "zoom": 100,
+      "rotate": 0
+    },
+    "p19-qba-logo-full-02": {
+      "x": 33.5,
+      "y": 785.8897637795277,
+      "w": 31,
+      "h": 31,
+      "alignX": 0.5,
+      "alignY": 0.5,
+      "zoom": 100,
+      "rotate": 0
+    },
+    "p20-qba-logo-full-01": {
+      "x": 33.5,
+      "y": 785.8897637795277,
+      "w": 31,
+      "h": 31,
+      "alignX": 0.5,
+      "alignY": 0.5,
+      "zoom": 100,
+      "rotate": 0
+    },
+    "p20-structure-01": {
+      "x": 44,
+      "y": 244,
+      "w": 298,
+      "h": 386,
+      "alignX": 0.5,
+      "alignY": 0.5,
+      "zoom": 100,
+      "rotate": 0
+    },
+    "p20-qba-logo-full-02": {
+      "x": 33.5,
+      "y": 785.8897637795277,
+      "w": 31,
+      "h": 31,
+      "alignX": 0.5,
+      "alignY": 0.5,
+      "zoom": 100,
+      "rotate": 0
+    },
+    "p21-qba-logo-full-01": {
+      "x": 33.5,
+      "y": 785.8897637795277,
+      "w": 31,
+      "h": 31,
+      "alignX": 0.5,
+      "alignY": 0.5,
+      "zoom": 100,
+      "rotate": 0
+    },
+    "p21-standard-01": {
+      "x": 44,
+      "y": 432,
+      "w": 230,
+      "h": 188,
+      "alignX": 0.5,
+      "alignY": 0.5,
+      "zoom": 100,
+      "rotate": 0
+    },
+    "p21-energy-01": {
+      "x": 316,
+      "y": 432,
+      "w": 230,
+      "h": 188,
+      "alignX": 0.5,
+      "alignY": 0.5,
+      "zoom": 100,
+      "rotate": 0
+    },
+    "p21-expert-01": {
+      "x": 44,
+      "y": 142,
+      "w": 258,
+      "h": 150,
+      "alignX": 0.5,
+      "alignY": 0.5,
+      "zoom": 100,
+      "rotate": 0
+    },
+    "p21-qba-logo-full-02": {
+      "x": 33.5,
+      "y": 785.8897637795277,
+      "w": 31,
+      "h": 31,
+      "alignX": 0.5,
+      "alignY": 0.5,
+      "zoom": 100,
+      "rotate": 0
+    },
+    "p22-qba-logo-full-01": {
+      "x": 33.5,
+      "y": 785.8897637795277,
+      "w": 31,
+      "h": 31,
+      "alignX": 0.5,
+      "alignY": 0.5,
+      "zoom": 100,
+      "rotate": 0
+    },
+    "p22-royal-01": {
+      "x": 52,
+      "y": 410,
+      "w": 209,
+      "h": 188,
+      "alignX": 0.5,
+      "alignY": 0.5,
+      "zoom": 100,
+      "rotate": 0
+    },
+    "p22-qba-logo-full-02": {
+      "x": 33.5,
+      "y": 785.8897637795277,
+      "w": 31,
+      "h": 31,
+      "alignX": 0.5,
+      "alignY": 0.5,
+      "zoom": 100,
+      "rotate": 0
+    },
+    "p23-qba-logo-full-01": {
+      "x": 33.5,
+      "y": 785.8897637795277,
+      "w": 31,
+      "h": 31,
+      "alignX": 0.5,
+      "alignY": 0.5,
+      "zoom": 100,
+      "rotate": 0
+    },
+    "p23-etop-01": {
+      "x": 52,
+      "y": 410,
+      "w": 209,
+      "h": 188,
+      "alignX": 0.5,
+      "alignY": 0.5,
+      "zoom": 100,
+      "rotate": 0
+    },
+    "p23-qba-logo-full-02": {
+      "x": 33.5,
+      "y": 785.8897637795277,
+      "w": 31,
+      "h": 31,
+      "alignX": 0.5,
+      "alignY": 0.5,
+      "zoom": 100,
+      "rotate": 0
+    },
+    "p24-qba-logo-full-01": {
+      "x": 33.5,
+      "y": 785.8897637795277,
+      "w": 31,
+      "h": 31,
+      "alignX": 0.5,
+      "alignY": 0.5,
+      "zoom": 100,
+      "rotate": 0
+    },
+    "p24-twin-01": {
+      "x": 52,
+      "y": 410,
+      "w": 209,
+      "h": 188,
+      "alignX": 0.5,
+      "alignY": 0.5,
+      "zoom": 100,
+      "rotate": 0
+    },
+    "p24-qba-logo-full-02": {
+      "x": 33.5,
+      "y": 785.8897637795277,
+      "w": 31,
+      "h": 31,
+      "alignX": 0.5,
+      "alignY": 0.5,
+      "zoom": 100,
+      "rotate": 0
+    },
+    "p25-qba-logo-full-01": {
+      "x": 33.5,
+      "y": 785.8897637795277,
+      "w": 31,
+      "h": 31,
+      "alignX": 0.5,
+      "alignY": 0.5,
+      "zoom": 100,
+      "rotate": 0
+    },
+    "p25-bellinturf-01": {
+      "x": 52,
+      "y": 410,
+      "w": 209,
+      "h": 188,
+      "alignX": 0.5,
+      "alignY": 0.5,
+      "zoom": 100,
+      "rotate": 0
+    },
+    "p25-qba-logo-full-02": {
+      "x": 33.5,
+      "y": 785.8897637795277,
+      "w": 31,
+      "h": 31,
+      "alignX": 0.5,
+      "alignY": 0.5,
+      "zoom": 100,
+      "rotate": 0
+    },
+    "p26-qba-logo-full-01": {
+      "x": 33.5,
+      "y": 785.8897637795277,
+      "w": 31,
+      "h": 31,
+      "alignX": 0.5,
+      "alignY": 0.5,
+      "zoom": 100,
+      "rotate": 0
+    },
+    "p26-etop-01": {
+      "x": 50,
+      "y": 472,
+      "w": 134,
+      "h": 70,
+      "alignX": 0.5,
+      "alignY": 0.5,
+      "zoom": 100,
+      "rotate": 0
+    },
+    "p26-twin-01": {
+      "x": 227,
+      "y": 472,
+      "w": 134,
+      "h": 70,
+      "alignX": 0.5,
+      "alignY": 0.5,
+      "zoom": 100,
+      "rotate": 0
+    },
+    "p26-royal-01": {
+      "x": 404,
+      "y": 472,
+      "w": 134,
+      "h": 70,
+      "alignX": 0.5,
+      "alignY": 0.5,
+      "zoom": 100,
+      "rotate": 0
+    },
+    "p26-jys-01": {
+      "x": 50,
+      "y": 326,
+      "w": 134,
+      "h": 70,
+      "alignX": 0.5,
+      "alignY": 0.5,
+      "zoom": 100,
+      "rotate": 0
+    },
+    "p26-bellinturf-01": {
+      "x": 227,
+      "y": 326,
+      "w": 134,
+      "h": 70,
+      "alignX": 0.5,
+      "alignY": 0.5,
+      "zoom": 100,
+      "rotate": 0
+    },
+    "p26-jintian-01": {
+      "x": 404,
+      "y": 326,
+      "w": 134,
+      "h": 70,
+      "alignX": 0.5,
+      "alignY": 0.5,
+      "zoom": 100,
+      "rotate": 0
+    },
+    "p26-leow-01": {
+      "x": 50,
+      "y": 180,
+      "w": 134,
+      "h": 70,
+      "alignX": 0.5,
+      "alignY": 0.5,
+      "zoom": 100,
+      "rotate": 0
+    },
+    "p26-tahtong-01": {
+      "x": 227,
+      "y": 180,
+      "w": 134,
+      "h": 70,
+      "alignX": 0.5,
+      "alignY": 0.5,
+      "zoom": 100,
+      "rotate": 0
+    },
+    "p26-minhtri-01": {
+      "x": 404,
+      "y": 180,
+      "w": 134,
+      "h": 70,
+      "alignX": 0.5,
+      "alignY": 0.5,
+      "zoom": 100,
+      "rotate": 0
+    },
+    "p26-qba-logo-full-02": {
+      "x": 33.5,
+      "y": 785.8897637795277,
+      "w": 31,
+      "h": 31,
+      "alignX": 0.5,
+      "alignY": 0.5,
+      "zoom": 100,
+      "rotate": 0
+    },
+    "p27-qba-logo-full-01": {
+      "x": 33.5,
+      "y": 785.8897637795277,
+      "w": 31,
+      "h": 31,
+      "alignX": 0.5,
+      "alignY": 0.5,
+      "zoom": 100,
+      "rotate": 0
+    },
+    "p27-qba-logo-full-02": {
+      "x": 33.5,
+      "y": 785.8897637795277,
+      "w": 31,
+      "h": 31,
+      "alignX": 0.5,
+      "alignY": 0.5,
+      "zoom": 100,
+      "rotate": 0
+    },
+    "p28-qba-hero-natural-v2-01": {
+      "x": 0,
+      "y": 0,
+      "w": 595.2755905511812,
+      "h": 841.8897637795277,
+      "alignX": 0.5,
+      "alignY": 0.5,
+      "zoom": 100,
+      "rotate": 0
+    },
+    "p28-qba-logo-full-01": {
+      "x": 38,
+      "y": 750.8897637795277,
+      "w": 58,
+      "h": 58,
+      "alignX": 0.5,
+      "alignY": 0.5,
+      "zoom": 100,
+      "rotate": 0
+    }
+  },
+  "texts": {
+    "p01-text-001": {
+      "original": "QUỐC BÌNH AN",
+      "value": "QUỐC BÌNH AN"
+    },
+    "p01-text-002": {
+      "original": "INDUSTRIAL CATERING",
+      "value": "INDUSTRIAL CATERING"
+    },
+    "p01-text-008": {
+      "original": "SUẤT ĂN CÔNG NGHIỆP • BẾP TẠI CHỖ • CATERING",
+      "value": "SUẤT ĂN CÔNG NGHIỆP • BẾP TẠI CHỖ • CATERING"
+    },
+    "p01-text-009": {
+      "original": "CÔNG TY TNHH MỘT THÀNH VIÊN QUỐC BÌNH AN",
+      "value": "CÔNG TY TNHH MỘT THÀNH VIÊN QUỐC BÌNH AN"
+    },
+    "p02-text-001": {
+      "original": "QUỐC BÌNH AN CATERING",
+      "value": "QUỐC BÌNH AN CATERING"
+    },
+    "p02-text-002": {
+      "original": "LỜI NGỎ",
+      "value": "LỜI NGỎ"
+    },
+    "p02-text-003": {
+      "original": "HỒ SƠ NĂNG LỰC • BẢN NHÁP 01 • 07/2026",
+      "value": "HỒ SƠ NĂNG LỰC • BẢN NHÁP 01 • 07/2026"
+    },
+    "p02-text-004": {
+      "original": "02",
+      "value": "02"
+    },
+    "p02-text-005": {
+      "original": "Một bữa ăn<br/>đúng giờ bắt đầu<br/>từ trách nhiệm.",
+      "value": "Một bữa ăn<br/>đúng giờ bắt đầu<br/>từ trách nhiệm."
+    },
+    "p02-text-006": {
+      "original": "“Chúng tôi hiểu giá trị của một bữa cơm nóng, no bụng và hợp khẩu vị đối với người lao động sau mỗi giờ làm việc.”",
+      "value": "“Chúng tôi hiểu giá trị của một bữa cơm nóng, no bụng và hợp khẩu vị đối với người lao động sau mỗi giờ làm việc.”"
+    },
+    "p02-text-007": {
+      "original": "LỜI NGỎ",
+      "value": "LỜI NGỎ"
+    },
+    "p02-text-008": {
+      "original": "Kính gửi Quý Khách hàng<br/>và Đối tác,",
+      "value": "Kính gửi Quý Khách hàng<br/>và Đối tác,"
+    },
+    "p02-text-009": {
+      "original": "Quốc Bình An bắt đầu hành trình từ những khó khăn rất thật của người lao động và người làm nghề. Từ khoảng 600 suất ăn đầu tiên, chúng tôi chọn cách phát triển bằng sự lắng nghe: lắng nghe khẩu vị, nhịp sản xuất, yêu cầu an toàn và cả những phản hồi nhỏ nhất trong từng ca ăn.",
+      "value": "Quốc Bình An bắt đầu hành trình từ những khó khăn rất thật của người lao động và người làm nghề. Từ khoảng 600 suất ăn đầu tiên, chúng tôi chọn cách phát triển bằng sự lắng nghe: lắng nghe khẩu vị, nhịp sản xuất, yêu cầu an toàn và cả những phản hồi nhỏ nhất trong từng ca ăn."
+    },
+    "p02-text-010": {
+      "original": "Qua mỗi dự án, hệ thống bếp, thiết bị và cách tổ chức công việc tiếp tục được điều chỉnh. Mục tiêu không thay đổi: mang đến những bữa cơm chất lượng, nóng hổi và sẵn sàng đúng giờ.",
+      "value": "Qua mỗi dự án, hệ thống bếp, thiết bị và cách tổ chức công việc tiếp tục được điều chỉnh. Mục tiêu không thay đổi: mang đến những bữa cơm chất lượng, nóng hổi và sẵn sàng đúng giờ."
+    },
+    "p02-text-011": {
+      "original": "Quốc Bình An trân trọng cơ hội được đồng hành và chăm lo bữa ăn hằng ngày cho đội ngũ của Quý doanh nghiệp.",
+      "value": "Quốc Bình An trân trọng cơ hội được đồng hành và chăm lo bữa ăn hằng ngày cho đội ngũ của Quý doanh nghiệp."
+    },
+    "p02-text-012": {
+      "original": "NGUYỄN QUỐC CHINH",
+      "value": "NGUYỄN QUỐC CHINH"
+    },
+    "p02-text-013": {
+      "original": "Đồng sáng lập - Giám đốc",
+      "value": "Đồng sáng lập - Giám đốc"
+    },
+    "p02-text-014": {
+      "original": "TRẦN THỊ THANH THUỶ",
+      "value": "TRẦN THỊ THANH THUỶ"
+    },
+    "p02-text-015": {
+      "original": "Đồng sáng lập - Quản lý đầu vào",
+      "value": "Đồng sáng lập - Quản lý đầu vào"
+    },
+    "p02-text-016": {
+      "original": "Điều phối đội ngũ quản lý",
+      "value": "Huấn luyện đội ngũ bếp ăn và quản lí Quốc Bình An"
+    },
+    "p02-text-017": {
+      "original": "Họp ca, rà soát chứng từ và thống nhất nhịp vận hành trước phục vụ.",
+      "value": "Họp ca, rà soát chứng từ và thống nhất nhịp vận hành trước phục vụ."
+    },
+    "p02-text-018": {
+      "original": "QUỐC BÌNH AN CATERING",
+      "value": "QUỐC BÌNH AN CATERING"
+    },
+    "p02-text-019": {
+      "original": "LỜI NGỎ",
+      "value": "LỜI NGỎ"
+    },
+    "p02-text-020": {
+      "original": "HỒ SƠ NĂNG LỰC • BẢN NHÁP 01 • 07/2026",
+      "value": "HỒ SƠ NĂNG LỰC • BẢN NHÁP 01 • 07/2026"
+    },
+    "p02-text-021": {
+      "original": "02",
+      "value": "02"
+    },
+    "p03-text-001": {
+      "original": "QUỐC BÌNH AN CATERING",
+      "value": "QUỐC BÌNH AN CATERING"
+    },
+    "p03-text-002": {
+      "original": "QUỐC BÌNH AN TRONG MỘT TRANG",
+      "value": "QUỐC BÌNH AN TRONG MỘT TRANG"
+    },
+    "p03-text-003": {
+      "original": "HỒ SƠ NĂNG LỰC • BẢN NHÁP 01 • 07/2026",
+      "value": "HỒ SƠ NĂNG LỰC • BẢN NHÁP 01 • 07/2026"
+    },
+    "p03-text-004": {
+      "original": "03",
+      "value": "03"
+    },
+    "p03-text-005": {
+      "original": "01 / TỔNG QUAN",
+      "value": "01 / TỔNG QUAN"
+    },
+    "p03-text-006": {
+      "original": "20 năm vun bồi<br/><font color='#B8E59F'>một bữa cơm tử tế.</font>",
+      "value": "20 năm vun bồi<br/><font color='#B8E59F'>một bữa cơm tử tế.</font>"
+    },
+    "p03-text-007": {
+      "original": "Hoạt động thực tế từ năm 2006; đăng ký pháp lý từ năm 2011.",
+      "value": "Hoạt động thực tế từ năm 2006; đăng ký pháp lý từ năm 2011."
+    },
+    "p03-text-008": {
+      "original": "2006",
+      "value": "2006"
+    },
+    "p03-text-009": {
+      "original": "BẮT ĐẦU HÀNH TRÌNH",
+      "value": "BẮT ĐẦU HÀNH TRÌNH"
+    },
+    "p03-text-010": {
+      "original": "10",
+      "value": "10"
+    },
+    "p03-text-011": {
+      "original": "BẾP ĐANG VẬN HÀNH",
+      "value": "BẾP ĐANG VẬN HÀNH"
+    },
+    "p03-text-012": {
+      "original": "03",
+      "value": "03"
+    },
+    "p03-text-013": {
+      "original": "CA PHỤC VỤ MỖI NGÀY",
+      "value": "CA PHỤC VỤ MỖI NGÀY"
+    },
+    "p03-text-014": {
+      "original": "~100",
+      "value": "~100"
+    },
+    "p03-text-015": {
+      "original": "NHÂN SỰ",
+      "value": "NHÂN SỰ"
+    },
+    "p03-text-016": {
+      "original": "Quốc Bình An cung cấp suất ăn công nghiệp, vận hành bếp tại chỗ và tổ chức nấu tại bếp trung tâm - vận chuyển theo yêu cầu. Mỗi mô hình được điều chỉnh theo sản lượng, số ca, khẩu vị và điều kiện mặt bằng thực tế.",
+      "value": "Quốc Bình An cung cấp suất ăn công nghiệp, vận hành bếp tại chỗ và tổ chức nấu tại bếp trung tâm - vận chuyển theo yêu cầu. Mỗi mô hình được điều chỉnh theo sản lượng, số ca, khẩu vị và điều kiện mặt bằng thực tế."
+    },
+    "p03-text-017": {
+      "original": "DẤU MỐC CAO NHẤT ĐƯỢC DOANH NGHIỆP GHI NHẬN",
+      "value": "DẤU MỐC CAO NHẤT ĐƯỢC DOANH NGHIỆP GHI NHẬN"
+    },
+    "p03-text-018": {
+      "original": "17.000",
+      "value": "17.000"
+    },
+    "p03-text-019": {
+      "original": "suất ăn/ngày • năm 2019",
+      "value": "suất ăn/ngày • năm 2019"
+    },
+    "p03-text-020": {
+      "original": "QUỐC BÌNH AN CATERING",
+      "value": "QUỐC BÌNH AN CATERING"
+    },
+    "p03-text-021": {
+      "original": "QUỐC BÌNH AN TRONG MỘT TRANG",
+      "value": "QUỐC BÌNH AN TRONG MỘT TRANG"
+    },
+    "p03-text-022": {
+      "original": "HỒ SƠ NĂNG LỰC • BẢN NHÁP 01 • 07/2026",
+      "value": "HỒ SƠ NĂNG LỰC • BẢN NHÁP 01 • 07/2026"
+    },
+    "p03-text-023": {
+      "original": "03",
+      "value": "03"
+    },
+    "p04-text-001": {
+      "original": "QUỐC BÌNH AN CATERING",
+      "value": "QUỐC BÌNH AN CATERING"
+    },
+    "p04-text-002": {
+      "original": "CÂU CHUYỆN KHỞI NGHIỆP",
+      "value": "CÂU CHUYỆN KHỞI NGHIỆP"
+    },
+    "p04-text-003": {
+      "original": "HỒ SƠ NĂNG LỰC • BẢN NHÁP 01 • 07/2026",
+      "value": "HỒ SƠ NĂNG LỰC • BẢN NHÁP 01 • 07/2026"
+    },
+    "p04-text-004": {
+      "original": "04",
+      "value": "04"
+    },
+    "p04-text-005": {
+      "original": "02 / CÂU CHUYỆN",
+      "value": "02 / CÂU CHUYỆN"
+    },
+    "p04-text-006": {
+      "original": "Từ những khó khăn,<br/><font color='#F0835F'>hiểu giá trị bữa cơm nóng.</font>",
+      "value": "Từ những khó khăn,<br/><font color='#F0835F'>hiểu giá trị bữa cơm nóng.</font>"
+    },
+    "p04-text-007": {
+      "original": "Xuất thân từ những khó khăn, ông Nguyễn Quốc Chinh hiểu rằng một bữa cơm nóng và no bụng không chỉ tiếp sức cho người lao động. Đó còn là khoảng nghỉ cần thiết để họ trở lại ca làm việc với năng lượng tốt hơn.",
+      "value": "Xuất thân từ những khó khăn, ông Nguyễn Quốc Chinh hiểu rằng một bữa cơm nóng và no bụng không chỉ tiếp sức cho người lao động. Đó còn là khoảng nghỉ cần thiết để họ trở lại ca làm việc với năng lượng tốt hơn."
+    },
+    "p04-text-008": {
+      "original": "Cùng bà Trần Thị Thanh Thuỷ phụ trách đầu vào nguyên liệu, ông bắt đầu Quốc Bình An với tinh thần của người làm nghề: chọn thực phẩm tươi, nấu hợp khẩu vị và lắng nghe khách hàng để thay đổi mỗi ngày.",
+      "value": "Cùng bà Trần Thị Thanh Thuỷ phụ trách đầu vào nguyên liệu, ông bắt đầu Quốc Bình An với tinh thần của người làm nghề: chọn thực phẩm tươi, nấu hợp khẩu vị và lắng nghe khách hàng để thay đổi mỗi ngày."
+    },
+    "p04-text-009": {
+      "original": "Từ khoảng 600 suất ăn/ngày cho Royal Hoàng Gia, mỗi hợp đồng tiếp theo trở thành một hành trình cải tiến riêng - từ cách quản lý, thiết bị đến nhịp phối hợp với nhà máy.",
+      "value": "Từ khoảng 600 suất ăn/ngày cho Royal Hoàng Gia, mỗi hợp đồng tiếp theo trở thành một hành trình cải tiến riêng - từ cách quản lý, thiết bị đến nhịp phối hợp với nhà máy."
+    },
+    "p04-text-010": {
+      "original": "600 SUẤT ĂN/NGÀY KHI KHỞI ĐẦU",
+      "value": "600 SUẤT ĂN/NGÀY KHI KHỞI ĐẦU"
+    },
+    "p04-text-011": {
+      "original": "ẢNH TƯ LIỆU 2006-2010",
+      "value": "ẢNH TƯ LIỆU 2006-2010"
+    },
+    "p04-text-012": {
+      "original": "Nên bổ sung ảnh lịch sử",
+      "value": "Nên bổ sung ảnh lịch sử"
+    },
+    "p04-text-013": {
+      "original": "QUỐC BÌNH AN CATERING",
+      "value": "QUỐC BÌNH AN CATERING"
+    },
+    "p04-text-014": {
+      "original": "CÂU CHUYỆN KHỞI NGHIỆP",
+      "value": "CÂU CHUYỆN KHỞI NGHIỆP"
+    },
+    "p04-text-015": {
+      "original": "HỒ SƠ NĂNG LỰC • BẢN NHÁP 01 • 07/2026",
+      "value": "HỒ SƠ NĂNG LỰC • BẢN NHÁP 01 • 07/2026"
+    },
+    "p04-text-016": {
+      "original": "04",
+      "value": "04"
+    },
+    "p05-text-001": {
+      "original": "QUỐC BÌNH AN CATERING",
+      "value": "QUỐC BÌNH AN CATERING"
+    },
+    "p05-text-002": {
+      "original": "HÀNH TRÌNH PHÁT TRIỂN",
+      "value": "HÀNH TRÌNH PHÁT TRIỂN"
+    },
+    "p05-text-003": {
+      "original": "HỒ SƠ NĂNG LỰC • BẢN NHÁP 01 • 07/2026",
+      "value": "HỒ SƠ NĂNG LỰC • BẢN NHÁP 01 • 07/2026"
+    },
+    "p05-text-004": {
+      "original": "05",
+      "value": "05"
+    },
+    "p05-text-005": {
+      "original": "03 / DẤU MỐC",
+      "value": "03 / DẤU MỐC"
+    },
+    "p05-text-006": {
+      "original": "Lớn lên cùng<br/><font color='#F0835F'>niềm tin khách hàng.</font>",
+      "value": "Lớn lên cùng<br/><font color='#F0835F'>niềm tin khách hàng.</font>"
+    },
+    "p05-text-007": {
+      "original": "Các mốc dưới đây do doanh nghiệp cung cấp và sẽ được đối chiếu trước bản chính thức.",
+      "value": "Các mốc dưới đây do doanh nghiệp cung cấp và sẽ được đối chiếu trước bản chính thức."
+    },
+    "p05-text-008": {
+      "original": "2006",
+      "value": "2006"
+    },
+    "p05-text-009": {
+      "original": "600 suất/ngày",
+      "value": "600 suất/ngày"
+    },
+    "p05-text-010": {
+      "original": "Bắt đầu cùng Royal Hoàng Gia",
+      "value": "Bắt đầu cùng Royal Hoàng Gia"
+    },
+    "p05-text-011": {
+      "original": "2010",
+      "value": "2010"
+    },
+    "p05-text-012": {
+      "original": "3.000+ suất/ngày",
+      "value": "3.000+ suất/ngày"
+    },
+    "p05-text-013": {
+      "original": "Tiếp nhận dự án E-top",
+      "value": "Tiếp nhận dự án E-top"
+    },
+    "p05-text-014": {
+      "original": "2017",
+      "value": "2017"
+    },
+    "p05-text-015": {
+      "original": "10.000+ suất/ngày",
+      "value": "10.000+ suất/ngày"
+    },
+    "p05-text-016": {
+      "original": "Đạt dấu mốc vận hành mới",
+      "value": "Đạt dấu mốc vận hành mới"
+    },
+    "p05-text-017": {
+      "original": "2019",
+      "value": "2019"
+    },
+    "p05-text-018": {
+      "original": "17.000 suất/ngày",
+      "value": "17.000 suất/ngày"
+    },
+    "p05-text-019": {
+      "original": "Mức cao nhất được ghi nhận",
+      "value": "Mức cao nhất được ghi nhận"
+    },
+    "p05-text-020": {
+      "original": "2026",
+      "value": "2026"
+    },
+    "p05-text-021": {
+      "original": "10 bếp • 3 ca",
+      "value": "10 bếp • 3 ca và duy trì công suất 15000+ suất/ngày"
+    },
+    "p05-text-022": {
+      "original": "Duy trì 15.000+ suất một ngày",
+      "value": "Duy trì 15.000+ suất một ngày"
+    },
+    "p05-text-023": {
+      "original": "QUỐC BÌNH AN CATERING",
+      "value": "QUỐC BÌNH AN CATERING"
+    },
+    "p05-text-024": {
+      "original": "HÀNH TRÌNH PHÁT TRIỂN",
+      "value": "HÀNH TRÌNH PHÁT TRIỂN"
+    },
+    "p05-text-025": {
+      "original": "HỒ SƠ NĂNG LỰC • BẢN NHÁP 01 • 07/2026",
+      "value": "HỒ SƠ NĂNG LỰC • BẢN NHÁP 01 07/2026"
+    },
+    "p05-text-026": {
+      "original": "05",
+      "value": "05"
+    },
+    "p06-text-001": {
+      "original": "QUỐC BÌNH AN CATERING",
+      "value": "QUỐC BÌNH AN CATERING"
+    },
+    "p06-text-002": {
+      "original": "TẦM NHÌN - SỨ MỆNH - GIÁ TRỊ",
+      "value": "TẦM NHÌN - SỨ MỆNH - GIÁ TRỊ"
+    },
+    "p06-text-003": {
+      "original": "HỒ SƠ NĂNG LỰC • BẢN NHÁP 01 • 07/2026",
+      "value": "HỒ SƠ NĂNG LỰC • BẢN NHÁP 01 • 07/2026"
+    },
+    "p06-text-004": {
+      "original": "06",
+      "value": "06"
+    },
+    "p06-text-005": {
+      "original": "04 / ĐỊNH HƯỚNG",
+      "value": "04 / ĐỊNH HƯỚNG"
+    },
+    "p06-text-006": {
+      "original": "Chất lượng bắt đầu<br/><font color='#F0835F'>từ cách chúng tôi hành động.</font>",
+      "value": "Chất lượng bắt đầu<br><font color=\"#f0835f\">xuất phát từ tâm và cách chúng tôi hành động</font>"
+    },
+    "p06-text-007": {
+      "original": "TẦM NHÌN",
+      "value": "TẦM NHÌN"
+    },
+    "p06-text-008": {
+      "original": "Phát triển hệ thống suất ăn công nghiệp linh hoạt, thích nghi với nhịp sản xuất và nhu cầu ngày càng cao của doanh nghiệp.",
+      "value": "Phát triển hệ thống suất ăn công nghiệp linh hoạt, thích nghi với nhịp sản xuất và nhu cầu ngày càng cao của doanh nghiệp."
+    },
+    "p06-text-009": {
+      "original": "SỨ MỆNH",
+      "value": "SỨ MỆNH"
+    },
+    "p06-text-010": {
+      "original": "Mang đến những bữa cơm chất lượng, nóng hổi và được nấu bằng trách nhiệm của người làm nghề.",
+      "value": "Mang đến những bữa cơm chất lượng, nóng hổi và được nấu bằng trách nhiệm và tâm huyết của người làm nghề.<div><br></div>"
+    },
+    "p06-text-011": {
+      "original": "GIÁ TRỊ",
+      "value": "GIÁ TRỊ"
+    },
+    "p06-text-012": {
+      "original": "Lắng nghe • Trách nhiệm • Thích nghi • Đúng giờ",
+      "value": "Lắng nghe • Trách nhiệm • Thích nghi • Đúng giờ"
+    },
+    "p06-text-013": {
+      "original": "Nội dung định hướng đang ở bản dự thảo và cần Ban Giám đốc duyệt trước khi phát hành.",
+      "value": "<br>"
+    },
+    "p06-text-014": {
+      "original": "QUỐC BÌNH AN CATERING",
+      "value": "QUỐC BÌNH AN CATERING"
+    },
+    "p06-text-015": {
+      "original": "TẦM NHÌN - SỨ MỆNH - GIÁ TRỊ",
+      "value": "TẦM NHÌN - SỨ MỆNH - GIÁ TRỊ"
+    },
+    "p06-text-016": {
+      "original": "HỒ SƠ NĂNG LỰC • BẢN NHÁP 01 • 07/2026",
+      "value": "HỒ SƠ NĂNG LỰC • BẢN NHÁP 01 • 07/2026"
+    },
+    "p06-text-017": {
+      "original": "06",
+      "value": "06"
+    },
+    "p07-text-001": {
+      "original": "QUỐC BÌNH AN CATERING",
+      "value": "QUỐC BÌNH AN CATERING"
+    },
+    "p07-text-002": {
+      "original": "HỆ GIẢI PHÁP",
+      "value": "HỆ GIẢI PHÁP"
+    },
+    "p07-text-003": {
+      "original": "HỒ SƠ NĂNG LỰC • BẢN NHÁP 01 • 07/2026",
+      "value": "HỒ SƠ NĂNG LỰC • BẢN NHÁP 01 • 07/2026"
+    },
+    "p07-text-004": {
+      "original": "07",
+      "value": "07"
+    },
+    "p07-text-005": {
+      "original": "05 / DỊCH VỤ",
+      "value": "05 / DỊCH VỤ"
+    },
+    "p07-text-006": {
+      "original": "Một hệ giải pháp.<br/><font color='#FFD569'>Nhiều nhịp phục vụ.</font>",
+      "value": "Một hệ giải pháp.<br/><font color='#FFD569'>Nhiều nhịp phục vụ.</font>"
+    },
+    "p07-text-007": {
+      "original": "01",
+      "value": "01"
+    },
+    "p07-text-008": {
+      "original": "Suất ăn trưa",
+      "value": "Suất ăn trưa"
+    },
+    "p07-text-009": {
+      "original": "Linh hoạt theo sản lượng và điều kiện thực tế",
+      "value": "Linh hoạt theo sản lượng và điều kiện thực tế"
+    },
+    "p07-text-010": {
+      "original": "02",
+      "value": "02"
+    },
+    "p07-text-011": {
+      "original": "Suất ăn sáng",
+      "value": "Suất ăn sáng"
+    },
+    "p07-text-012": {
+      "original": "Linh hoạt theo sản lượng và điều kiện thực tế",
+      "value": "Linh hoạt theo sản lượng và điều kiện thực tế"
+    },
+    "p07-text-013": {
+      "original": "03",
+      "value": "03"
+    },
+    "p07-text-014": {
+      "original": "Suất ăn ca đêm",
+      "value": "Suất ăn ca đêm"
+    },
+    "p07-text-015": {
+      "original": "Linh hoạt theo sản lượng và điều kiện thực tế",
+      "value": "Linh hoạt theo sản lượng và điều kiện thực tế"
+    },
+    "p07-text-016": {
+      "original": "04",
+      "value": "04"
+    },
+    "p07-text-017": {
+      "original": "Thực đơn chay",
+      "value": "Thực đơn chay"
+    },
+    "p07-text-018": {
+      "original": "Linh hoạt theo sản lượng và điều kiện thực tế",
+      "value": "Linh hoạt theo sản lượng và điều kiện thực tế"
+    },
+    "p07-text-019": {
+      "original": "05",
+      "value": "05"
+    },
+    "p07-text-020": {
+      "original": "Tiệc & buffet",
+      "value": "Tiệc & buffet"
+    },
+    "p07-text-021": {
+      "original": "Linh hoạt theo sản lượng và điều kiện thực tế",
+      "value": "Linh hoạt theo sản lượng và điều kiện thực tế"
+    },
+    "p07-text-022": {
+      "original": "06",
+      "value": "06"
+    },
+    "p07-text-023": {
+      "original": "Bếp tại chỗ",
+      "value": "Bếp tại chỗ"
+    },
+    "p07-text-024": {
+      "original": "Linh hoạt theo sản lượng và điều kiện thực tế",
+      "value": "Linh hoạt theo sản lượng và điều kiện thực tế"
+    },
+    "p07-text-025": {
+      "original": "07",
+      "value": "07"
+    },
+    "p07-text-026": {
+      "original": "Bếp trung tâm & vận chuyển",
+      "value": "Bếp trung tâm & vận chuyển"
+    },
+    "p07-text-027": {
+      "original": "Linh hoạt theo sản lượng và điều kiện thực tế",
+      "value": "Linh hoạt theo sản lượng và điều kiện thực tế"
+    },
+    "p07-text-028": {
+      "original": "QUỐC BÌNH AN CATERING",
+      "value": "QUỐC BÌNH AN CATERING"
+    },
+    "p07-text-029": {
+      "original": "HỆ GIẢI PHÁP",
+      "value": "HỆ GIẢI PHÁP"
+    },
+    "p07-text-030": {
+      "original": "HỒ SƠ NĂNG LỰC • BẢN NHÁP 01 • 07/2026",
+      "value": "HỒ SƠ NĂNG LỰC • BẢN NHÁP 01 • 07/2026"
+    },
+    "p07-text-031": {
+      "original": "07",
+      "value": "07"
+    },
+    "p08-text-001": {
+      "original": "QUỐC BÌNH AN CATERING",
+      "value": "QUỐC BÌNH AN CATERING"
+    },
+    "p08-text-002": {
+      "original": "SUẤT ĂN CÔNG NGHIỆP",
+      "value": "SUẤT ĂN CÔNG NGHIỆP"
+    },
+    "p08-text-003": {
+      "original": "HỒ SƠ NĂNG LỰC • BẢN NHÁP 01 • 07/2026",
+      "value": "HỒ SƠ NĂNG LỰC • BẢN NHÁP 01 • 07/2026"
+    },
+    "p08-text-004": {
+      "original": "08",
+      "value": "08"
+    },
+    "p08-text-005": {
+      "original": "06 / GIẢI PHÁP CHỦ LỰC",
+      "value": "06 / GIẢI PHÁP CHỦ LỰC"
+    },
+    "p08-text-006": {
+      "original": "Đúng khẩu phần.<br/><font color='#F0835F'>Đúng ca. Đúng thời điểm.</font>",
+      "value": "Đúng khẩu phần.<br/><font color='#F0835F'>Đúng ca. Đúng thời điểm.</font>"
+    },
+    "p08-text-007": {
+      "original": "Quốc Bình An tổ chức bữa ăn theo số lượng, số ca và đặc thù công việc. Thực đơn được duyệt bởi Giám đốc Nguyễn Quốc Chinh và bà Trần Thị Thanh Thuỷ, đồng thời điều chỉnh theo phản hồi thực tế tại nhà ăn.",
+      "value": "Quốc Bình An tổ chức bữa ăn theo số lượng, số ca và đặc thù công việc. Thực đơn được duyệt bởi Giám đốc Nguyễn Quốc Chinh và bà Trần Thị Thanh Thuỷ, đồng thời điều chỉnh theo phản hồi thực tế tại nhà ăn."
+    },
+    "p08-text-008": {
+      "original": "Món chính, món phụ, rau, canh, cơm và tráng miệng",
+      "value": "Món chính, món phụ, rau, canh, cơm và tráng miệng"
+    },
+    "p08-text-009": {
+      "original": "Khẩu vị miền Nam, món Trung Hoa và Đài Loan",
+      "value": "Khẩu vị miền Nam, món Trung Hoa và Đài Loan"
+    },
+    "p08-text-010": {
+      "original": "Bếp tại chỗ hoặc nấu tập trung - vận chuyển",
+      "value": "Bếp tại chỗ hoặc nấu tập trung - vận chuyển"
+    },
+    "p08-text-011": {
+      "original": "Phục vụ 3 ca mỗi ngày",
+      "value": "Phục vụ 3 ca mỗi ngày"
+    },
+    "p08-text-012": {
+      "original": "SUẤT ĂN CHỦ LỰC",
+      "value": "SUẤT ĂN CHỦ LỰC"
+    },
+    "p08-text-013": {
+      "original": "Ảnh khẩu phần được căn chỉnh để thấy rõ món chính, rau, canh, trái cây và sữa.",
+      "value": "Ảnh khẩu phần được căn chỉnh để thấy rõ món chính, rau, canh, trái cây và sữa."
+    },
+    "p08-text-014": {
+      "original": "QUỐC BÌNH AN CATERING",
+      "value": "QUỐC BÌNH AN CATERING"
+    },
+    "p08-text-015": {
+      "original": "SUẤT ĂN CÔNG NGHIỆP",
+      "value": "SUẤT ĂN CÔNG NGHIỆP"
+    },
+    "p08-text-016": {
+      "original": "HỒ SƠ NĂNG LỰC • BẢN NHÁP 01 • 07/2026",
+      "value": "HỒ SƠ NĂNG LỰC • BẢN NHÁP 01 • 07/2026"
+    },
+    "p08-text-017": {
+      "original": "08",
+      "value": "08"
+    },
+    "p09-text-001": {
+      "original": "QUỐC BÌNH AN CATERING",
+      "value": "QUỐC BÌNH AN CATERING"
+    },
+    "p09-text-002": {
+      "original": "DỊCH VỤ LINH HOẠT",
+      "value": "DỊCH VỤ LINH HOẠT"
+    },
+    "p09-text-003": {
+      "original": "HỒ SƠ NĂNG LỰC • BẢN NHÁP 01 • 07/2026",
+      "value": "HỒ SƠ NĂNG LỰC • BẢN NHÁP 01 • 07/2026"
+    },
+    "p09-text-004": {
+      "original": "09",
+      "value": "09"
+    },
+    "p09-text-005": {
+      "original": "07 / DỊCH VỤ BỔ SUNG",
+      "value": "07 / DỊCH VỤ BỔ SUNG"
+    },
+    "p09-text-006": {
+      "original": "Từ ca đêm<br/><font color='#F0835F'>đến những dịp đặc biệt.</font>",
+      "value": "Từ ca đêm<br/><font color='#F0835F'>đến những dịp đặc biệt.</font>"
+    },
+    "p09-text-007": {
+      "original": "Nhà ăn đông ca",
+      "value": "Nhà ăn đông ca"
+    },
+    "p09-text-008": {
+      "original": "Phục vụ số lượng lớn theo nhịp sản xuất thực tế",
+      "value": "Phục vụ số lượng lớn theo nhịp sản xuất thực tế"
+    },
+    "p09-text-009": {
+      "original": "Thực đơn theo ca",
+      "value": "Thực đơn theo ca"
+    },
+    "p09-text-010": {
+      "original": "Canh, rau và món mặn được đổi theo thực tế",
+      "value": "Canh, rau và món mặn được đổi theo thực tế"
+    },
+    "p09-text-011": {
+      "original": "Suất chuyên gia",
+      "value": "Suất chuyên gia"
+    },
+    "p09-text-012": {
+      "original": "Linh hoạt về món, định lượng và cách trình bày",
+      "value": "Linh hoạt về món, định lượng và cách trình bày"
+    },
+    "p09-text-013": {
+      "original": "Ảnh minh họa được căn chỉnh để thấy rõ bối cảnh phục vụ và cơ cấu khẩu phần.",
+      "value": "Ảnh minh họa được căn chỉnh để thấy rõ bối cảnh phục vụ và cơ cấu khẩu phần."
+    },
+    "p09-text-014": {
+      "original": "QUỐC BÌNH AN CATERING",
+      "value": "QUỐC BÌNH AN CATERING"
+    },
+    "p09-text-015": {
+      "original": "DỊCH VỤ LINH HOẠT",
+      "value": "DỊCH VỤ LINH HOẠT"
+    },
+    "p09-text-016": {
+      "original": "HỒ SƠ NĂNG LỰC • BẢN NHÁP 01 • 07/2026",
+      "value": "HỒ SƠ NĂNG LỰC • BẢN NHÁP 01 • 07/2026"
+    },
+    "p09-text-017": {
+      "original": "09",
+      "value": "09"
+    },
+    "p10-text-001": {
+      "original": "QUỐC BÌNH AN CATERING",
+      "value": "QUỐC BÌNH AN CATERING"
+    },
+    "p10-text-002": {
+      "original": "NĂNG LỰC VẬN HÀNH",
+      "value": "NĂNG LỰC VẬN HÀNH"
+    },
+    "p10-text-003": {
+      "original": "HỒ SƠ NĂNG LỰC • BẢN NHÁP 01 • 07/2026",
+      "value": "HỒ SƠ NĂNG LỰC • BẢN NHÁP 01 • 07/2026"
+    },
+    "p10-text-004": {
+      "original": "10",
+      "value": "10"
+    },
+    "p10-text-005": {
+      "original": "08 / NĂNG LỰC",
+      "value": "08 / NĂNG LỰC"
+    },
+    "p10-text-006": {
+      "original": "Sẵn sàng cho<br/><font color='#B8E59F'>mỗi nhịp sản xuất.</font>",
+      "value": "Sẵn sàng cho<br/><font color='#B8E59F'>mỗi nhịp sản xuất.</font>"
+    },
+    "p10-text-007": {
+      "original": "10",
+      "value": "10"
+    },
+    "p10-text-008": {
+      "original": "BẾP",
+      "value": "BẾP"
+    },
+    "p10-text-009": {
+      "original": "03",
+      "value": "03"
+    },
+    "p10-text-010": {
+      "original": "CA/NGÀY",
+      "value": "CA/NGÀY"
+    },
+    "p10-text-011": {
+      "original": "~100",
+      "value": "~100"
+    },
+    "p10-text-012": {
+      "original": "NHÂN SỰ",
+      "value": "NHÂN SỰ"
+    },
+    "p10-text-013": {
+      "original": "60 km",
+      "value": "60 km"
+    },
+    "p10-text-014": {
+      "original": "BÁN KÍNH VẬN CHUYỂN",
+      "value": "BÁN KÍNH VẬN CHUYỂN"
+    },
+    "p10-text-015": {
+      "original": "17.000",
+      "value": "17.000"
+    },
+    "p10-text-016": {
+      "original": "suất ăn/ngày",
+      "value": "suất ăn/ngày"
+    },
+    "p10-text-017": {
+      "original": "Dấu mốc cao nhất được ghi nhận năm 2019",
+      "value": "Dấu mốc cao nhất được ghi nhận năm 2019"
+    },
+    "p10-text-018": {
+      "original": "Số liệu trên do doanh nghiệp cung cấp. Bản chính thức cần đối chiếu công suất hiện tại, công suất thiết kế và sản lượng bình quân.",
+      "value": "Số liệu trên do doanh nghiệp cung cấp. Bản chính thức cần đối chiếu công suất hiện tại, công suất thiết kế và sản lượng bình quân."
+    },
+    "p10-text-019": {
+      "original": "QUỐC BÌNH AN CATERING",
+      "value": "QUỐC BÌNH AN CATERING"
+    },
+    "p10-text-020": {
+      "original": "NĂNG LỰC VẬN HÀNH",
+      "value": "NĂNG LỰC VẬN HÀNH"
+    },
+    "p10-text-021": {
+      "original": "HỒ SƠ NĂNG LỰC • BẢN NHÁP 01 • 07/2026",
+      "value": "HỒ SƠ NĂNG LỰC • BẢN NHÁP 01 • 07/2026"
+    },
+    "p10-text-022": {
+      "original": "10",
+      "value": "10"
+    },
+    "p11-text-001": {
+      "original": "QUỐC BÌNH AN CATERING",
+      "value": "QUỐC BÌNH AN CATERING"
+    },
+    "p11-text-002": {
+      "original": "CON NGƯỜI VẬN HÀNH",
+      "value": "CON NGƯỜI VẬN HÀNH"
+    },
+    "p11-text-003": {
+      "original": "HỒ SƠ NĂNG LỰC • BẢN NHÁP 01 • 07/2026",
+      "value": "HỒ SƠ NĂNG LỰC • BẢN NHÁP 01 • 07/2026"
+    },
+    "p11-text-004": {
+      "original": "11",
+      "value": "11"
+    },
+    "p11-text-005": {
+      "original": "09 / ĐỘI NGŨ",
+      "value": "09 / ĐỘI NGŨ"
+    },
+    "p11-text-006": {
+      "original": "Kinh nghiệm được tổ chức<br/><font color='#F0835F'>thành trách nhiệm rõ ràng.</font>",
+      "value": "Kinh nghiệm được tổ chức<br/><font color='#F0835F'>thành trách nhiệm rõ ràng.</font>"
+    },
+    "p11-text-007": {
+      "original": "Phối hợp theo công đoạn",
+      "value": "Phối hợp theo công đoạn"
+    },
+    "p11-text-008": {
+      "original": "Tổ nấu, sơ chế và chia suất vận hành đồng bộ trong cùng một nhịp ca.",
+      "value": "Tổ nấu, sơ chế và chia suất vận hành đồng bộ trong cùng một nhịp ca."
+    },
+    "p11-text-009": {
+      "original": "Rau xanh tách khu",
+      "value": "Rau xanh tách khu"
+    },
+    "p11-text-010": {
+      "original": "Sơ chế, lựa rửa và hoàn thiện tại khu riêng.",
+      "value": "Sơ chế, lựa rửa và hoàn thiện tại khu riêng."
+    },
+    "p11-text-011": {
+      "original": "Thực phẩm sống tách biệt",
+      "value": "Thực phẩm sống tách biệt"
+    },
+    "p11-text-012": {
+      "original": "Khu đồ sống và rau xanh bố trí riêng.",
+      "value": "Khu đồ sống và rau xanh bố trí riêng."
+    },
+    "p11-text-013": {
+      "original": "Đội ngũ vận hành tuân thủ đồng phục đầy đủ gồm áo, tạp dề, mũ trùm tóc, khẩu trang và bao tay trong suốt ca làm việc. Việc phân tách khu chế biến thực phẩm sống, rau xanh và bếp nóng giúp nhà ăn duy trì tính một chiều, kiểm soát tốt VSATTP và giữ nhịp ra món ổn định.",
+      "value": "Đội ngũ vận hành tuân thủ đồng phục đầy đủ gồm áo, tạp dề, mũ trùm tóc, khẩu trang và bao tay trong suốt ca làm việc. Việc phân tách khu chế biến thực phẩm sống, rau xanh và bếp nóng giúp nhà ăn duy trì tính một chiều, kiểm soát tốt VSATTP và giữ nhịp ra món ổn định."
+    },
+    "p11-text-014": {
+      "original": "Đồng phục đầy đủ",
+      "value": "Đồng phục đầy đủ"
+    },
+    "p11-text-015": {
+      "original": "Mũ trùm, khẩu trang, tạp dề và bao tay là yêu cầu bắt buộc.",
+      "value": "Mũ trùm, khẩu trang, tạp dề và bao tay là yêu cầu bắt buộc."
+    },
+    "p11-text-016": {
+      "original": "Phân khu rõ ràng",
+      "value": "Phân khu rõ ràng"
+    },
+    "p11-text-017": {
+      "original": "Khu đồ sống, khu rau xanh và khu bếp nóng được tổ chức tách tuyến.",
+      "value": "Khu đồ sống, khu rau xanh và khu bếp nóng được tổ chức tách tuyến."
+    },
+    "p11-text-018": {
+      "original": "Sẵn sàng theo ca",
+      "value": "Sẵn sàng theo ca"
+    },
+    "p11-text-019": {
+      "original": "Nhịp phối hợp giữa sơ chế, nấu và chia suất bám sát giờ phục vụ.",
+      "value": "Nhịp phối hợp giữa sơ chế, nấu và chia suất bám sát giờ phục vụ."
+    },
+    "p11-text-020": {
+      "original": "QUỐC BÌNH AN CATERING",
+      "value": "QUỐC BÌNH AN CATERING"
+    },
+    "p11-text-021": {
+      "original": "CON NGƯỜI VẬN HÀNH",
+      "value": "CON NGƯỜI VẬN HÀNH"
+    },
+    "p11-text-022": {
+      "original": "HỒ SƠ NĂNG LỰC • BẢN NHÁP 01 • 07/2026",
+      "value": "HỒ SƠ NĂNG LỰC • BẢN NHÁP 01 • 07/2026"
+    },
+    "p11-text-023": {
+      "original": "11",
+      "value": "11"
+    },
+    "p12-text-001": {
+      "original": "QUỐC BÌNH AN CATERING",
+      "value": "QUỐC BÌNH AN CATERING"
+    },
+    "p12-text-002": {
+      "original": "QUY TRÌNH TỔ CHỨC NHÀ ĂN",
+      "value": "QUY TRÌNH TỔ CHỨC NHÀ ĂN"
+    },
+    "p12-text-003": {
+      "original": "HỒ SƠ NĂNG LỰC • BẢN NHÁP 01 • 07/2026",
+      "value": "HỒ SƠ NĂNG LỰC • BẢN NHÁP 01 • 07/2026"
+    },
+    "p12-text-004": {
+      "original": "12",
+      "value": "12"
+    },
+    "p12-text-005": {
+      "original": "10 / QUY TRÌNH",
+      "value": "10 / QUY TRÌNH"
+    },
+    "p12-text-006": {
+      "original": "Tổ chức vận hành<br/><font color='#F0835F'>bếp ăn một chiều.</font>",
+      "value": "Tổ chức vận hành<br/><font color='#F0835F'>bếp ăn một chiều.</font>"
+    },
+    "p12-text-007": {
+      "original": "Ban giám đốc",
+      "value": "Ban giám đốc"
+    },
+    "p12-text-008": {
+      "original": "Phòng sản xuất",
+      "value": "Phòng sản xuất"
+    },
+    "p12-text-009": {
+      "original": "Phòng thu mua",
+      "value": "Phòng thu mua"
+    },
+    "p12-text-010": {
+      "original": "Quản lý cơ sở",
+      "value": "Quản lý cơ sở"
+    },
+    "p12-text-011": {
+      "original": "Kho công ty",
+      "value": "Kho công ty"
+    },
+    "p12-text-012": {
+      "original": "Bếp trưởng",
+      "value": "Bếp trưởng"
+    },
+    "p12-text-013": {
+      "original": "Bếp chính<br/>Quản lý C1",
+      "value": "Bếp chính<br/>Quản lý C1"
+    },
+    "p12-text-014": {
+      "original": "Bếp chính<br/>Quản lý C2",
+      "value": "Bếp chính<br/>Quản lý C2"
+    },
+    "p12-text-015": {
+      "original": "Bếp chính<br/>Quản lý C3",
+      "value": "Bếp chính<br/>Quản lý C3"
+    },
+    "p12-text-016": {
+      "original": "Tổ thức ăn chính",
+      "value": "Tổ thức ăn chính"
+    },
+    "p12-text-017": {
+      "original": "Nhận hàng<br/>thực phẩm",
+      "value": "Nhận hàng<br/>thực phẩm"
+    },
+    "p12-text-018": {
+      "original": "Rửa & sơ chế",
+      "value": "Rửa & sơ chế"
+    },
+    "p12-text-019": {
+      "original": "Chế biến",
+      "value": "Chế biến"
+    },
+    "p12-text-020": {
+      "original": "Tổ rau xanh",
+      "value": "Tổ rau xanh"
+    },
+    "p12-text-021": {
+      "original": "Nhận hàng<br/>rau củ",
+      "value": "Nhận hàng<br/>rau củ"
+    },
+    "p12-text-022": {
+      "original": "Rửa, lựa<br/>rau xanh",
+      "value": "Rửa, lựa<br/>rau xanh"
+    },
+    "p12-text-023": {
+      "original": "Hoàn thiện<br/>món phụ",
+      "value": "Hoàn thiện<br/>món phụ"
+    },
+    "p12-text-024": {
+      "original": "Tổ cơm & chia suất",
+      "value": "Tổ cơm & chia suất"
+    },
+    "p12-text-025": {
+      "original": "Nhận số lượng<br/>gạo",
+      "value": "Nhận số lượng<br/>gạo"
+    },
+    "p12-text-026": {
+      "original": "Nấu cơm",
+      "value": "Nấu cơm"
+    },
+    "p12-text-027": {
+      "original": "Kiểm tra &<br/>ra khay",
+      "value": "Kiểm tra &<br/>ra khay"
+    },
+    "p12-text-028": {
+      "original": "Tổ vệ sinh",
+      "value": "Tổ vệ sinh"
+    },
+    "p12-text-029": {
+      "original": "Vệ sinh<br/>trong bếp",
+      "value": "Vệ sinh<br/>trong bếp"
+    },
+    "p12-text-030": {
+      "original": "Khử khuẩn<br/>dụng cụ",
+      "value": "Khử khuẩn<br/>dụng cụ"
+    },
+    "p12-text-031": {
+      "original": "Hoàn tất<br/>cuối ca",
+      "value": "Hoàn tất<br/>cuối ca"
+    },
+    "p12-text-032": {
+      "original": "PHỤC VỤ KHÁCH HÀNG ĐÚNG GIỜ, ĐÚNG ĐỊNH LƯỢNG VÀ ĐẢM BẢO VSATTP",
+      "value": "PHỤC VỤ KHÁCH HÀNG ĐÚNG GIỜ, ĐÚNG ĐỊNH LƯỢNG VÀ ĐẢM BẢO VSATTP"
+    },
+    "p12-text-033": {
+      "original": "QUỐC BÌNH AN CATERING",
+      "value": "QUỐC BÌNH AN CATERING"
+    },
+    "p12-text-034": {
+      "original": "QUY TRÌNH TỔ CHỨC NHÀ ĂN",
+      "value": "QUY TRÌNH TỔ CHỨC NHÀ ĂN"
+    },
+    "p12-text-035": {
+      "original": "HỒ SƠ NĂNG LỰC • BẢN NHÁP 01 • 07/2026",
+      "value": "HỒ SƠ NĂNG LỰC • BẢN NHÁP 01 • 07/2026"
+    },
+    "p12-text-036": {
+      "original": "12",
+      "value": "12"
+    },
+    "p13-text-001": {
+      "original": "QUỐC BÌNH AN CATERING",
+      "value": "QUỐC BÌNH AN CATERING"
+    },
+    "p13-text-002": {
+      "original": "QUY TRÌNH KIỂM NHẬN VÀ CHẾ BIẾN",
+      "value": "QUY TRÌNH KIỂM NHẬN VÀ CHẾ BIẾN"
+    },
+    "p13-text-003": {
+      "original": "HỒ SƠ NĂNG LỰC • BẢN NHÁP 01 • 07/2026",
+      "value": "HỒ SƠ NĂNG LỰC • BẢN NHÁP 01 • 07/2026"
+    },
+    "p13-text-004": {
+      "original": "13",
+      "value": "13"
+    },
+    "p13-text-005": {
+      "original": "10 / QUY TRÌNH",
+      "value": "10 / QUY TRÌNH"
+    },
+    "p13-text-006": {
+      "original": "Chuỗi kiểm soát đầu vào<br/><font color='#F0835F'>đến lưu mẫu sau phục vụ.</font>",
+      "value": "Chuỗi kiểm soát đầu vào<br/><font color='#F0835F'>đến lưu mẫu sau phục vụ.</font>"
+    },
+    "p13-text-007": {
+      "original": "Ban giám đốc",
+      "value": "Ban giám đốc"
+    },
+    "p13-text-008": {
+      "original": "Phòng sản xuất",
+      "value": "Phòng sản xuất"
+    },
+    "p13-text-009": {
+      "original": "Thực đơn",
+      "value": "Thực đơn"
+    },
+    "p13-text-010": {
+      "original": "Kế hoạch đặt hàng",
+      "value": "Kế hoạch đặt hàng"
+    },
+    "p13-text-011": {
+      "original": "Nhà cung cấp 1",
+      "value": "Nhà cung cấp 1"
+    },
+    "p13-text-012": {
+      "original": "Nhà cung cấp 2",
+      "value": "Nhà cung cấp 2"
+    },
+    "p13-text-013": {
+      "original": "Nhà cung cấp 3",
+      "value": "Nhà cung cấp 3"
+    },
+    "p13-text-014": {
+      "original": "Kiểm tra cảm quan<br/>và ký nhận giao nhận",
+      "value": "Kiểm tra cảm quan<br/>và ký nhận giao nhận"
+    },
+    "p13-text-015": {
+      "original": "Nhập kho<br/>sản xuất",
+      "value": "Nhập kho<br/>sản xuất"
+    },
+    "p13-text-016": {
+      "original": "Trả NCC nếu<br/>không đạt",
+      "value": "Trả NCC nếu<br/>không đạt"
+    },
+    "p13-text-017": {
+      "original": "Sơ chế, chế biến thực phẩm",
+      "value": "Sơ chế, chế biến thực phẩm"
+    },
+    "p13-text-018": {
+      "original": "Chia suất - giao ca",
+      "value": "Chia suất - giao ca"
+    },
+    "p13-text-019": {
+      "original": "Lưu mẫu - vệ sinh - phục vụ",
+      "value": "Lưu mẫu - vệ sinh - phục vụ"
+    },
+    "p13-text-020": {
+      "original": "Nguyên liệu vào bếp",
+      "value": "Nguyên liệu vào bếp"
+    },
+    "p13-text-021": {
+      "original": "Tập kết theo kế hoạch đặt hàng và số lượng ca ăn.",
+      "value": "Tập kết theo kế hoạch đặt hàng và số lượng ca ăn."
+    },
+    "p13-text-022": {
+      "original": "Ký nhận giao nhận",
+      "value": "Ký nhận giao nhận"
+    },
+    "p13-text-023": {
+      "original": "Quản lý nhà ăn đối chiếu chứng từ, số lượng và tình trạng hàng hóa trước khi nhập bếp.",
+      "value": "Quản lý nhà ăn đối chiếu chứng từ, số lượng và tình trạng hàng hóa trước khi nhập bếp."
+    },
+    "p13-text-024": {
+      "original": "Kệ rau củ",
+      "value": "Kệ rau củ"
+    },
+    "p13-text-025": {
+      "original": "Bảo quản theo nhóm.",
+      "value": "Bảo quản theo nhóm."
+    },
+    "p13-text-026": {
+      "original": "Kiểm tra cảm quan",
+      "value": "Kiểm tra cảm quan"
+    },
+    "p13-text-027": {
+      "original": "Sơ chế đúng khu chức năng.",
+      "value": "Sơ chế đúng khu chức năng."
+    },
+    "p13-text-028": {
+      "original": "QUỐC BÌNH AN CATERING",
+      "value": "QUỐC BÌNH AN CATERING"
+    },
+    "p13-text-029": {
+      "original": "QUY TRÌNH KIỂM NHẬN VÀ CHẾ BIẾN",
+      "value": "QUY TRÌNH KIỂM NHẬN VÀ CHẾ BIẾN"
+    },
+    "p13-text-030": {
+      "original": "HỒ SƠ NĂNG LỰC • BẢN NHÁP 01 • 07/2026",
+      "value": "HỒ SƠ NĂNG LỰC • BẢN NHÁP 01 • 07/2026"
+    },
+    "p13-text-031": {
+      "original": "13",
+      "value": "13"
+    },
+    "p14-text-001": {
+      "original": "QUỐC BÌNH AN CATERING",
+      "value": "QUỐC BÌNH AN CATERING"
+    },
+    "p14-text-002": {
+      "original": "CHỨNG NHẬN AN TOÀN THỰC PHẨM",
+      "value": "CHỨNG NHẬN AN TOÀN THỰC PHẨM"
+    },
+    "p14-text-003": {
+      "original": "HỒ SƠ NĂNG LỰC • BẢN NHÁP 01 • 07/2026",
+      "value": "HỒ SƠ NĂNG LỰC • BẢN NHÁP 01 • 07/2026"
+    },
+    "p14-text-004": {
+      "original": "14",
+      "value": "14"
+    },
+    "p14-text-005": {
+      "original": "11 / TUÂN THỦ",
+      "value": "11 / TUÂN THỦ"
+    },
+    "p14-text-006": {
+      "original": "An toàn thực phẩm.<br/><font color='#F0835F'>Hồ sơ còn hiệu lực.</font>",
+      "value": "An toàn thực phẩm.<br/><font color='#F0835F'>Hồ sơ còn hiệu lực.</font>"
+    },
+    "p14-text-007": {
+      "original": "0298/2024",
+      "value": "0298/2024"
+    },
+    "p14-text-008": {
+      "original": "SỐ CHỨNG NHẬN",
+      "value": "SỐ CHỨNG NHẬN"
+    },
+    "p14-text-009": {
+      "original": "04/2027",
+      "value": "04/2027"
+    },
+    "p14-text-010": {
+      "original": "GIÁ TRỊ ĐẾN",
+      "value": "GIÁ TRỊ ĐẾN"
+    },
+    "p14-text-011": {
+      "original": "Bếp tập thể",
+      "value": "Bếp tập thể"
+    },
+    "p14-text-012": {
+      "original": "LOẠI HÌNH",
+      "value": "LOẠI HÌNH"
+    },
+    "p14-text-013": {
+      "original": "Cấp cho địa điểm kinh doanh số 02 tại KCN Mỹ Xuân B1 - Tiến Hùng. Bản chính thức sẽ giữ nguyên hình ảnh giấy chứng nhận và thông tin trên văn bản.",
+      "value": "Cấp cho địa điểm kinh doanh số 02 tại KCN Mỹ Xuân B1 - Tiến Hùng. Bản chính thức sẽ giữ nguyên hình ảnh giấy chứng nhận và thông tin trên văn bản."
+    },
+    "p14-text-014": {
+      "original": "QUỐC BÌNH AN CATERING",
+      "value": "QUỐC BÌNH AN CATERING"
+    },
+    "p14-text-015": {
+      "original": "CHỨNG NHẬN AN TOÀN THỰC PHẨM",
+      "value": "CHỨNG NHẬN AN TOÀN THỰC PHẨM"
+    },
+    "p14-text-016": {
+      "original": "HỒ SƠ NĂNG LỰC • BẢN NHÁP 01 • 07/2026",
+      "value": "HỒ SƠ NĂNG LỰC • BẢN NHÁP 01 • 07/2026"
+    },
+    "p14-text-017": {
+      "original": "14",
+      "value": "14"
+    },
+    "p15-text-001": {
+      "original": "QUỐC BÌNH AN CATERING",
+      "value": "QUỐC BÌNH AN CATERING"
+    },
+    "p15-text-002": {
+      "original": "ĐÀO TẠO VÀ AN TOÀN LAO ĐỘNG",
+      "value": "ĐÀO TẠO VÀ AN TOÀN LAO ĐỘNG"
+    },
+    "p15-text-003": {
+      "original": "HỒ SƠ NĂNG LỰC • BẢN NHÁP 01 • 07/2026",
+      "value": "HỒ SƠ NĂNG LỰC • BẢN NHÁP 01 • 07/2026"
+    },
+    "p15-text-004": {
+      "original": "15",
+      "value": "15"
+    },
+    "p15-text-005": {
+      "original": "12 / CON NGƯỜI",
+      "value": "12 / CON NGƯỜI"
+    },
+    "p15-text-006": {
+      "original": "Đào tạo định kỳ.<br/><font color='#317A58'>Kỷ luật từ ca làm việc.</font>",
+      "value": "Đào tạo định kỳ.<br/><font color='#317A58'>Kỷ luật từ ca làm việc.</font>"
+    },
+    "p15-text-007": {
+      "original": "23",
+      "value": "23"
+    },
+    "p15-text-008": {
+      "original": "NHÂN SỰ TẬP HUẤN ATTP",
+      "value": "NHÂN SỰ TẬP HUẤN ATTP"
+    },
+    "p15-text-009": {
+      "original": "01/11/2025",
+      "value": "01/11/2025"
+    },
+    "p15-text-010": {
+      "original": "NGÀY TẬP HUẤN",
+      "value": "NGÀY TẬP HUẤN"
+    },
+    "p15-text-011": {
+      "original": "09 thẻ",
+      "value": "09 thẻ"
+    },
+    "p15-text-012": {
+      "original": "AN TOÀN LAO ĐỘNG",
+      "value": "AN TOÀN LAO ĐỘNG"
+    },
+    "p15-text-013": {
+      "original": "Bản website đã ẩn thông tin định danh; bản gốc lưu riêng cho dự thầu và thẩm định.",
+      "value": "Bản website đã ẩn thông tin định danh; bản gốc lưu riêng cho dự thầu và thẩm định."
+    },
+    "p15-text-014": {
+      "original": "QUỐC BÌNH AN CATERING",
+      "value": "QUỐC BÌNH AN CATERING"
+    },
+    "p15-text-015": {
+      "original": "ĐÀO TẠO VÀ AN TOÀN LAO ĐỘNG",
+      "value": "ĐÀO TẠO VÀ AN TOÀN LAO ĐỘNG"
+    },
+    "p15-text-016": {
+      "original": "HỒ SƠ NĂNG LỰC • BẢN NHÁP 01 • 07/2026",
+      "value": "HỒ SƠ NĂNG LỰC • BẢN NHÁP 01 • 07/2026"
+    },
+    "p15-text-017": {
+      "original": "15",
+      "value": "15"
+    },
+    "p16-text-001": {
+      "original": "QUỐC BÌNH AN CATERING",
+      "value": "QUỐC BÌNH AN CATERING"
+    },
+    "p16-text-002": {
+      "original": "CHỨNG NHẬN ISO 22000",
+      "value": "CHỨNG NHẬN ISO 22000"
+    },
+    "p16-text-003": {
+      "original": "HỒ SƠ NĂNG LỰC • BẢN NHÁP 01 • 07/2026",
+      "value": "HỒ SƠ NĂNG LỰC • BẢN NHÁP 01 • 07/2026"
+    },
+    "p16-text-004": {
+      "original": "16",
+      "value": "16"
+    },
+    "p16-text-005": {
+      "original": "13 / ISO",
+      "value": "13 / ISO"
+    },
+    "p16-text-006": {
+      "original": "ISO 22000:2018<br/><font color='#F0835F'>và năng lực nhận thức.</font>",
+      "value": "ISO 22000:2018<br/><font color='#F0835F'>và năng lực nhận thức.</font>"
+    },
+    "p16-text-007": {
+      "original": "Tài liệu được đưa vào hồ sơ chứng từ; bản hệ thống cần bổ sung chứng nhận gia hạn trước khi công bố là còn hiệu lực.",
+      "value": "Tài liệu được đưa vào hồ sơ chứng từ; bản hệ thống cần bổ sung chứng nhận gia hạn trước khi công bố là còn hiệu lực."
+    },
+    "p16-text-008": {
+      "original": "ISO",
+      "value": "ISO"
+    },
+    "p16-text-009": {
+      "original": "22000:2018",
+      "value": "22000:2018"
+    },
+    "p16-text-010": {
+      "original": "10/01/2026",
+      "value": "10/01/2026"
+    },
+    "p16-text-011": {
+      "original": "CẦN BẢN GIA HẠN",
+      "value": "CẦN BẢN GIA HẠN"
+    },
+    "p16-text-012": {
+      "original": "Chứng nhận hệ thống ISO 22000:2018 của Quốc Bình An thể hiện phạm vi chế biến và cung cấp suất ăn công nghiệp. Vì thời hạn trên giấy đã kết thúc ngày 10/01/2026, bản chính thức cần đối chiếu chứng nhận gia hạn hoặc tài liệu thay thế trước khi phát hành.",
+      "value": "Chứng nhận hệ thống ISO 22000:2018 của Quốc Bình An thể hiện phạm vi chế biến và cung cấp suất ăn công nghiệp. Thể hiện tinh thần tuân thủ các quy định atvstp cho quý khách hàng."
+    },
+    "p16-text-013": {
+      "original": "Nguyễn Quốc Chinh",
+      "value": "Nguyễn Quốc Chinh"
+    },
+    "p16-text-014": {
+      "original": "Đào tạo nhận thức ISO 22000",
+      "value": "Đào tạo nhận thức ISO 22000"
+    },
+    "p16-text-015": {
+      "original": "Trần Thị Thanh Thuỷ",
+      "value": "Trần Thị Thanh Thuỷ"
+    },
+    "p16-text-016": {
+      "original": "Đào tạo nhận thức ISO 22000",
+      "value": "Đào tạo nhận thức ISO 22000"
+    },
+    "p16-text-017": {
+      "original": "Nguyễn Thị Quỳnh",
+      "value": "Nguyễn Thị Quỳnh"
+    },
+    "p16-text-018": {
+      "original": "Đào tạo nhận thức ISO 22000",
+      "value": "Đào tạo nhận thức ISO 22000"
+    },
+    "p16-text-019": {
+      "original": "Nguyễn Thị Hà",
+      "value": "Nguyễn Thị Hà"
+    },
+    "p16-text-020": {
+      "original": "Đào tạo nhận thức ISO 22000",
+      "value": "Đào tạo nhận thức ISO 22000"
+    },
+    "p16-text-021": {
+      "original": "QUỐC BÌNH AN CATERING",
+      "value": "QUỐC BÌNH AN CATERING"
+    },
+    "p16-text-022": {
+      "original": "CHỨNG NHẬN ISO 22000",
+      "value": "CHỨNG NHẬN ISO 22000"
+    },
+    "p16-text-023": {
+      "original": "HỒ SƠ NĂNG LỰC • BẢN NHÁP 01 • 07/2026",
+      "value": "HỒ SƠ NĂNG LỰC • BẢN NHÁP 01 • 07/2026"
+    },
+    "p16-text-024": {
+      "original": "16",
+      "value": "16"
+    },
+    "p17-text-001": {
+      "original": "QUỐC BÌNH AN CATERING",
+      "value": "QUỐC BÌNH AN CATERING"
+    },
+    "p17-text-002": {
+      "original": "HỒ SƠ NHÀ CUNG CẤP",
+      "value": "HỒ SƠ NHÀ CUNG CẤP"
+    },
+    "p17-text-003": {
+      "original": "HỒ SƠ NĂNG LỰC • BẢN NHÁP 01 • 07/2026",
+      "value": "HỒ SƠ NĂNG LỰC • BẢN NHÁP 01 • 07/2026"
+    },
+    "p17-text-004": {
+      "original": "17",
+      "value": "17"
+    },
+    "p17-text-005": {
+      "original": "14 / NHÀ CUNG CẤP",
+      "value": "14 / NHÀ CUNG CẤP"
+    },
+    "p17-text-006": {
+      "original": "Chứng từ đầu vào<br/><font color='#F0835F'>được lưu cùng hồ sơ.</font>",
+      "value": "Chứng từ đầu vào<br/><font color='#F0835F'>được lưu cùng hồ sơ.</font>"
+    },
+    "p17-text-007": {
+      "original": "Tài liệu nhà cung cấp được trình bày như bằng chứng truy xuất; trạng thái hiệu lực cần đối chiếu theo ngày trên từng giấy.",
+      "value": "Tài liệu nhà cung cấp được trình bày như bằng chứng truy xuất; trạng thái hiệu lực cần đối chiếu theo ngày trên từng giấy."
+    },
+    "p17-text-008": {
+      "original": "NHÀ CUNG CẤP",
+      "value": "NHÀ CUNG CẤP"
+    },
+    "p17-text-009": {
+      "original": "Sao Biển",
+      "value": "Sao Biển"
+    },
+    "p17-text-010": {
+      "original": "Suất ăn chế biến sẵn",
+      "value": "Suất ăn chế biến sẵn"
+    },
+    "p17-text-011": {
+      "original": "Giấy thể hiện hiệu lực đến 13/04/2020 - dùng như tài liệu lưu trữ, cần bản mới nếu tiếp tục công bố.",
+      "value": "Giấy thể hiện hiệu lực đến 13/04/2020 - dùng như tài liệu lưu trữ, cần bản mới nếu tiếp tục công bố."
+    },
+    "p17-text-012": {
+      "original": "NHÀ CUNG CẤP",
+      "value": "NHÀ CUNG CẤP"
+    },
+    "p17-text-013": {
+      "original": "Nguyễn Thị Thuý Dương",
+      "value": "Nguyễn Thị Thuý Dương"
+    },
+    "p17-text-014": {
+      "original": "Sơ chế, kinh doanh rau củ",
+      "value": "Sơ chế, kinh doanh rau củ"
+    },
+    "p17-text-015": {
+      "original": "Giấy thể hiện hiệu lực đến 12/06/2028 - phù hợp để lưu cùng hồ sơ kiểm soát đầu vào.",
+      "value": "Giấy thể hiện hiệu lực đến 12/06/2028 - phù hợp để lưu cùng hồ sơ kiểm soát đầu vào."
+    },
+    "p17-text-016": {
+      "original": "QUỐC BÌNH AN CATERING",
+      "value": "QUỐC BÌNH AN CATERING"
+    },
+    "p17-text-017": {
+      "original": "HỒ SƠ NHÀ CUNG CẤP",
+      "value": "HỒ SƠ NHÀ CUNG CẤP"
+    },
+    "p17-text-018": {
+      "original": "HỒ SƠ NĂNG LỰC • BẢN NHÁP 01 • 07/2026",
+      "value": "HỒ SƠ NĂNG LỰC • BẢN NHÁP 01 • 07/2026"
+    },
+    "p17-text-019": {
+      "original": "17",
+      "value": "17"
+    },
+    "p18-text-001": {
+      "original": "QUỐC BÌNH AN CATERING",
+      "value": "QUỐC BÌNH AN CATERING"
+    },
+    "p18-text-002": {
+      "original": "KIỂM SOÁT NGUỒN NƯỚC VÀ LƯU MẪU",
+      "value": "KIỂM SOÁT NGUỒN NƯỚC VÀ LƯU MẪU"
+    },
+    "p18-text-003": {
+      "original": "HỒ SƠ NĂNG LỰC • BẢN NHÁP 01 • 07/2026",
+      "value": "HỒ SƠ NĂNG LỰC • BẢN NHÁP 01 • 07/2026"
+    },
+    "p18-text-004": {
+      "original": "18",
+      "value": "18"
+    },
+    "p18-text-005": {
+      "original": "15 / KIỂM SOÁT",
+      "value": "15 / KIỂM SOÁT"
+    },
+    "p18-text-006": {
+      "original": "Nguồn nước được kiểm tra.<br/><font color='#F0835F'>Mẫu ăn được lưu lại.</font>",
+      "value": "Nguồn nước được kiểm tra.<br/><font color='#F0835F'>Mẫu ăn được lưu lại.</font>"
+    },
+    "p18-text-007": {
+      "original": "18 chỉ tiêu",
+      "value": "18 chỉ tiêu"
+    },
+    "p18-text-008": {
+      "original": "THỂ HIỆN TRÊN PHIẾU",
+      "value": "THỂ HIỆN TRÊN PHIẾU"
+    },
+    "p18-text-009": {
+      "original": "Phiếu kiểm nghiệm nước RO mã 080626-3425 do Viện Pasteur TP.HCM thực hiện. Các kết quả trên trang được đối chiếu với giới hạn tối đa thể hiện trên phiếu và là căn cứ cho kiểm soát nước sử dụng trong bếp.",
+      "value": "Phiếu kiểm nghiệm nước RO mã 080626-3425 do Viện Pasteur TP.HCM thực hiện. Các kết quả trên trang được đối chiếu với giới hạn tối đa thể hiện trên phiếu và là căn cứ cho kiểm soát nước sử dụng trong bếp."
+    },
+    "p18-text-010": {
+      "original": "Lưu mẫu sau phục vụ",
+      "value": "Lưu mẫu sau phục vụ"
+    },
+    "p18-text-011": {
+      "original": "Mẫu được lưu theo từng bữa ăn, dán nhãn nhận diện để phục vụ truy xuất khi cần.",
+      "value": "Mẫu được lưu theo từng bữa ăn, dán nhãn nhận diện để phục vụ truy xuất khi cần."
+    },
+    "p18-text-012": {
+      "original": "ĐIỂM KIỂM SOÁT KHI LƯU MẪU",
+      "value": "ĐIỂM KIỂM SOÁT KHI LƯU MẪU"
+    },
+    "p18-text-013": {
+      "original": "Lưu riêng từng bữa: sáng, trưa, tối.",
+      "value": "Lưu riêng từng bữa: sáng, trưa, tối."
+    },
+    "p18-text-014": {
+      "original": "Ghi rõ ngày, tháng và ca phục vụ trên nhãn.",
+      "value": "Ghi rõ ngày, tháng và ca phục vụ trên nhãn."
+    },
+    "p18-text-015": {
+      "original": "Bảo quản tách biệt để sẵn sàng truy xuất khi cần.",
+      "value": "Bảo quản tách biệt để sẵn sàng truy xuất khi cần."
+    },
+    "p18-text-016": {
+      "original": "QUỐC BÌNH AN CATERING",
+      "value": "QUỐC BÌNH AN CATERING"
+    },
+    "p18-text-017": {
+      "original": "KIỂM SOÁT NGUỒN NƯỚC VÀ LƯU MẪU",
+      "value": "KIỂM SOÁT NGUỒN NƯỚC VÀ LƯU MẪU"
+    },
+    "p18-text-018": {
+      "original": "HỒ SƠ NĂNG LỰC • BẢN NHÁP 01 • 07/2026",
+      "value": "HỒ SƠ NĂNG LỰC • BẢN NHÁP 01 • 07/2026"
+    },
+    "p18-text-019": {
+      "original": "18",
+      "value": "18"
+    },
+    "p19-text-001": {
+      "original": "QUỐC BÌNH AN CATERING",
+      "value": "QUỐC BÌNH AN CATERING"
+    },
+    "p19-text-002": {
+      "original": "ĐẦU TƯ THIẾT BỊ",
+      "value": "ĐẦU TƯ THIẾT BỊ"
+    },
+    "p19-text-003": {
+      "original": "HỒ SƠ NĂNG LỰC • BẢN NHÁP 01 • 07/2026",
+      "value": "HỒ SƠ NĂNG LỰC • BẢN NHÁP 01 • 07/2026"
+    },
+    "p19-text-004": {
+      "original": "19",
+      "value": "19"
+    },
+    "p19-text-005": {
+      "original": "16 / CẢI TIẾN",
+      "value": "16 / CẢI TIẾN"
+    },
+    "p19-text-006": {
+      "original": "Thiết bị tốt hơn.<br/><font color='#FFD569'>Bữa ăn đúng giờ hơn.</font>",
+      "value": "Thiết bị tốt hơn.<br/><font color='#FFD569'>Bữa ăn đúng giờ hơn.</font>"
+    },
+    "p19-text-007": {
+      "original": "Giám đốc Nguyễn Quốc Chinh trực tiếp theo dõi, cập nhật và thay đổi máy móc nhằm rút ngắn thời gian xử lý, giảm thao tác thủ công và giữ bữa ăn sẵn sàng đúng ca.",
+      "value": "Giám đốc Nguyễn Quốc Chinh trực tiếp theo dõi, cập nhật và thay đổi máy móc nhằm rút ngắn thời gian xử lý, giảm thao tác thủ công và giữ bữa ăn sẵn sàng đúng ca."
+    },
+    "p19-text-008": {
+      "original": "Thiết bị thái - sơ chế",
+      "value": "Thiết bị thái - sơ chế"
+    },
+    "p19-text-009": {
+      "original": "Khung lớn giữ rõ người vận hành, áo Quốc Bình An và khu vực máy cắt.",
+      "value": "Khung lớn giữ rõ người vận hành, áo Quốc Bình An và khu vực máy cắt."
+    },
+    "p19-text-010": {
+      "original": "Bếp nóng công suất lớn",
+      "value": "Bếp nóng công suất lớn"
+    },
+    "p19-text-011": {
+      "original": "Dàn bếp và chảo inox đồng bộ, phù hợp sản lượng lớn.",
+      "value": "Dàn bếp và chảo inox đồng bộ, phù hợp sản lượng lớn."
+    },
+    "p19-text-012": {
+      "original": "Tủ nấu, hấp và khoang bếp",
+      "value": "Tủ nấu, hấp và khoang bếp"
+    },
+    "p19-text-013": {
+      "original": "Bố trí gọn, tối ưu thao tác và vệ sinh trong ca.",
+      "value": "Bố trí gọn, tối ưu thao tác và vệ sinh trong ca."
+    },
+    "p19-text-014": {
+      "original": "Rút ngắn thời gian sơ chế và hoàn thiện món ăn.",
+      "value": "Rút ngắn thời gian sơ chế và hoàn thiện món ăn."
+    },
+    "p19-text-015": {
+      "original": "Giảm thao tác thủ công, giữ nhịp ra món ổn định.",
+      "value": "Giảm thao tác thủ công, giữ nhịp ra món ổn định."
+    },
+    "p19-text-016": {
+      "original": "Tăng khả năng vệ sinh, bảo quản và tổ chức bếp một chiều.",
+      "value": "Tăng khả năng vệ sinh, bảo quản và tổ chức bếp một chiều."
+    },
+    "p19-text-017": {
+      "original": "QUỐC BÌNH AN CATERING",
+      "value": "QUỐC BÌNH AN CATERING"
+    },
+    "p19-text-018": {
+      "original": "ĐẦU TƯ THIẾT BỊ",
+      "value": "ĐẦU TƯ THIẾT BỊ"
+    },
+    "p19-text-019": {
+      "original": "HỒ SƠ NĂNG LỰC • BẢN NHÁP 01 • 07/2026",
+      "value": "HỒ SƠ NĂNG LỰC • BẢN NHÁP 01 • 07/2026"
+    },
+    "p19-text-020": {
+      "original": "19",
+      "value": "19"
+    },
+    "p20-text-001": {
+      "original": "QUỐC BÌNH AN CATERING",
+      "value": "QUỐC BÌNH AN CATERING"
+    },
+    "p20-text-002": {
+      "original": "CƠ CẤU SUẤT ĂN",
+      "value": "CƠ CẤU SUẤT ĂN"
+    },
+    "p20-text-003": {
+      "original": "HỒ SƠ NĂNG LỰC • BẢN NHÁP 01 • 07/2026",
+      "value": "HỒ SƠ NĂNG LỰC • BẢN NHÁP 01 • 07/2026"
+    },
+    "p20-text-004": {
+      "original": "20",
+      "value": "20"
+    },
+    "p20-text-005": {
+      "original": "17 / THỰC ĐƠN",
+      "value": "17 / THỰC ĐƠN"
+    },
+    "p20-text-006": {
+      "original": "Một khay ăn.<br/><font color='#F0835F'>Đủ thành phần cần thiết.</font>",
+      "value": "Một khay ăn.<br/><font color='#F0835F'>Đủ thành phần cần thiết.</font>"
+    },
+    "p20-text-007": {
+      "original": "01",
+      "value": "01"
+    },
+    "p20-text-008": {
+      "original": "Món chính",
+      "value": "Món chính"
+    },
+    "p20-text-009": {
+      "original": "02",
+      "value": "02"
+    },
+    "p20-text-010": {
+      "original": "Món phụ",
+      "value": "Món phụ"
+    },
+    "p20-text-011": {
+      "original": "03",
+      "value": "03"
+    },
+    "p20-text-012": {
+      "original": "Rau/xào",
+      "value": "Rau/xào"
+    },
+    "p20-text-013": {
+      "original": "04",
+      "value": "04"
+    },
+    "p20-text-014": {
+      "original": "Canh",
+      "value": "Canh"
+    },
+    "p20-text-015": {
+      "original": "05",
+      "value": "05"
+    },
+    "p20-text-016": {
+      "original": "Cơm",
+      "value": "Cơm"
+    },
+    "p20-text-017": {
+      "original": "06",
+      "value": "06"
+    },
+    "p20-text-018": {
+      "original": "Tráng miệng",
+      "value": "Tráng miệng"
+    },
+    "p20-text-019": {
+      "original": "Tráng miệng thay đổi theo mùa: trái cây, sữa chua hoặc sữa đậu nành. Cơ cấu và định lượng được điều chỉnh theo ngân sách và tính chất công việc.",
+      "value": "Tráng miệng thay đổi theo mùa: trái cây, sữa chua hoặc sữa đậu nành. Cơ cấu và định lượng được điều chỉnh theo ngân sách và tính chất công việc."
+    },
+    "p20-text-020": {
+      "original": "Hình ảnh khẩu phần minh họa; giá bán và định lượng chi tiết chưa công khai trong bản nháp.",
+      "value": "Hình ảnh khẩu phần minh họa; giá bán và định lượng chi tiết chưa công khai trong bản nháp."
+    },
+    "p20-text-021": {
+      "original": "QUỐC BÌNH AN CATERING",
+      "value": "QUỐC BÌNH AN CATERING"
+    },
+    "p20-text-022": {
+      "original": "CƠ CẤU SUẤT ĂN",
+      "value": "CƠ CẤU SUẤT ĂN"
+    },
+    "p20-text-023": {
+      "original": "HỒ SƠ NĂNG LỰC • BẢN NHÁP 01 • 07/2026",
+      "value": "HỒ SƠ NĂNG LỰC • BẢN NHÁP 01 • 07/2026"
+    },
+    "p20-text-024": {
+      "original": "20",
+      "value": "20"
+    },
+    "p21-text-001": {
+      "original": "QUỐC BÌNH AN CATERING",
+      "value": "QUỐC BÌNH AN CATERING"
+    },
+    "p21-text-002": {
+      "original": "THỰC ĐƠN LINH HOẠT",
+      "value": "THỰC ĐƠN LINH HOẠT"
+    },
+    "p21-text-003": {
+      "original": "HỒ SƠ NĂNG LỰC • BẢN NHÁP 01 • 07/2026",
+      "value": "HỒ SƠ NĂNG LỰC • BẢN NHÁP 01 • 07/2026"
+    },
+    "p21-text-004": {
+      "original": "21",
+      "value": "21"
+    },
+    "p21-text-005": {
+      "original": "18 / THỰC ĐƠN",
+      "value": "18 / THỰC ĐƠN"
+    },
+    "p21-text-006": {
+      "original": "Đổi món theo tuần.<br/><font color='#F0835F'>Điều chỉnh theo nhu cầu.</font>",
+      "value": "Đổi món theo tuần.<br/><font color='#F0835F'>Điều chỉnh theo nhu cầu.</font>"
+    },
+    "p21-text-007": {
+      "original": "PHƯƠNG ÁN 1",
+      "value": "PHƯƠNG ÁN 1"
+    },
+    "p21-text-008": {
+      "original": "Suất tiêu chuẩn",
+      "value": "Suất tiêu chuẩn"
+    },
+    "p21-text-009": {
+      "original": "Cân đối món mặn, rau, canh và tráng miệng",
+      "value": "Cân đối món mặn, rau, canh và tráng miệng"
+    },
+    "p21-text-010": {
+      "original": "PHƯƠNG ÁN 2",
+      "value": "PHƯƠNG ÁN 2"
+    },
+    "p21-text-011": {
+      "original": "Suất tăng năng lượng",
+      "value": "Suất tăng năng lượng"
+    },
+    "p21-text-012": {
+      "original": "Linh hoạt định lượng và cách kết hợp món",
+      "value": "Linh hoạt định lượng và cách kết hợp món"
+    },
+    "p21-text-013": {
+      "original": "PHƯƠNG ÁN 3",
+      "value": "PHƯƠNG ÁN 3"
+    },
+    "p21-text-014": {
+      "original": "Suất chuyên gia/sự kiện",
+      "value": "Suất chuyên gia/sự kiện"
+    },
+    "p21-text-015": {
+      "original": "Chú trọng nguyên liệu và cách trình bày",
+      "value": "Chú trọng nguyên liệu và cách trình bày"
+    },
+    "p21-text-016": {
+      "original": "Tên nhóm thực đơn dùng cho bản nháp; đơn giá và chu kỳ luân phiên cần xác nhận trước phát hành.",
+      "value": "Tên nhóm thực đơn dùng cho bản nháp; đơn giá và chu kỳ luân phiên cần xác nhận trước phát hành."
+    },
+    "p21-text-017": {
+      "original": "QUỐC BÌNH AN CATERING",
+      "value": "QUỐC BÌNH AN CATERING"
+    },
+    "p21-text-018": {
+      "original": "THỰC ĐƠN LINH HOẠT",
+      "value": "THỰC ĐƠN LINH HOẠT"
+    },
+    "p21-text-019": {
+      "original": "HỒ SƠ NĂNG LỰC • BẢN NHÁP 01 • 07/2026",
+      "value": "HỒ SƠ NĂNG LỰC • BẢN NHÁP 01 • 07/2026"
+    },
+    "p21-text-020": {
+      "original": "21",
+      "value": "21"
+    },
+    "p22-text-001": {
+      "original": "QUỐC BÌNH AN CATERING",
+      "value": "QUỐC BÌNH AN CATERING"
+    },
+    "p22-text-002": {
+      "original": "DỰ ÁN TIÊU BIỂU",
+      "value": "DỰ ÁN TIÊU BIỂU"
+    },
+    "p22-text-003": {
+      "original": "HỒ SƠ NĂNG LỰC • BẢN NHÁP 01 • 07/2026",
+      "value": "HỒ SƠ NĂNG LỰC • BẢN NHÁP 01 • 07/2026"
+    },
+    "p22-text-004": {
+      "original": "22",
+      "value": "22"
+    },
+    "p22-text-005": {
+      "original": "19 / DỰ ÁN 01",
+      "value": "19 / DỰ ÁN 01"
+    },
+    "p22-text-006": {
+      "original": "Royal Hoàng Gia",
+      "value": "Royal Hoàng Gia"
+    },
+    "p22-text-007": {
+      "original": "Dữ liệu dự án do doanh nghiệp cung cấp; cần bổ sung ảnh và kết quả trước bản chính thức.",
+      "value": "Dữ liệu dự án do doanh nghiệp cung cấp; cần bổ sung ảnh và kết quả trước bản chính thức."
+    },
+    "p22-text-008": {
+      "original": "ẢNH DỰ ÁN CẦN BỔ SUNG",
+      "value": "ẢNH DỰ ÁN CẦN BỔ SUNG"
+    },
+    "p22-text-009": {
+      "original": "02-04 ảnh ngang tại nhà ăn",
+      "value": "02-04 ảnh ngang tại nhà ăn"
+    },
+    "p22-text-010": {
+      "original": "~20 năm",
+      "value": "~20 năm"
+    },
+    "p22-text-011": {
+      "original": "THỜI GIAN ĐỒNG HÀNH",
+      "value": "THỜI GIAN ĐỒNG HÀNH"
+    },
+    "p22-text-012": {
+      "original": "600 suất/ngày",
+      "value": "600 suất/ngày"
+    },
+    "p22-text-013": {
+      "original": "QUY MÔ ĐƯỢC CUNG CẤP",
+      "value": "QUY MÔ ĐƯỢC CUNG CẤP"
+    },
+    "p22-text-014": {
+      "original": "Bếp tại chỗ",
+      "value": "Bếp tại chỗ"
+    },
+    "p22-text-015": {
+      "original": "HÌNH THỨC",
+      "value": "HÌNH THỨC"
+    },
+    "p22-text-016": {
+      "original": "Đây là dấu mốc khởi đầu của Quốc Bình An. Mối quan hệ lâu dài được dùng để kể câu chuyện về sự gắn bó, lắng nghe và thay đổi theo yêu cầu thực tế.",
+      "value": "Đây là dấu mốc khởi đầu của Quốc Bình An. Mối quan hệ lâu dài được dùng để kể câu chuyện về sự gắn bó, lắng nghe và thay đổi theo yêu cầu thực tế."
+    },
+    "p22-text-017": {
+      "original": "CẦN BỔ SUNG ĐỂ HOÀN THIỆN CASE STUDY",
+      "value": "CẦN BỔ SUNG ĐỂ HOÀN THIỆN CASE STUDY"
+    },
+    "p22-text-018": {
+      "original": "Thách thức ban đầu • Giải pháp cụ thể • Kết quả/đánh giá khách hàng • Thời gian chính xác",
+      "value": "Thách thức ban đầu • Giải pháp cụ thể • Kết quả/đánh giá khách hàng • Thời gian chính xác"
+    },
+    "p22-text-019": {
+      "original": "QUỐC BÌNH AN CATERING",
+      "value": "QUỐC BÌNH AN CATERING"
+    },
+    "p22-text-020": {
+      "original": "DỰ ÁN TIÊU BIỂU",
+      "value": "DỰ ÁN TIÊU BIỂU"
+    },
+    "p22-text-021": {
+      "original": "HỒ SƠ NĂNG LỰC • BẢN NHÁP 01 • 07/2026",
+      "value": "HỒ SƠ NĂNG LỰC • BẢN NHÁP 01 • 07/2026"
+    },
+    "p22-text-022": {
+      "original": "22",
+      "value": "22"
+    },
+    "p23-text-001": {
+      "original": "QUỐC BÌNH AN CATERING",
+      "value": "QUỐC BÌNH AN CATERING"
+    },
+    "p23-text-002": {
+      "original": "DỰ ÁN TIÊU BIỂU",
+      "value": "DỰ ÁN TIÊU BIỂU"
+    },
+    "p23-text-003": {
+      "original": "HỒ SƠ NĂNG LỰC • BẢN NHÁP 01 • 07/2026",
+      "value": "HỒ SƠ NĂNG LỰC • BẢN NHÁP 01 • 07/2026"
+    },
+    "p23-text-004": {
+      "original": "23",
+      "value": "23"
+    },
+    "p23-text-005": {
+      "original": "19 / DỰ ÁN 02",
+      "value": "19 / DỰ ÁN 02"
+    },
+    "p23-text-006": {
+      "original": "E-top Việt Nam",
+      "value": "E-top Việt Nam"
+    },
+    "p23-text-007": {
+      "original": "Dữ liệu dự án do doanh nghiệp cung cấp; cần bổ sung ảnh và kết quả trước bản chính thức.",
+      "value": "Dữ liệu dự án do doanh nghiệp cung cấp; cần bổ sung ảnh và kết quả trước bản chính thức."
+    },
+    "p23-text-008": {
+      "original": "ẢNH DỰ ÁN CẦN BỔ SUNG",
+      "value": "ẢNH DỰ ÁN CẦN BỔ SUNG"
+    },
+    "p23-text-009": {
+      "original": "02-04 ảnh ngang tại nhà ăn",
+      "value": "02-04 ảnh ngang tại nhà ăn"
+    },
+    "p23-text-010": {
+      "original": "~16 năm",
+      "value": "~16 năm"
+    },
+    "p23-text-011": {
+      "original": "THỜI GIAN ĐỒNG HÀNH",
+      "value": "THỜI GIAN ĐỒNG HÀNH"
+    },
+    "p23-text-012": {
+      "original": "~5.500 suất/ngày",
+      "value": "~5.500 suất/ngày"
+    },
+    "p23-text-013": {
+      "original": "QUY MÔ ĐƯỢC CUNG CẤP",
+      "value": "QUY MÔ ĐƯỢC CUNG CẤP"
+    },
+    "p23-text-014": {
+      "original": "Bếp tại chỗ",
+      "value": "Bếp tại chỗ"
+    },
+    "p23-text-015": {
+      "original": "HÌNH THỨC",
+      "value": "HÌNH THỨC"
+    },
+    "p23-text-016": {
+      "original": "Dự án quy mô lớn với mô hình bếp tại chỗ. Hồ sơ mới sẽ làm rõ cách QBA tổ chức nhân sự, thiết bị và nhịp phục vụ theo ca khi có đủ dữ liệu dự án.",
+      "value": "Dự án quy mô lớn với mô hình bếp tại chỗ. Hồ sơ mới sẽ làm rõ cách QBA tổ chức nhân sự, thiết bị và nhịp phục vụ theo ca khi có đủ dữ liệu dự án."
+    },
+    "p23-text-017": {
+      "original": "CẦN BỔ SUNG ĐỂ HOÀN THIỆN CASE STUDY",
+      "value": "CẦN BỔ SUNG ĐỂ HOÀN THIỆN CASE STUDY"
+    },
+    "p23-text-018": {
+      "original": "Thách thức ban đầu • Giải pháp cụ thể • Kết quả/đánh giá khách hàng • Thời gian chính xác",
+      "value": "Thách thức ban đầu • Giải pháp cụ thể • Kết quả/đánh giá khách hàng • Thời gian chính xác"
+    },
+    "p23-text-019": {
+      "original": "QUỐC BÌNH AN CATERING",
+      "value": "QUỐC BÌNH AN CATERING"
+    },
+    "p23-text-020": {
+      "original": "DỰ ÁN TIÊU BIỂU",
+      "value": "DỰ ÁN TIÊU BIỂU"
+    },
+    "p23-text-021": {
+      "original": "HỒ SƠ NĂNG LỰC • BẢN NHÁP 01 • 07/2026",
+      "value": "HỒ SƠ NĂNG LỰC • BẢN NHÁP 01 • 07/2026"
+    },
+    "p23-text-022": {
+      "original": "23",
+      "value": "23"
+    },
+    "p24-text-001": {
+      "original": "QUỐC BÌNH AN CATERING",
+      "value": "QUỐC BÌNH AN CATERING"
+    },
+    "p24-text-002": {
+      "original": "DỰ ÁN TIÊU BIỂU",
+      "value": "DỰ ÁN TIÊU BIỂU"
+    },
+    "p24-text-003": {
+      "original": "HỒ SƠ NĂNG LỰC • BẢN NHÁP 01 • 07/2026",
+      "value": "HỒ SƠ NĂNG LỰC • BẢN NHÁP 01 • 07/2026"
+    },
+    "p24-text-004": {
+      "original": "24",
+      "value": "24"
+    },
+    "p24-text-005": {
+      "original": "19 / DỰ ÁN 03",
+      "value": "19 / DỰ ÁN 03"
+    },
+    "p24-text-006": {
+      "original": "Twin Kie Việt Nam",
+      "value": "Công Ty TNHH Twinkle Việt Nam"
+    },
+    "p24-text-007": {
+      "original": "Dữ liệu dự án do doanh nghiệp cung cấp; cần bổ sung ảnh và kết quả trước bản chính thức.",
+      "value": "Dữ liệu dự án do doanh nghiệp cung cấp; cần bổ sung ảnh và kết quả trước bản chính thức."
+    },
+    "p24-text-008": {
+      "original": "ẢNH DỰ ÁN CẦN BỔ SUNG",
+      "value": "ẢNH DỰ ÁN CẦN BỔ SUNG"
+    },
+    "p24-text-009": {
+      "original": "02-04 ảnh ngang tại nhà ăn",
+      "value": "02-04 ảnh ngang tại nhà ăn"
+    },
+    "p24-text-010": {
+      "original": "~12 năm",
+      "value": "~12 năm"
+    },
+    "p24-text-011": {
+      "original": "THỜI GIAN ĐỒNG HÀNH",
+      "value": "THỜI GIAN ĐỒNG HÀNH"
+    },
+    "p24-text-012": {
+      "original": "~1.900 suất/ngày",
+      "value": "~1.900 suất/ngày"
+    },
+    "p24-text-013": {
+      "original": "QUY MÔ ĐƯỢC CUNG CẤP",
+      "value": "QUY MÔ ĐƯỢC CUNG CẤP"
+    },
+    "p24-text-014": {
+      "original": "Bếp tại chỗ",
+      "value": "Bếp tại chỗ"
+    },
+    "p24-text-015": {
+      "original": "HÌNH THỨC",
+      "value": "HÌNH THỨC"
+    },
+    "p24-text-016": {
+      "original": "Dữ liệu hiện có xác nhận mô hình bếp tại chỗ và thời gian hợp tác dài hạn. Địa chỉ, số ca và kết quả vận hành cần được đối chiếu thêm.",
+      "value": "Dữ liệu hiện có xác nhận mô hình bếp tại chỗ và thời gian hợp tác dài hạn. Địa chỉ, số ca và kết quả vận hành cần được đối chiếu thêm."
+    },
+    "p24-text-017": {
+      "original": "CẦN BỔ SUNG ĐỂ HOÀN THIỆN CASE STUDY",
+      "value": "CẦN BỔ SUNG ĐỂ HOÀN THIỆN CASE STUDY"
+    },
+    "p24-text-018": {
+      "original": "Thách thức ban đầu • Giải pháp cụ thể • Kết quả/đánh giá khách hàng • Thời gian chính xác",
+      "value": "Thách thức ban đầu • Giải pháp cụ thể • Kết quả/đánh giá khách hàng • Thời gian chính xác"
+    },
+    "p24-text-019": {
+      "original": "QUỐC BÌNH AN CATERING",
+      "value": "QUỐC BÌNH AN CATERING"
+    },
+    "p24-text-020": {
+      "original": "DỰ ÁN TIÊU BIỂU",
+      "value": "DỰ ÁN TIÊU BIỂU"
+    },
+    "p24-text-021": {
+      "original": "HỒ SƠ NĂNG LỰC • BẢN NHÁP 01 • 07/2026",
+      "value": "HỒ SƠ NĂNG LỰC • BẢN NHÁP 01 • 07/2026"
+    },
+    "p24-text-022": {
+      "original": "24",
+      "value": "24"
+    },
+    "p25-text-001": {
+      "original": "QUỐC BÌNH AN CATERING",
+      "value": "QUỐC BÌNH AN CATERING"
+    },
+    "p25-text-002": {
+      "original": "DỰ ÁN TIÊU BIỂU",
+      "value": "DỰ ÁN TIÊU BIỂU"
+    },
+    "p25-text-003": {
+      "original": "HỒ SƠ NĂNG LỰC • BẢN NHÁP 01 • 07/2026",
+      "value": "HỒ SƠ NĂNG LỰC • BẢN NHÁP 01 • 07/2026"
+    },
+    "p25-text-004": {
+      "original": "25",
+      "value": "25"
+    },
+    "p25-text-005": {
+      "original": "19 / DỰ ÁN 04",
+      "value": "19 / DỰ ÁN 04"
+    },
+    "p25-text-006": {
+      "original": "Bellinturf Việt Nam",
+      "value": "Công ty TNHH Công Nghiệp Bellinturf Việt Nam"
+    },
+    "p25-text-007": {
+      "original": "Dữ liệu dự án do doanh nghiệp cung cấp; cần bổ sung ảnh và kết quả trước bản chính thức.",
+      "value": "Dữ liệu dự án do doanh nghiệp cung cấp; cần bổ sung ảnh và kết quả trước bản chính thức."
+    },
+    "p25-text-008": {
+      "original": "ẢNH DỰ ÁN CẦN BỔ SUNG",
+      "value": "ẢNH DỰ ÁN CẦN BỔ SUNG"
+    },
+    "p25-text-009": {
+      "original": "02-04 ảnh ngang tại nhà ăn",
+      "value": "02-04 ảnh ngang tại nhà ăn"
+    },
+    "p25-text-010": {
+      "original": "Đang cập nhật",
+      "value": "Đang cập nhật"
+    },
+    "p25-text-011": {
+      "original": "THỜI GIAN ĐỒNG HÀNH",
+      "value": "THỜI GIAN ĐỒNG HÀNH"
+    },
+    "p25-text-012": {
+      "original": "~5.000 suất/ngày",
+      "value": "~5.000 suất/ngày"
+    },
+    "p25-text-013": {
+      "original": "QUY MÔ ĐƯỢC CUNG CẤP",
+      "value": "QUY MÔ ĐƯỢC CUNG CẤP"
+    },
+    "p25-text-014": {
+      "original": "Bếp tại chỗ",
+      "value": "Bếp tại chỗ"
+    },
+    "p25-text-015": {
+      "original": "HÌNH THỨC",
+      "value": "HÌNH THỨC"
+    },
+    "p25-text-016": {
+      "original": "Dự án được doanh nghiệp cung cấp với quy mô khoảng 5.000 suất/ngày. Cần bổ sung thời gian hợp tác, ảnh hiện trường và phản hồi khách hàng.",
+      "value": "Dự án được doanh nghiệp cung cấp với quy mô khoảng 5.000 suất/ngày. Cần bổ sung thời gian hợp tác, ảnh hiện trường và phản hồi khách hàng."
+    },
+    "p25-text-017": {
+      "original": "CẦN BỔ SUNG ĐỂ HOÀN THIỆN CASE STUDY",
+      "value": "CẦN BỔ SUNG ĐỂ HOÀN THIỆN CASE STUDY"
+    },
+    "p25-text-018": {
+      "original": "Thách thức ban đầu • Giải pháp cụ thể • Kết quả/đánh giá khách hàng • Thời gian chính xác",
+      "value": "Thách thức ban đầu • Giải pháp cụ thể • Kết quả/đánh giá khách hàng • Thời gian chính xác"
+    },
+    "p25-text-019": {
+      "original": "QUỐC BÌNH AN CATERING",
+      "value": "QUỐC BÌNH AN CATERING"
+    },
+    "p25-text-020": {
+      "original": "DỰ ÁN TIÊU BIỂU",
+      "value": "DỰ ÁN TIÊU BIỂU"
+    },
+    "p25-text-021": {
+      "original": "HỒ SƠ NĂNG LỰC • BẢN NHÁP 01 • 07/2026",
+      "value": "HỒ SƠ NĂNG LỰC • BẢN NHÁP 01 • 07/2026"
+    },
+    "p25-text-022": {
+      "original": "25",
+      "value": "25"
+    },
+    "p26-text-001": {
+      "original": "QUỐC BÌNH AN CATERING",
+      "value": "QUỐC BÌNH AN CATERING"
+    },
+    "p26-text-002": {
+      "original": "KHÁCH HÀNG ĐỒNG HÀNH",
+      "value": "KHÁCH HÀNG ĐỒNG HÀNH"
+    },
+    "p26-text-003": {
+      "original": "HỒ SƠ NĂNG LỰC • BẢN NHÁP 01 • 07/2026",
+      "value": "HỒ SƠ NĂNG LỰC • BẢN NHÁP 01 • 07/2026"
+    },
+    "p26-text-004": {
+      "original": "26",
+      "value": "26"
+    },
+    "p26-text-005": {
+      "original": "20 / KHÁCH HÀNG",
+      "value": "20 / KHÁCH HÀNG"
+    },
+    "p26-text-006": {
+      "original": "Niềm tin được xây dựng<br/><font color='#F0835F'>qua từng ca ăn.</font>",
+      "value": "Niềm tin được xây dựng<br/><font color='#F0835F'>qua từng ca ăn.</font>"
+    },
+    "p26-text-007": {
+      "original": "E-top Việt Nam",
+      "value": "E-top Việt Nam"
+    },
+    "p26-text-008": {
+      "original": "Twin Kie Việt Nam",
+      "value": "Twin Kie Việt Nam"
+    },
+    "p26-text-009": {
+      "original": "Royal Hoàng Gia",
+      "value": "Royal Hoàng Gia"
+    },
+    "p26-text-010": {
+      "original": "JYS Việt Nam",
+      "value": "JYS Việt Nam"
+    },
+    "p26-text-011": {
+      "original": "Bellinturf Việt Nam",
+      "value": "Bellinturf Việt Nam"
+    },
+    "p26-text-012": {
+      "original": "Đông Jintian Việt Nam",
+      "value": "Đông Jintian Việt Nam"
+    },
+    "p26-text-013": {
+      "original": "Lewo Việt Nam",
+      "value": "Lewo Việt Nam"
+    },
+    "p26-text-014": {
+      "original": "Dệt Tah Tong Việt Nam",
+      "value": "Dệt Tah Tong Việt Nam"
+    },
+    "p26-text-015": {
+      "original": "Thép Minh Trị",
+      "value": "Thép Minh Trị"
+    },
+    "p26-text-016": {
+      "original": "Tên và logo cần được xác nhận quyền công khai trước khi phát hành bản chính thức.",
+      "value": "Tên và logo cần được xác nhận quyền công khai trước khi phát hành bản chính thức."
+    },
+    "p26-text-017": {
+      "original": "QUỐC BÌNH AN CATERING",
+      "value": "QUỐC BÌNH AN CATERING"
+    },
+    "p26-text-018": {
+      "original": "KHÁCH HÀNG ĐỒNG HÀNH",
+      "value": "KHÁCH HÀNG ĐỒNG HÀNH"
+    },
+    "p26-text-019": {
+      "original": "HỒ SƠ NĂNG LỰC • BẢN NHÁP 01 • 07/2026",
+      "value": "HỒ SƠ NĂNG LỰC • BẢN NHÁP 01 • 07/2026"
+    },
+    "p26-text-020": {
+      "original": "26",
+      "value": "26"
+    },
+    "p27-text-001": {
+      "original": "QUỐC BÌNH AN CATERING",
+      "value": "QUỐC BÌNH AN CATERING"
+    },
+    "p27-text-002": {
+      "original": "CAM KẾT PHẢN HỒI",
+      "value": "CAM KẾT PHẢN HỒI"
+    },
+    "p27-text-003": {
+      "original": "HỒ SƠ NĂNG LỰC • BẢN NHÁP 01 • 07/2026",
+      "value": "HỒ SƠ NĂNG LỰC • BẢN NHÁP 01 • 07/2026"
+    },
+    "p27-text-004": {
+      "original": "27",
+      "value": "27"
+    },
+    "p27-text-005": {
+      "original": "21 / ĐỒNG HÀNH",
+      "value": "21 / ĐỒNG HÀNH"
+    },
+    "p27-text-006": {
+      "original": "Lắng nghe nhanh.<br/><font color='#FFD569'>Điều chỉnh có trách nhiệm.</font>",
+      "value": "Lắng nghe nhanh.<br/><font color='#FFD569'>Điều chỉnh có trách nhiệm.</font>"
+    },
+    "p27-text-007": {
+      "original": "15-30",
+      "value": "15-30"
+    },
+    "p27-text-008": {
+      "original": "phút",
+      "value": "phút"
+    },
+    "p27-text-009": {
+      "original": "thời gian phản hồi ban đầu được cung cấp",
+      "value": "thời gian phản hồi ban đầu được cung cấp"
+    },
+    "p27-text-010": {
+      "original": "01",
+      "value": "01"
+    },
+    "p27-text-011": {
+      "original": "Tiếp nhận",
+      "value": "Tiếp nhận"
+    },
+    "p27-text-012": {
+      "original": "Bà Trần Thị Thanh Thuỷ là đầu mối chính khi có phản ánh.",
+      "value": "Bà Trần Thị Thanh Thuỷ là đầu mối chính khi có phản ánh."
+    },
+    "p27-text-013": {
+      "original": "02",
+      "value": "02"
+    },
+    "p27-text-014": {
+      "original": "Xác minh",
+      "value": "Xác minh"
+    },
+    "p27-text-015": {
+      "original": "Kiểm tra ca ăn, món ăn, nhân sự và thông tin tại nhà ăn.",
+      "value": "Kiểm tra ca ăn, món ăn, nhân sự và thông tin tại nhà ăn."
+    },
+    "p27-text-016": {
+      "original": "03",
+      "value": "03"
+    },
+    "p27-text-017": {
+      "original": "Điều chỉnh",
+      "value": "Điều chỉnh"
+    },
+    "p27-text-018": {
+      "original": "Phối hợp xử lý và ghi nhận thay đổi cần thiết cho ca tiếp theo.",
+      "value": "Phối hợp xử lý và ghi nhận thay đổi cần thiết cho ca tiếp theo."
+    },
+    "p27-text-019": {
+      "original": "QUỐC BÌNH AN CATERING",
+      "value": "QUỐC BÌNH AN CATERING"
+    },
+    "p27-text-020": {
+      "original": "CAM KẾT PHẢN HỒI",
+      "value": "CAM KẾT PHẢN HỒI"
+    },
+    "p27-text-021": {
+      "original": "HỒ SƠ NĂNG LỰC • BẢN NHÁP 01 • 07/2026",
+      "value": "HỒ SƠ NĂNG LỰC • BẢN NHÁP 01 • 07/2026"
+    },
+    "p27-text-022": {
+      "original": "27",
+      "value": "27"
+    },
+    "p28-text-001": {
+      "original": "QUỐC BÌNH AN CATERING",
+      "value": "QUỐC BÌNH AN CATERING"
+    },
+    "p28-text-002": {
+      "original": "Để Quốc Bình An<br/><font color='#FFD569'>chăm lo từng bữa ăn.</font>",
+      "value": "Để Quốc Bình An<br/><font color='#FFD569'>chăm lo từng bữa ăn.</font>"
+    },
+    "p28-text-003": {
+      "original": "Gửi số lượng suất, số ca và khu vực phục vụ. Đội ngũ sẽ đề xuất mô hình vận hành và thực đơn phù hợp.",
+      "value": "Gửi số lượng suất, số ca và khu vực phục vụ. Đội ngũ sẽ đề xuất mô hình vận hành và thực đơn phù hợp."
+    },
+    "p28-text-004": {
+      "original": "GIÁM ĐỐC",
+      "value": "GIÁM ĐỐC"
+    },
+    "p28-text-005": {
+      "original": "Nguyễn Quốc Chinh",
+      "value": "Nguyễn Quốc Chinh"
+    },
+    "p28-text-006": {
+      "original": "0907 090 572",
+      "value": "0907 090 572"
+    },
+    "p28-text-007": {
+      "original": "LIÊN HỆ",
+      "value": "LIÊN HỆ"
+    },
+    "p28-text-008": {
+      "original": "Trần Thị Thanh Thuỷ",
+      "value": "Trần Thị Thanh Thuỷ"
+    },
+    "p28-text-009": {
+      "original": "0909 843 604",
+      "value": "0909 843 604"
+    },
+    "p28-text-010": {
+      "original": "EMAIL",
+      "value": "EMAIL"
+    },
+    "p28-text-011": {
+      "original": "Quốc Bình An Catering",
+      "value": "Quốc Bình An Catering"
+    },
+    "p28-text-012": {
+      "original": "quocbinhan975@gmail.com",
+      "value": "quocbinhan975@gmail.com"
+    },
+    "p28-text-013": {
+      "original": "GỌI ĐIỆN • YÊU CẦU BÁO GIÁ",
+      "value": "GỌI ĐIỆN • YÊU CẦU BÁO GIÁ"
+    },
+    "p28-text-014": {
+      "original": "CÔNG TY TNHH MỘT THÀNH VIÊN QUỐC BÌNH AN • MST 3602666032",
+      "value": "CÔNG TY TNHH MỘT THÀNH VIÊN QUỐC BÌNH AN • MST 3602666032"
+    },
+    "p28-text-015": {
+      "original": "Nhơn Trạch, Đồng Nai • Địa chỉ đầy đủ sẽ đối chiếu theo giấy đăng ký thay đổi lần 4",
+      "value": "Nhơn Trạch, Đồng Nai • Địa chỉ đầy đủ sẽ đối chiếu theo giấy đăng ký thay đổi lần 4"
+    },
+    "p01-text-003": {
+      "original": "HỒ SƠ NĂNG LỰC 2026",
+      "value": "HỒ SƠ NĂNG LỰC",
+      "fontSize": 7,
+      "fontScale": 100
+    },
+    "p01-text-004": {
+      "original": "Bữa ăn an tâm.<br/><font color='#B8E59F'>Năng lượng bền bỉ.</font>",
+      "value": "Bữa ăn an tâm.<br/><font color='#B8E59F'>Năng lượng bền bỉ.</font>",
+      "fontSize": 38,
+      "fontScale": 100
+    },
+    "p01-text-005": {
+      "original": "Thiết kế và vận hành suất ăn công nghiệp theo nhu cầu thực tế - ngon miệng, đúng giờ và được kiểm soát từ đầu vào đến từng khay ăn.",
+      "value": "Thiết kế và vận hành suất ăn công nghiệp theo nhu cầu thực tế - ngon miệng, đúng giờ và được kiểm soát từ đầu vào đến từng khay ăn",
+      "fontSize": 9.6,
+      "fontScale": 100
+    },
+    "p01-text-006": {
+      "original": "SUẤT ĂN CÔNG NGHIỆP • BẾP TẠI CHỖ • CATERING",
+      "value": "SUẤT ĂN CÔNG NGHIỆP • BẾP TẠI CHỖ • CATERING",
+      "fontSize": 9,
+      "fontScale": 100
+    },
+    "p01-text-007": {
+      "original": "CÔNG TY TNHH MỘT THÀNH VIÊN QUỐC BÌNH AN",
+      "value": "CÔNG TY TNHH MỘT THÀNH VIÊN QUỐC BÌNH AN",
+      "fontSize": 8,
+      "fontScale": 100
+    }
+  }
+}

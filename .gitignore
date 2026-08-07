@@ -1,0 +1,17 @@
+.DS_Store
+**/.DS_Store
+
+# Local preview/editor runtime files
+.qba-site-server.log
+.qba-site-server.pid
+.hsnl-editor-launch-error.log
+.hsnl-editor-server.log
+.hsnl-editor-server.pid
+
+# Generated visual QA and temporary exports
+tmp/
+
+# Generated Python/editor cache files
+__pycache__/
+*.pyc
+editable/hsnl-pdf-editor-uploads/
