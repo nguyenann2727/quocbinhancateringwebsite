@@ -334,14 +334,18 @@ function getStoredMenuContentHtml(key, fallbackText) {
 }
 
 function normalizeMenuLineStarts(root = document) {
-  root.querySelectorAll(".qba-sample-menu-table tbody td, #menu-dishes strong").forEach((container) => {
-    const walker = document.createTreeWalker(container, NodeFilter.SHOW_TEXT);
-    let textNode = walker.nextNode();
-    while (textNode) {
-      textNode.nodeValue = textNode.nodeValue.replace(/^(\s*)(\p{L})/u, (_, spacing, letter) => (
-        `${spacing}${letter.toLocaleUpperCase()}`
-      ));
-      textNode = walker.nextNode();
+  const language = document.documentElement.lang || "vi";
+  root.querySelectorAll(".qba-sample-menu-table tbody th, .qba-sample-menu-table tbody td, #menu-dishes strong").forEach((container) => {
+    const nodes = [...container.childNodes];
+    while (nodes.length) {
+      const node = nodes.shift();
+      if (node.nodeType === Node.TEXT_NODE) {
+        node.nodeValue = node.nodeValue.replace(/^(\s*)(\p{L})/u, (_, spacing, letter) => (
+          `${spacing}${letter.toLocaleUpperCase(language)}`
+        ));
+      } else if (node.childNodes?.length) {
+        nodes.unshift(...node.childNodes);
+      }
     }
   });
 }
@@ -992,6 +996,9 @@ const MENU_EXPERT_ACTUAL_IMAGES_REVISION_KEY = "qba-menu-expert-actual-images-re
 const MENU_EXPERT_ACTUAL_IMAGES_REVISION = "2026-08-05-separate-actual-samples-v1";
 const MENU_PRICE_REMAP_REVISION_KEY = "qba-menu-price-remap-revision";
 const MENU_PRICE_REMAP_REVISION = "2026-07-23-basic-week-v3-placeholders-v3";
+const SERVICE_DEFAULT_IMAGES_REVISION_KEY = "qba-service-default-images-revision";
+const SERVICE_DEFAULT_IMAGES_REVISION = "2026-08-09-restore-defaults-v1";
+const SERVICE_IMAGE_SLOT_IDS = ["service-lunch", "service-event", "service-vegan", "service-breakfast", "service-night"];
 const FRAME_LAYOUT_STORAGE_KEY = "qba-image-frame-layout-v1";
 const FRAME_RESIZE_DIRECTIONS = ["n", "e", "s", "w", "ne", "nw", "se", "sw"];
 const FRAME_RESIZE_LIMITS = { minWidth: 72, minHeight: 72, maxWidth: 1800, maxHeight: 1600 };
@@ -2277,6 +2284,7 @@ async function initializeImageEditor() {
     let shouldResetMenuExpertWeekImages = false;
     let shouldResetMenuExpertActualImages = false;
     let shouldResetMenuPriceRemapImages = false;
+    let shouldResetServiceImages = false;
     if (imageEditorAllowed) {
       shouldResetStoredHero = localStorage.getItem(HERO_DEFAULT_REVISION_KEY) !== HERO_DEFAULT_REVISION;
       if (shouldResetStoredHero) {
@@ -2366,6 +2374,16 @@ async function initializeImageEditor() {
         }
         localStorage.setItem(MENU_PRICE_REMAP_REVISION_KEY, MENU_PRICE_REMAP_REVISION);
       }
+      shouldResetServiceImages = localStorage.getItem(SERVICE_DEFAULT_IMAGES_REVISION_KEY) !== SERVICE_DEFAULT_IMAGES_REVISION;
+      if (shouldResetServiceImages) {
+        try {
+          await Promise.all(SERVICE_IMAGE_SLOT_IDS.map((id) => deleteImageRecord(id)));
+        } catch (error) {
+          // Chỉ khôi phục năm ảnh dịch vụ mặc định; các khung ảnh khác được giữ nguyên.
+        }
+        SERVICE_IMAGE_SLOT_IDS.forEach((id) => mergedRecords.delete(id));
+        localStorage.setItem(SERVICE_DEFAULT_IMAGES_REVISION_KEY, SERVICE_DEFAULT_IMAGES_REVISION);
+      }
     }
     const records = await getAllImageRecords();
     if (imageEditorAllowed) {
@@ -2379,6 +2397,7 @@ async function initializeImageEditor() {
         if (shouldResetMenuExpertActualImages && record.id?.startsWith("menu-light-")) continue;
         if (shouldResetMenu25kImages && record.id?.startsWith("menu-energy-")) continue;
         if (shouldResetMenu25kSample01 && record.id === "menu-energy-mon") continue;
+        if (shouldResetServiceImages && SERVICE_IMAGE_SLOT_IDS.includes(record.id)) continue;
         const migratedId = legacyMenuSlots[record.id];
         if (migratedId && imageSlotGroups.has(migratedId)) {
           const slot = imageSlotGroups.get(migratedId);
