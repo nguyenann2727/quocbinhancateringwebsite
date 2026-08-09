@@ -67,9 +67,11 @@ Thanh đầu trang hỗ trợ năm ngôn ngữ: Tiếng Việt, English, 한국�
 
 ## Hồ sơ năng lực
 
-Phần Giới thiệu có khung **Hồ sơ năng lực Quốc Bình An**. Website đang dùng ảnh dự án làm bìa xem trước; ảnh này vẫn có thể được thay bằng vị trí `Ảnh bìa Hồ sơ năng lực` trong trình quản lý ảnh. Nút PDF hiện ở trạng thái chờ; chỉ đổi thành liên kết tải khi chủ doanh nghiệp xác nhận file chính thức.
+Phần Giới thiệu có khung **Hồ sơ năng lực Quốc Bình An**. Website đang dùng ảnh dự án làm bìa xem trước; ảnh này vẫn có thể được thay bằng vị trí `Ảnh bìa Hồ sơ năng lực` trong trình quản lý ảnh. Bìa, logo và nút PDF mở hồ sơ chính thức tại `output/pdf/HSNL-Quoc-Binh-An-Catering-WEBSITE.pdf`.
 
 Riêng bản **HSNL PDF draft** có editor trực tiếp. Mở `Mo-HSNL-Editor.command` để tự khởi động bản chỉnh sửa và PDF hoàn chỉnh trên máy. Công cụ này chạy nền, tự tìm cổng còn hoạt động và hạn chế lỗi `ERR_CONNECTION_REFUSED` khi mở lại sau một thời gian. Khi bấm **Dựng lại PDF**, bản `FINAL` và bản nhẹ cho web cũng được cập nhật cùng lúc.
+
+Để dựng bộ static asset dùng cho production, chạy `python3 scripts/build_site_dist.py`. Thư mục `dist/` chỉ chứa các file runtime đang được website tham chiếu và bản PDF public nói trên.
 
 ## Chứng nhận, quy trình và năng lực
 

@@ -378,19 +378,48 @@ def record_text_slot(
 def resolve_image(path: Path) -> Path:
     path = Path(path)
     override = IMAGE_OVERRIDES.get(project_key(path)) or IMAGE_OVERRIDES.get(path.name)
-    if not override:
+    if override:
+        replacement = Path(override)
+        if not replacement.is_absolute():
+            replacement = ROOT / replacement
+        if not replacement.exists():
+            raise FileNotFoundError(f"Ảnh thay thế không tồn tại: {replacement}")
+        return replacement
+    if path.exists():
         return path
-    replacement = Path(override)
-    if not replacement.is_absolute():
-        replacement = ROOT / replacement
-    if not replacement.exists():
-        raise FileNotFoundError(f"Ảnh thay thế không tồn tại: {replacement}")
-    return replacement
+
+    # Several original reference folders are archival inputs and may be moved after
+    # approval. These normalized project assets preserve the already-published visual.
+    archived_fallbacks = {
+        "qba-logo-full.jpg": ASSETS / "qba-logo-full.jpg",
+        "hop-doi-ngu-quan-ly.png": ASSETS / "capacity/capacity-team-meeting.jpg",
+        "qba-logo-history-card.jpg": ASSETS / "qba-logo-full.jpg",
+        "01-che-bien-bep-nong.png": ASSETS / "process/process-cook-equipment.jpg",
+        "02-may-thai-so-che.png": ASSETS / "process/process-prep-meat-cutter.jpg",
+        "03-chia-suat-va-rau-xanh.png": ASSETS / "process/process-serve-portioning.jpg",
+        "04-so-che-rau-xanh.png": ASSETS / "process/process-source-raw-materials.jpg",
+        "05-phan-khu-song-rau.png": ASSETS / "process/process-source-raw-materials.jpg",
+        "06-thiet-bi-va-bep.png": ASSETS / "capacity/capacity-equipment.jpg",
+        "07-so-che-thit-va-kiem-soat-nguyen-lieu.png": ASSETS / "process/process-prep-meat-cutter.jpg",
+        "08-ke-nguyen-lieu-rau-cu.png": ASSETS / "process/process-source-raw-materials.jpg",
+        "09-ky-nhan-giao-nhan.png": ASSETS / "process/process-receive-handover.jpg",
+        "10-luu-mau.png": ASSETS / "process/process-sample-retention.jpg",
+        "11-xe-nguyen-lieu.jpg": ASSETS / "hero-qba-truck-bellinturf-20260708.jpg",
+        "ncc-attp-sao-bien-2017-2020.png": ASSETS / "hsnl/recovered/ncc-attp-sao-bien-2017-2020-19.png",
+        "ncc-attp-thuy-duong-2025-2028.png": ASSETS / "hsnl/recovered/ncc-attp-thuy-duong-2025-2028-19.png",
+        "ncc-kiem-dich-thit-bo-dong-thap-2026.jpg": ASSETS / "hsnl/recovered/ncc-kiem-dich-thit-bo-dong-thap-2026-19.jpg",
+    }
+    fallback = archived_fallbacks.get(path.name)
+    return fallback if fallback and fallback.exists() else path
 
 
 def editable_asset_alias(path: Path, file_name: str) -> Path:
     QUALITY_OUT.mkdir(parents=True, exist_ok=True)
     out_path = QUALITY_OUT / file_name
+    # Keep the validated, normalized asset when an original reference image was archived.
+    # This preserves the published PDF while allowing a focused layout update to rebuild.
+    if not Path(path).exists() and out_path.exists():
+        return out_path
     source = resolve_image(path)
     with Image.open(source) as im:
         im = ImageOps.exif_transpose(im)
@@ -651,6 +680,32 @@ def hero_corner_logo(c: canvas.Canvas, *, dark=True) -> None:
     c.restoreState()
 
 
+def services_corner_logo(c: canvas.Canvas) -> None:
+    """Fit the QBA signature inside a single, self-contained services logo card."""
+    # These bounds reserve the upper-right hero area without relying on a background frame.
+    frame_x = W * 0.58
+    frame_y = H * 0.76
+    frame_w = W * 0.3625
+    frame_h = H * 0.165
+    inset = 8
+    premium_card(
+        c,
+        frame_x + inset,
+        frame_y + inset,
+        frame_w - inset * 2,
+        frame_h - inset * 2,
+        radius=24,
+        fill=HexColor("#FFFFFF"),
+        stroke=HexColor("#EAF4EC"),
+    )
+    c.saveState()
+    logo_clip = c.beginPath()
+    logo_clip.roundRect(frame_x + inset + 2, frame_y + inset + 2, frame_w - inset * 2 - 4, frame_h - inset * 2 - 4, 22)
+    c.clipPath(logo_clip, stroke=0, fill=0)
+    image_contain_trim(c, HERO_LOGO, frame_x + inset + 6, frame_y + inset + 6, frame_w - inset * 2 - 12, frame_h - inset * 2 - 12, pad=3)
+    c.restoreState()
+
+
 def para(c: canvas.Canvas, text: str, x: float, y_top: float, w: float, style: ParagraphStyle) -> float:
     original = str(text)
     page, slot_id = next_text_slot_id(c)
@@ -905,12 +960,15 @@ def normalize_hero_backgrounds() -> dict[str, Path]:
         for i in range(6):
             x = int(target_w * 0.78 + i * 58)
             draw.ellipse((x, int(target_h * 0.72), x + 190, int(target_h * 0.72) + 190), outline=(255, 254, 251, 34), width=3)
-        draw.rounded_rectangle(
-            (int(target_w * 0.58), int(target_h * 0.075), target_w - 92, int(target_h * 0.24)),
-            radius=38,
-            outline=(255, 254, 251, 58),
-            width=4,
-        )
+        # The services page supplies its own logo card. Avoid a second decorative
+        # outline there so the logo, white card and border read as one clean unit.
+        if key != "services":
+            draw.rounded_rectangle(
+                (int(target_w * 0.58), int(target_h * 0.075), target_w - 92, int(target_h * 0.24)),
+                radius=38,
+                outline=(255, 254, 251, 58),
+                width=4,
+            )
         draw.rounded_rectangle(
             (70, target_h - 430, int(target_w * 0.52), target_h - 94),
             radius=38,
@@ -1289,7 +1347,14 @@ def normalize_equipment() -> dict[str, Path]:
     }
     out: dict[str, Path] = {}
     for key, (path, crop) in specs.items():
-        im = ImageOps.exif_transpose(Image.open(resolve_image(path))).convert("RGB")
+        source = resolve_image(path)
+        if not source.exists():
+            normalized_fallback = EQUIP_OUT / f"{key}-normalized.jpg"
+            if normalized_fallback.exists():
+                out[key] = normalized_fallback
+                continue
+            raise FileNotFoundError(f"Không tìm thấy ảnh thiết bị: {source}")
+        im = ImageOps.exif_transpose(Image.open(source)).convert("RGB")
         if crop:
             im = im.crop(crop)
         im = ImageEnhance.Contrast(im).enhance(1.025)
@@ -1393,7 +1458,14 @@ def normalize_meal_photos() -> dict[str, Path]:
     }
     out: dict[str, Path] = {}
     for key, (filename, size, fit, rotate, studio) in specs.items():
-        source = ImageOps.exif_transpose(Image.open(resolve_image(MEAL_ORIGINAL / filename))).convert("RGB")
+        source_path = resolve_image(MEAL_ORIGINAL / filename)
+        if not source_path.exists():
+            normalized_fallback = MEAL_OUT / f"{key}.jpg"
+            if normalized_fallback.exists():
+                out[key] = normalized_fallback
+                continue
+            raise FileNotFoundError(f"Không tìm thấy ảnh khẩu phần: {source_path}")
+        source = ImageOps.exif_transpose(Image.open(source_path)).convert("RGB")
         if rotate:
             source = source.rotate(-rotate, expand=True)
         source = ImageEnhance.Color(source).enhance(1.08)
@@ -1801,12 +1873,15 @@ def build() -> None:
     hero_page_bg(c, hero_bgs, "services", overlay_alpha=0.25)
     chrome(c, 7, "Hệ giải pháp", dark=True)
     section_title(c, "05 / Dịch vụ", "Một hệ giải pháp.<br/><font color='#FFD569'>Nhiều nhịp phục vụ.</font>", dark=True, y=720)
-    hero_corner_logo(c)
+    services_corner_logo(c)
     services = ["Suất ăn trưa", "Suất ăn sáng", "Suất ăn ca đêm", "Thực đơn chay", "Tiệc & buffet", "Bếp tại chỗ", "Bếp trung tâm & vận chuyển"]
+    service_card_w, service_card_h = 248, 82
     for i, s in enumerate(services):
         col, row = i % 2, i // 2
-        x, y = 34 + col * 266, 532 - row * 104
-        rounded(c, x, y, 248, 82, fill=INK_2, stroke=HexColor("#49675F"), radius=14)
+        is_centered_last_card = len(services) % 2 == 1 and i == len(services) - 1
+        x = (W - service_card_w) / 2 if is_centered_last_card else 34 + col * 266
+        y = 532 - row * 104
+        rounded(c, x, y, service_card_w, service_card_h, fill=INK_2, stroke=HexColor("#49675F"), radius=14)
         c.setFillColor([LIME, YELLOW, ORANGE][i % 3])
         c.setFont("QBA-Bold", 18)
         c.drawString(x + 14, y + 41, f"{i + 1:02d}")
