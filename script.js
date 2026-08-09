@@ -2838,3 +2838,4 @@ initializeContentEditor();
 document.addEventListener("qba:languagechange", applyStoredContentRecords);
 normalizeMenuLineStarts();
 document.addEventListener("qba:languagechange", () => normalizeMenuLineStarts());
+window.addEventListener("load", () => normalizeMenuLineStarts());
