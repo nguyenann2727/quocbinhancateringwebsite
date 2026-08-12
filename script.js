@@ -2423,7 +2423,7 @@ initializeImageEditor();
 
 // Trình chỉnh sửa nội dung trực tiếp — chữ và số được lưu tự động trên trình duyệt.
 const ABOUT_CONTENT_REVISION_KEY = "qba-about-content-revision";
-const ABOUT_CONTENT_REVISION = "2026-08-10-capacity-15k-v4";
+const ABOUT_CONTENT_REVISION = "2026-08-12-capacity-10k-final-v5";
 const LOCATION_CONTENT_REVISION_KEY = "qba-location-content-revision";
 const LOCATION_CONTENT_REVISION = "2026-07-24-representative-area-v2";
 const MENU_CONTENT_REVISION_KEY = "qba-menu-content-revision";
@@ -2539,15 +2539,18 @@ function migrateAboutContent() {
   try {
     if (localStorage.getItem(ABOUT_CONTENT_REVISION_KEY) === ABOUT_CONTENT_REVISION) return;
     const staleCapacityPatterns = [
-      /10[.,]000\s+suất ăn mỗi ngày/i,
-      /10[.,]000\s+meals per day/i,
-      /하루(?:\s+최대)?\s*10[.,]000식/i,
-      /1日(?:最大)?10[.,]000食/i,
-      /每日(?:最高)?10[.,]000份餐食/i,
+      /^15[.,]000$/i,
+      /15[.,]000\s+suất ăn mỗi ngày/i,
+      /15[.,]000\s+meals per day/i,
+      /하루(?:\s+최대)?\s*15[.,]000식/i,
+      /1日(?:最大)?15[.,]000食/i,
+      /每日(?:最高)?15[.,]000份餐食/i,
+      /món ăn tham khảo/i,
+      /số liệu mẫu/i,
     ];
     let changed = false;
     Object.keys(contentRecords).forEach((key) => {
-      if (!key.startsWith("about-")) return;
+      if (!key.startsWith("about-") && !key.startsWith("capacity-")) return;
       const record = contentRecords[key];
       if (!record || typeof record.html !== "string") return;
       const template = document.createElement("template");
