@@ -142,6 +142,7 @@ document.querySelectorAll(".count").forEach((counter) => {
 
 // Thực đơn mẫu theo mức giá và ngày; thay món tại đây khi có lịch bếp chính thức.
 const CONTENT_STORAGE_KEY = "qba-content-editor-v1";
+const productionContentRecords = window.QBA_DRAFT_FINAL?.contentRecords || {};
 const menuDayOrder = ["mon", "tue", "wed", "thu", "fri", "sat"];
 const menuSampleLabels = { mon: "MẪU 01", tue: "MẪU 02", wed: "MẪU 03", thu: "MẪU 04", fri: "MẪU 05", sat: "MẪU 06" };
 const menuDayNames = { mon: "THỨ 2", tue: "THỨ 3", wed: "THỨ 4", thu: "THỨ 5", fri: "THỨ 6", sat: "THỨ 7" };
@@ -251,6 +252,17 @@ const menus = {
   },
 };
 
+const menuTranslationAuditValues = [...new Set(Object.values(menus).flatMap((tier) => (
+  Object.values(tier.days).flatMap((day) => day.dishes.flat())
+)))];
+const menuTranslationAudit = window.QBA_I18N?.auditMenuStrings?.(menuTranslationAuditValues) || {};
+const missingMenuTranslations = Object.entries(menuTranslationAudit).flatMap(([language, values]) => (
+  values.map((value) => `${language}: ${value}`)
+));
+if (missingMenuTranslations.length) {
+  console.error("[QBA menu i18n] Missing exact translations:", missingMenuTranslations);
+}
+
 const menuCode = document.querySelector("#menu-code");
 const menuSampleLabel = document.querySelector("#menu-sample-label");
 const menuServiceQuantity = document.querySelector("#menu-service-quantity");
@@ -325,7 +337,7 @@ function translateEditableMenuHtml(html) {
 function getStoredMenuContentHtml(key, fallbackText) {
   try {
     const records = JSON.parse(localStorage.getItem(CONTENT_STORAGE_KEY) || "{}");
-    const record = records?.[key];
+    const record = records?.[key] || productionContentRecords[key];
     if (record?.html !== undefined) return translateEditableMenuHtml(sanitizeMenuEditableHtml(record.html));
   } catch (error) {
     // Nếu trình duyệt chặn lưu trữ, website vẫn hiển thị nội dung mặc định.
@@ -2238,6 +2250,7 @@ document.querySelector("#image-reset-all").addEventListener("click", async () =>
 async function initializeImageEditor() {
   registerImageSlots();
   const mergedRecords = new Map();
+  const productionImageRecords = new Map();
   const mergedFrameRecords = new Map();
   const legacyMenuSlots = {
     "menu-standard": "menu-standard-mon",
@@ -2250,6 +2263,19 @@ async function initializeImageEditor() {
     const normalized = sanitizeFrameRecord({ ...record, id: targetId });
     if (normalized && canResizeImageSlot(imageSlotGroups.get(normalized.id))) mergedFrameRecords.set(normalized.id, normalized);
   };
+
+  const productionDraft = window.QBA_DRAFT_FINAL;
+  if (Array.isArray(productionDraft?.imageRecords)) {
+    productionDraft.imageRecords.forEach((record) => {
+      const targetId = legacyMenuSlots[record.id] || record.id;
+      if (!imageSlotGroups.has(targetId) || !record.dataUrl) return;
+      const slot = imageSlotGroups.get(targetId);
+      const productionRecord = { ...record, id: targetId, label: slot.label, mode: slot.mode, fit: slot.fit };
+      productionImageRecords.set(targetId, productionRecord);
+      mergedRecords.set(targetId, productionRecord);
+    });
+  }
+  if (Array.isArray(productionDraft?.frameRecords)) productionDraft.frameRecords.forEach(mergeFrameRecord);
 
   if (window.location.protocol !== "file:") {
     try {
@@ -2412,6 +2438,9 @@ async function initializeImageEditor() {
   } catch (error) {
     if (imageEditorAllowed) showImageEditorToast("Không thể mở bộ nhớ ảnh cục bộ trên trình duyệt này.", true);
   }
+  productionImageRecords.forEach((record, id) => {
+    if (!mergedRecords.has(id)) mergedRecords.set(id, record);
+  });
   mergedFrameRecords.forEach(applyFrameRecord);
   mergedRecords.forEach(scheduleImageRecord);
   window.__qbaImageEditorReady = true;
@@ -2423,7 +2452,7 @@ initializeImageEditor();
 
 // Trình chỉnh sửa nội dung trực tiếp — chữ và số được lưu tự động trên trình duyệt.
 const ABOUT_CONTENT_REVISION_KEY = "qba-about-content-revision";
-const ABOUT_CONTENT_REVISION = "2026-08-12-capacity-10k-final-v5";
+const ABOUT_CONTENT_REVISION = "2026-08-13-capacity-15k-final-v6";
 const LOCATION_CONTENT_REVISION_KEY = "qba-location-content-revision";
 const LOCATION_CONTENT_REVISION = "2026-07-24-representative-area-v2";
 const MENU_CONTENT_REVISION_KEY = "qba-menu-content-revision";
@@ -2538,26 +2567,23 @@ function persistContentStorage() {
 function migrateAboutContent() {
   try {
     if (localStorage.getItem(ABOUT_CONTENT_REVISION_KEY) === ABOUT_CONTENT_REVISION) return;
-    const staleCapacityPatterns = [
-      /^15[.,]000$/i,
-      /15[.,]000\s+suất ăn mỗi ngày/i,
-      /15[.,]000\s+meals per day/i,
-      /하루(?:\s+최대)?\s*15[.,]000식/i,
-      /1日(?:最大)?15[.,]000食/i,
-      /每日(?:最高)?15[.,]000份餐食/i,
-      /món ăn tham khảo/i,
-      /số liệu mẫu/i,
+    const capacityReplacements = [
+      [/10\.000/g, "15.000"],
+      [/10,000/g, "15,000"],
+      [/\b10000\b/g, "15000"],
     ];
     let changed = false;
     Object.keys(contentRecords).forEach((key) => {
       if (!key.startsWith("about-") && !key.startsWith("capacity-")) return;
       const record = contentRecords[key];
       if (!record || typeof record.html !== "string") return;
-      const template = document.createElement("template");
-      template.innerHTML = record.html;
-      const text = (template.content.textContent || "").replace(/\s+/g, " ").trim();
-      if (staleCapacityPatterns.some((pattern) => pattern.test(text))) {
-        delete contentRecords[key];
+      let migratedHtml = record.html;
+      capacityReplacements.forEach(([pattern, replacement]) => {
+        migratedHtml = migratedHtml.replace(pattern, replacement);
+      });
+      if (migratedHtml !== record.html) {
+        record.html = migratedHtml;
+        if (record.count === 10000) record.count = 15000;
         changed = true;
       }
     });
@@ -2850,6 +2876,7 @@ function initializeContentEditor() {
   migrateMenuContent();
   migrateMenu23kContent();
   migrateQualityProcessContent();
+  contentRecords = { ...productionContentRecords, ...contentRecords };
   applyStoredContentRecords();
   updateMenuDisplay();
 }
