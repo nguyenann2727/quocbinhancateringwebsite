@@ -18,10 +18,12 @@ ROOT_FILES = (
     Path("styles.css"),
     Path("script.js"),
     Path("i18n.js"),
+    Path("draft-final-config.js"),
+    Path("draft-final-manifest.json"),
     Path("image-config.json"),
     Path("robots.txt"),
 )
-SCAN_FILES = ROOT_FILES[:5]
+SCAN_FILES = tuple(path for path in ROOT_FILES if path.suffix in {".html", ".css", ".js", ".json"})
 ASSET_LIMIT = 25 * 1024 * 1024
 RUNTIME_REF = re.compile(r"(?:assets|output/pdf)/[^\"'`()<>\\\s]+")
 

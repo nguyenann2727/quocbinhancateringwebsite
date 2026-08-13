@@ -47,7 +47,7 @@
     ["Thành lập năm 2006, CÔNG TY TNHH MỘT THÀNH VIÊN QUỐC BÌNH AN chuyên tổ chức và cung cấp suất ăn công nghiệp cho nhà máy, xí nghiệp cùng các đơn vị có nhu cầu phục vụ số lượng lớn. Mỗi bữa ăn được xây dựng trên bốn tiêu chí: an toàn, đủ dinh dưỡng, phù hợp ngân sách và đúng giờ theo từng ca làm việc.", "Established in 2006, QUOC BINH AN ONE MEMBER COMPANY LIMITED organizes and supplies industrial meals for factories, enterprises, and organizations requiring high-volume service. Every meal is built around four criteria: safety, balanced nutrition, budget suitability, and punctual shift-based service.", "2006년에 설립된 QUOC BINH AN 1인 유한회사는 공장과 기업, 대량 급식이 필요한 기관에 산업 급식을 제공합니다. 모든 식사는 안전, 균형 잡힌 영양, 예산 적합성, 근무조별 정시 제공이라는 네 가지 기준으로 구성됩니다.", "2006年設立のQUOC BINH AN一人有限責任会社は、工場・企業・大量給食を必要とする団体に産業給食を提供しています。すべての食事を、安全・十分な栄養・予算への適合・シフトごとの時間厳守という4基準で設計します。", "QUOC BINH AN一人有限责任公司成立于2006年，专业为工厂、企业及有大批量供餐需求的单位提供工业团餐。每份餐食均遵循安全、营养均衡、符合预算及按班次准时供应四项标准。"],
     ["Quốc Bình An được sáng lập và dẫn dắt bởi Giám đốc Nguyễn Quốc Chinh. Hành trình khởi nghiệp bắt đầu trong nhiều thiếu thốn, với vỏn vẹn vài trăm suất ăn mỗi ngày. Những trải nghiệm từ giai đoạn khó khăn ấy giúp ông thấu hiểu hơn ai hết giá trị của từng hạt gạo và ý nghĩa của một bữa cơm no, nóng hổi đối với người lao động. Đó không chỉ là bữa ăn giữa ca, mà còn là nguồn năng lượng để họ tiếp tục làm việc, chăm lo cho gia đình và đóng góp vào sự phát triển của doanh nghiệp.", "Quoc Binh An was founded and is led by Director Nguyen Quoc Chinh. The journey began with limited resources and only a few hundred meals per day. Those early challenges shaped a deep respect for every grain of rice and for the meaning of a hot, satisfying meal to working people. A shift meal is not merely food; it is energy to keep working, care for family, and contribute to the enterprise.", "Quoc Binh An은 Nguyen Quoc Chinh 대표가 설립하고 이끌고 있습니다. 부족한 여건 속에서 하루 수백 식으로 시작한 경험은 쌀 한 톨의 가치와 근로자에게 따뜻하고 든든한 식사가 지닌 의미를 깊이 이해하게 했습니다. 교대 식사는 단순한 한 끼가 아니라 일과 가정, 기업의 성장을 이어 가는 에너지입니다.", "Quoc Binh AnはNguyen Quoc Chinh代表が創業し、率いています。厳しい環境の中、1日数百食から始めた経験により、米一粒の価値と、働く方にとって温かく満足できる食事が持つ意味を深く理解しています。シフト中の食事は単なる一食ではなく、仕事・家族・企業の成長を支える力です。", "Quoc Binh An由总经理Nguyen Quoc Chinh创立并带领。创业初期条件有限，每日仅供应数百份餐食。那段经历让他深知每一粒米的价值，以及一顿热乎、饱足的饭菜对劳动者的意义。班中餐不仅是一顿饭，更是继续工作、照顾家庭并助力企业发展的能量。"],
     ["Vì vậy, “nấu bằng cái tâm” chưa bao giờ chỉ là một lời giới thiệu, mà là nguyên tắc xuyên suốt trong cách Quốc Bình An làm nghề. Chúng tôi trân quý từng nguyên liệu, chăm chút từng khẩu phần như chuẩn bị bữa cơm cho chính người thân của mình. Từ lựa chọn nhà cung cấp, xây dựng thực đơn, sơ chế, chế biến đến chia suất, giữ nóng và phục vụ, mỗi công đoạn đều được kiểm soát cẩn trọng để món ăn khi đến tay người dùng luôn sạch, ngon, đủ chất và phù hợp với đặc thù công việc của từng doanh nghiệp.", "For Quoc Binh An, cooking with care is not a slogan but a working principle. We value every ingredient and prepare each portion as we would for our own family. From supplier selection and menu planning to preparation, cooking, portioning, heat retention, and service, every stage is carefully controlled so meals remain clean, delicious, nutritious, and suited to each workplace.", "Quoc Binh An에게 정성을 다해 조리한다는 말은 구호가 아니라 운영 원칙입니다. 모든 식재료와 한 끼 분량을 가족의 식사처럼 소중히 다룹니다. 공급업체 선정과 식단 설계부터 전처리, 조리, 배식, 보온과 서비스까지 각 단계를 세심하게 관리해 깨끗하고 맛있으며 영양을 갖춘 식사를 사업장 특성에 맞게 제공합니다.", "Quoc Binh Anにとって、真心を込めて調理することは宣伝文句ではなく運営原則です。食材一つ一つを大切にし、家族の食事を作るように各食を整えます。仕入先選定・献立設計から下処理・調理・盛り付け・保温・提供まで丁寧に管理し、清潔でおいしく、栄養のある食事を各職場に合わせて届けます。", "对Quoc Binh An而言，用心烹饪不是一句口号，而是贯穿工作的原则。我们珍惜每一种食材，像为家人备餐一样照料每份餐食。从供应商选择、菜单设计到预处理、烹饪、分餐、保温和供应，各环节均严格管控，确保餐食干净、美味、营养充足并符合不同企业的工作特点。"],
-    ["Trải qua 20 năm kinh nghiệm vận hành, Quốc Bình An đã phát triển năng lực phục vụ lên đến 10.000 suất ăn mỗi ngày. Dù quy mô đã thay đổi, những giá trị từ ngày đầu vẫn được gìn giữ: trân quý từng hạt gạo, tôn trọng sức khỏe người dùng và giữ trọn trách nhiệm với khách hàng. Chúng tôi tin rằng một bữa cơm được chuẩn bị chu đáo sẽ mang lại sự an tâm cho người lao động, đồng thời góp phần xây dựng môi trường làm việc ổn định, gắn bó và bền vững hơn.", "With 20 years of operating experience, Quoc Binh An has developed capacity of up to 10,000 meals per day. As our scale has grown, our founding values remain unchanged: respect every grain of rice, protect diners' health, and honor our responsibility to clients. We believe a thoughtfully prepared meal gives employees peace of mind and helps build a more stable, connected, and sustainable workplace.", "20년의 운영 경험을 바탕으로 Quoc Binh An은 하루 최대 10,000식의 제공 역량을 갖추었습니다. 규모가 커져도 쌀 한 톨을 소중히 여기고, 이용자의 건강을 존중하며, 고객에 대한 책임을 지킨다는 초심은 변하지 않습니다. 정성스럽게 준비한 식사는 근로자에게 안심을 주고 더 안정적이고 지속 가능한 근무 환경을 만드는 데 기여합니다.", "20年の運営経験を経て、Quoc Binh Anは1日最大10,000食の提供能力を築きました。規模が成長しても、米一粒を大切にし、利用者の健康を尊重し、お客様への責任を果たすという創業時の価値観は変わりません。丁寧に用意した食事が働く方の安心と、安定した持続可能な職場づくりにつながると信じています。", "凭借20年运营经验，Quoc Binh An已具备每日最高10,000份餐食的服务能力。规模虽不断扩大，我们依然坚守初心：珍惜每一粒米、尊重用餐者健康并对客户尽责。我们相信，用心准备的一餐能让员工安心，也有助于营造更稳定、更有凝聚力且可持续的工作环境。"],
+    ["Trải qua 20 năm kinh nghiệm vận hành, Quốc Bình An đã phát triển năng lực phục vụ lên đến 15.000 suất ăn mỗi ngày. Dù quy mô đã thay đổi, những giá trị từ ngày đầu vẫn được gìn giữ: trân quý từng hạt gạo, tôn trọng sức khỏe người dùng và giữ trọn trách nhiệm với khách hàng. Chúng tôi tin rằng một bữa cơm được chuẩn bị chu đáo sẽ mang lại sự an tâm cho người lao động, đồng thời góp phần xây dựng môi trường làm việc ổn định, gắn bó và bền vững hơn.", "With 20 years of operating experience, Quoc Binh An has developed capacity of up to 15,000 meals per day. As our scale has grown, our founding values remain unchanged: respect every grain of rice, protect diners' health, and honor our responsibility to clients. We believe a thoughtfully prepared meal gives employees peace of mind and helps build a more stable, connected, and sustainable workplace.", "20년의 운영 경험을 바탕으로 Quoc Binh An은 하루 최대 15,000식의 제공 역량을 갖추었습니다. 규모가 커져도 쌀 한 톨을 소중히 여기고, 이용자의 건강을 존중하며, 고객에 대한 책임을 지킨다는 초심은 변하지 않습니다. 정성스럽게 준비한 식사는 근로자에게 안심을 주고 더 안정적이고 지속 가능한 근무 환경을 만드는 데 기여합니다.", "20年の運営経験を経て、Quoc Binh Anは1日最大15,000食の提供能力を築きました。規模が成長しても、米一粒を大切にし、利用者の健康を尊重し、お客様への責任を果たすという創業時の価値観は変わりません。丁寧に用意した食事が働く方の安心と、安定した持続可能な職場づくりにつながると信じています。", "凭借20年运营经验，Quoc Binh An已具备每日最高15,000份餐食的服务能力。规模虽不断扩大，我们依然坚守初心：珍惜每一粒米、尊重用餐者健康并对客户尽责。我们相信，用心准备的一餐能让员工安心，也有助于营造更稳定、更有凝聚力且可持续的工作环境。"],
     ["Xem cách chúng tôi vận hành", "See how we operate", "운영 방식 보기", "運営方法を見る", "了解我们的运营方式"],
     ["Đi thẳng đến nội dung chính", "Skip to main content", "본문으로 바로가기", "メインコンテンツへ移動", "跳至主要内容"],
     ["Thành lập năm", "Established in", "설립 연도", "設立", "成立于"],
@@ -59,7 +59,7 @@
     ["Trải qua", "", "", "", ""],
     ["Quốc Bình An đã phát triển năng lực phục vụ lên đến", "Quoc Binh An has developed capacity of up to", "Quoc Binh An은 다음과 같은 제공 역량을 갖추었습니다", "Quoc Binh Anは次の提供能力を築きました", "Quoc Binh An已具备最高"],
     ["Dù quy mô đã thay đổi, những giá trị từ ngày đầu vẫn được gìn giữ: trân quý từng hạt gạo, tôn trọng sức khỏe người dùng và giữ trọn trách nhiệm với khách hàng. Chúng tôi tin rằng một bữa cơm được chuẩn bị chu đáo sẽ mang lại sự an tâm cho người lao động, đồng thời góp phần xây dựng môi trường làm việc ổn định, gắn bó và bền vững hơn.", "As our scale has grown, our founding values remain unchanged: respect every grain of rice, protect diners' health, and honor our responsibility to clients. We believe a thoughtfully prepared meal gives employees peace of mind and helps build a more stable, connected, and sustainable workplace.", "규모가 커져도 쌀 한 톨을 소중히 여기고, 이용자의 건강을 존중하며, 고객에 대한 책임을 지킨다는 초심은 변하지 않습니다. 정성스럽게 준비한 식사는 근로자에게 안심을 주고 더 안정적이고 지속 가능한 근무 환경을 만드는 데 기여합니다.", "規模が成長しても、米一粒を大切にし、利用者の健康を尊重し、お客様への責任を果たすという創業時の価値観は変わりません。丁寧に用意した食事が働く方の安心と、安定した持続可能な職場づくりにつながると信じています。", "规模虽不断扩大，我们依然坚守初心：珍惜每一粒米、尊重用餐者健康并对客户尽责。我们相信，用心准备的一餐能让员工安心，也有助于营造更稳定、更有凝聚力且可持续的工作环境。"],
-    ["Từ vài trăm suất ăn ban đầu đến năng lực phục vụ 10.000 suất mỗi ngày — một hành trình được xây dựng bằng sự tận tâm và trách nhiệm.", "From a few hundred meals at the beginning to capacity of 10,000 meals per day—a journey built on dedication and responsibility.", "초기 하루 수백 식에서 10,000식 제공 역량까지, 정성과 책임으로 이어 온 여정입니다.", "創業時の1日数百食から10,000食の提供能力へ。真心と責任で築いた歩みです。", "从创业初期每日数百份到如今每日10,000份的服务能力，这是一段以用心与责任筑成的历程。"],
+    ["Từ vài trăm suất ăn ban đầu đến năng lực phục vụ 15.000 suất mỗi ngày — một hành trình được xây dựng bằng sự tận tâm và trách nhiệm.", "From a few hundred meals at the beginning to capacity of 15,000 meals per day—a journey built on dedication and responsibility.", "초기 하루 수백 식에서 15,000식 제공 역량까지, 정성과 책임으로 이어 온 여정입니다.", "創業時の1日数百食から15,000食の提供能力へ。真心と責任で築いた歩みです。", "从创业初期每日数百份到如今每日15,000份的服务能力，这是一段以用心与责任筑成的历程。"],
     ["Vài trăm", "A few hundred", "수백", "数百", "数百份"],
     ["Nuôi dưỡng con người.", "Nourishing people.", "사람을 위한 영양.", "人を支える食事。", "滋养员工。"],
     ["Tiếp sức doanh nghiệp.", "Empowering businesses.", "기업의 성장을 지원합니다.", "企業の力になります。", "赋能企业。"],
@@ -80,8 +80,8 @@
     ["Logo Quốc Bình An", "Quoc Binh An logo", "Quoc Binh An 로고", "Quoc Binh Anロゴ", "Quoc Binh An标志"],
     ["20 năm kinh nghiệm", "20 years of experience", "20년 운영 경험", "20年の運営実績", "20年运营经验"],
     ["20 năm kinh nghiệm vận hành", "With 20 years of operating experience", "20년의 운영 경험을 바탕으로", "20年の運営経験をもとに", "凭借20年运营经验"],
-    ["10.000 suất/ngày", "10,000 meals/day", "일 10,000식", "1日10,000食", "每日10,000份"],
-    ["10.000 suất ăn mỗi ngày", "10,000 meals per day", "하루 10,000식", "1日10,000食", "每日10,000份餐食"],
+    ["15.000 suất/ngày", "15,000 meals/day", "일 15,000식", "1日15,000食", "每日15,000份"],
+    ["15.000 suất ăn mỗi ngày", "15,000 meals per day", "하루 15,000식", "1日15,000食", "每日15,000份餐食"],
     ["năm", "years", "년", "年", "年"],
     ["File hồ sơ sẽ cập nhật", "PDF profile coming soon", "PDF 소개서 준비 중", "PDF資料は近日公開", "PDF资料即将更新"],
     ["Hồ sơ đang được cập nhật", "Profile PDF is being updated", "소개서 PDF 업데이트 중", "会社案内PDFを更新中", "公司资料PDF正在更新"],
@@ -192,8 +192,8 @@
     ["NĂNG LƯỢNG MẪU", "EST. ENERGY", "예상 열량", "参考カロリー", "参考能量"],
     ["KCAL / SUẤT", "KCAL / MEAL", "KCAL / 식", "KCAL / 食", "千卡 / 份"],
     ["CƠ CẤU SUẤT ĂN", "MEAL COMPOSITION", "식단 구성", "食事構成", "餐食构成"],
-    ["Trưa · Món mặn", "Lunch · Main savory", "점심 · 메인", "昼食・主菜", "午餐 · 主荤"],
-    ["Trưa · Xào phụ", "Lunch · Side stir-fry", "점심 · 보조 볶음", "昼食・副菜炒め", "午餐 · 配炒"],
+    ["Trưa · Món mặn", "Lunch · Main dish", "점심 · 메인 요리", "昼食・主菜", "午餐 · 主菜"],
+    ["Trưa · Xào phụ", "Lunch · Stir-fried side", "점심 · 곁들임 볶음", "昼食・副菜炒め", "午餐 · 炒制配菜"],
     ["Trưa · Rau xào", "Lunch · Stir-fried vegetables", "점심 · 채소 볶음", "昼食・野菜炒め", "午餐 · 炒菜"],
     ["Trưa · Rau", "Lunch · Vegetables", "점심 · 채소", "昼食・野菜", "午餐 · 蔬菜"],
     ["Trưa · Canh", "Lunch · Soup", "점심 · 국", "昼食・スープ", "午餐 · 汤"],
@@ -239,7 +239,7 @@
     ["NĂNG LỰC PHỤC VỤ", "SERVICE CAPACITY", "서비스 역량", "提供能力", "服务能力"],
     ["Sẵn sàng cho", "Ready for", "준비된 운영으로", "あらゆる", "随时满足"],
     ["mỗi nhịp sản xuất.", "every production rhythm.", "모든 생산 리듬에 대응합니다.", "生産リズムに対応。", "各种生产节奏。"],
-    ["Với 20 năm kinh nghiệm vận hành, Quốc Bình An có năng lực phục vụ lên đến 10.000 suất ăn mỗi ngày. Mô hình được tổ chức linh hoạt theo lịch sản xuất, khu vực phục vụ và mức ngân sách thực tế của từng doanh nghiệp.", "With 20 years of operating experience, Quoc Binh An can serve up to 10,000 meals per day. The operating model is flexibly organized around each business's production schedule, service location, and actual budget.", "20년의 운영 경험을 바탕으로 Quoc Binh An은 하루 최대 10,000식의 제공 역량을 갖추고 있습니다. 운영 모델은 각 기업의 생산 일정, 서비스 지역과 실제 예산에 맞춰 유연하게 구성됩니다.", "20年の運営経験を持つQuoc Binh Anは、1日最大10,000食を提供できます。運営モデルは各企業の生産スケジュール、提供地域、実際の予算に合わせて柔軟に構成します。", "凭借20年运营经验，Quoc Binh An每日最高可供应10,000份餐食。运营模式可根据各企业的生产计划、服务地区及实际预算灵活组织。"],
+    ["Với 20 năm kinh nghiệm vận hành, Quốc Bình An có năng lực phục vụ lên đến 15.000 suất ăn mỗi ngày. Mô hình được tổ chức linh hoạt theo lịch sản xuất, khu vực phục vụ và mức ngân sách thực tế của từng doanh nghiệp.", "With 20 years of operating experience, Quoc Binh An can serve up to 15,000 meals per day. The operating model is flexibly organized around each business's production schedule, service location, and actual budget.", "20년의 운영 경험을 바탕으로 Quoc Binh An은 하루 최대 15,000식의 제공 역량을 갖추고 있습니다. 운영 모델은 각 기업의 생산 일정, 서비스 지역과 실제 예산에 맞춰 유연하게 구성됩니다.", "20年の運営経験を持つQuoc Binh Anは、1日最大15,000食を提供できます。運営モデルは各企業の生産スケジュール、提供地域、実際の予算に合わせて柔軟に構成します。", "凭借20年运营经验，Quoc Binh An每日最高可供应15,000份餐食。运营模式可根据各企业的生产计划、服务地区及实际预算灵活组织。"],
     ["Với", "", "", "", ""],
     ["Quốc Bình An có năng lực phục vụ lên đến", "Quoc Binh An can serve up to", "Quoc Binh An은 다음과 같은 제공 역량을 갖추고 있습니다", "Quoc Binh Anは次の提供能力を備えています", "Quoc Binh An最高可供应"],
     ["Mô hình được tổ chức linh hoạt theo lịch sản xuất, khu vực phục vụ và mức ngân sách thực tế của từng doanh nghiệp.", "The operating model is flexibly organized around each business's production schedule, service location, and actual budget.", "운영 모델은 각 기업의 생산 일정, 서비스 지역과 실제 예산에 맞춰 유연하게 구성됩니다.", "運営モデルは各企業の生産スケジュール、提供地域、実際の予算に合わせて柔軟に構成します。", "运营模式可根据各企业的生产计划、服务地区及实际预算灵活组织。"],
@@ -765,6 +765,16 @@
     ["Cá nục kho tiêu", "Scad braised with black pepper", "후추 전갱이 조림", "ムロアジの黒こしょう煮", "黑椒焖竹荚鱼"],
     ["Cá nục sốt cà", "Scad in tomato sauce", "토마토소스 전갱이", "ムロアジのトマトソース", "番茄汁竹荚鱼"],
     ["Cá phi lê chiên giòn", "Crispy fried fish fillet", "바삭한 생선 필레 튀김", "白身魚フィレのカリカリ揚げ", "香酥炸鱼柳"],
+    ["Cá diêu hồng chiên", "Fried red tilapia", "홍틸라피아 튀김", "赤ティラピアの揚げ物", "炸红罗非鱼"],
+    ["Cá diêu hồng chiên tỏi ớt", "Red tilapia fried with garlic and chili", "마늘·고추 홍틸라피아 튀김", "赤ティラピアのにんにく唐辛子揚げ", "蒜辣炸红罗非鱼"],
+    ["Cá thu đao chiên", "Fried Pacific saury", "꽁치튀김", "サンマの揚げ物", "炸秋刀鱼"],
+    ["Cá thu đao kho thơm", "Pacific saury braised with pineapple", "파인애플 꽁치 조림", "サンマとパイナップルの煮付け", "菠萝焖秋刀鱼"],
+    ["Cá thu đao sốt cà", "Pacific saury in tomato sauce", "토마토소스 꽁치", "サンマのトマトソース", "番茄汁秋刀鱼"],
+    ["Cá ngừ kho thơm", "Tuna braised with pineapple", "파인애플 참치 조림", "マグロとパイナップルの煮付け", "菠萝焖金枪鱼"],
+    ["Cá chiên bột", "Battered fried fish", "튀김옷 생선튀김", "魚の衣揚げ", "面糊炸鱼"],
+    ["Cá đù chiên giòn", "Crispy fried croaker", "바삭한 조기튀김", "イシモチのカリカリ揚げ", "香酥炸黄鱼"],
+    ["Cá bống kho tiêu", "Goby braised with black pepper", "후추 망둑어 조림", "ハゼの黒こしょう煮", "黑椒焖虾虎鱼"],
+    ["Cà tím xào tỏi", "Eggplant stir-fried with garlic", "마늘 가지 볶음", "なすのにんにく炒め", "蒜炒茄子"],
     ["Cải bó xôi xào tỏi", "Spinach stir-fried with garlic", "마늘 시금치 볶음", "ほうれん草のにんにく炒め", "蒜炒菠菜"],
     ["Cải ngọt xào tỏi", "Choy sum stir-fried with garlic", "마늘 청경채 볶음", "菜心のにんにく炒め", "蒜炒菜心"],
     ["Cải thảo xào dầu hào", "Napa cabbage stir-fried with oyster sauce", "굴소스 배추 볶음", "白菜のオイスターソース炒め", "蚝油炒白菜"],
@@ -780,9 +790,29 @@
     ["Canh chua", "Sweet-and-sour soup", "새콤달콤한 수프", "酸味のあるスープ", "酸汤"],
     ["Canh củ cải hầm", "Slow-simmered radish soup", "무 푹고은 국", "大根の煮込みスープ", "清炖萝卜汤"],
     ["Canh rau ngót thịt bằm", "Katuk leaf soup with minced pork", "다진 돼지고기 카투크잎국", "ひき肉入りカトゥック葉スープ", "肉末马尼菜汤"],
+    ["Canh rau tơi", "Malabar spinach soup", "말라바시금치국", "ツルムラサキのスープ", "木耳菜汤"],
     ["Canh rong biển đậu hũ", "Seaweed and tofu soup", "미역 두부국", "わかめと豆腐のスープ", "海带豆腐汤"],
     ["Canh rong biển trứng", "Seaweed and egg soup", "미역 달걀국", "わかめと卵のスープ", "紫菜蛋花汤"],
     ["Sườn chua ngọt", "Sweet-and-sour ribs", "새콤달콤 갈비", "スペアリブの甘酢あん", "糖醋排骨"],
+    ["Bắp cải và cà rốt luộc", "Boiled cabbage and carrot", "삶은 양배추와 당근", "ゆでキャベツとにんじん", "白灼卷心菜和胡萝卜"],
+    ["Bò xào khổ hoa", "Beef stir-fried with bitter melon", "소고기 여주 볶음", "牛肉とゴーヤ炒め", "苦瓜炒牛肉"],
+    ["Bò xào khổ qua", "Beef stir-fried with bitter melon", "소고기 여주 볶음", "牛肉とゴーヤ炒め", "苦瓜炒牛肉"],
+    ["Bò xào hành tây cà rốt", "Beef stir-fried with onion and carrot", "소고기 양파·당근 볶음", "牛肉と玉ねぎ・にんじん炒め", "洋葱胡萝卜炒牛肉"],
+    ["Đậu hũ kho thơm thịt", "Tofu braised with pineapple and pork", "파인애플·돼지고기 두부조림", "豆腐とパイナップル・豚肉の煮込み", "菠萝猪肉焖豆腐"],
+    ["Đậu hũ sốt mỡ hành", "Tofu with scallion oil sauce", "파기름소스 두부", "豆腐のねぎ油ソース", "葱油豆腐"],
+    ["Ếch kho xả", "Frog braised with lemongrass", "레몬그라스 개구리조림", "カエルのレモングラス煮", "香茅焖田鸡"],
+    ["Ếch kho sả", "Frog braised with lemongrass", "레몬그라스 개구리조림", "カエルのレモングラス煮", "香茅焖田鸡"],
+    ["Giá xào thơm cay", "Spicy aromatic stir-fried bean sprouts", "매콤한 향신 숙주 볶음", "もやしの香味辛炒め", "香辣炒豆芽"],
+    ["Giò heo nấm đông cô", "Pork hock with shiitake mushrooms", "표고버섯 족발조림", "豚足としいたけの煮込み", "香菇焖猪蹄"],
+    ["Mướp luộc", "Boiled sponge gourd", "삶은 수세미오이", "ゆでヘチマ", "白灼丝瓜"],
+    ["Rau muống luộc", "Boiled water spinach", "삶은 공심채", "ゆで空心菜", "白灼空心菜"],
+    ["Thịt heo rit tôm", "Pork braised with shrimp", "새우 돼지고기 조림", "豚肉とエビの甘辛煮", "虾仁焖猪肉"],
+    ["Thịt heo rịt tôm", "Pork braised with shrimp", "새우 돼지고기 조림", "豚肉とエビの甘辛煮", "虾仁焖猪肉"],
+    ["Thịt heo rim tôm", "Pork braised with shrimp", "새우 돼지고기 조림", "豚肉とエビの甘辛煮", "虾仁焖猪肉"],
+    ["Thịt kho", "Braised pork", "돼지고기 조림", "豚肉の煮込み", "红烧猪肉"],
+    ["Thịt rang cháy cạnh", "Caramelized pork with crisp edges", "가장자리를 바삭하게 볶은 돼지고기", "豚肉の香ばし焼き", "焦香炒猪肉"],
+    ["Thịt xíu mại cà chua", "Pork meatballs in tomato sauce", "토마토소스 돼지고기 완자", "豚肉団子のトマトソース", "番茄汁猪肉丸"],
+    ["Tôm sốt cay", "Shrimp in spicy sauce", "매운 소스 새우", "エビの辛味ソース", "香辣虾"],
     ["Thịt kho thơm", "Pork braised with pineapple", "파인애플 돼지고기 조림", "豚肉とパイナップルの煮込み", "菠萝焖猪肉"],
     ["Chả cá kho thơm", "Fish cake braised with pineapple", "파인애플 어묵조림", "魚すり身とパイナップルの煮込み", "菠萝焖鱼饼"],
     ["Chôm chôm", "Rambutan", "람부탄", "ランブータン", "红毛丹"],
@@ -809,6 +839,7 @@
     ["Số lượng khách phục vụ: 6 người / 1 bàn ăn", "Guests served: 6 people per table", "제공 인원: 테이블당 6명", "提供人数：1卓につき6名", "服务人数：每桌6人"],
     ["Su su xào tỏi", "Chayote stir-fried with garlic", "마늘 차요테 볶음", "ハヤトウリのにんにく炒め", "蒜炒佛手瓜"],
     ["Sườn non kho / Cá kho cà chua", "Braised pork ribs / fish braised with tomato", "돼지갈비 조림 / 토마토 생선조림", "豚スペアリブ煮 / 魚のトマト煮", "焖小排 / 番茄焖鱼"],
+    ["Sườn non kho / Cá ba sa kho cà", "Braised pork ribs / basa fish braised with tomato", "돼지갈비 조림 / 토마토 바사 생선조림", "豚スペアリブ煮 / バサのトマト煮", "焖小排 / 番茄焖巴沙鱼"],
     ["Sườn sốt chua ngọt rắc mè", "Sweet-and-sour ribs with sesame", "참깨 새콤달콤 갈비", "ごま風味の甘酢スペアリブ", "芝麻糖醋排骨"],
     ["Sườn xào chua ngọt rắc mè", "Sweet-and-sour stir-fried ribs with sesame", "참깨 새콤달콤 갈비 볶음", "ごま風味の甘酢スペアリブ炒め", "芝麻糖醋炒排骨"],
     ["Táo xanh", "Green apple", "풋사과", "青りんご", "青苹果"],
@@ -1170,6 +1201,13 @@
   const normalizedMaps = Object.fromEntries(languages.map((lang, index) => [lang, new Map(rows.map((row) => [normalizeI18nString(row[0]), row[index]]))]));
   const originals = new WeakMap();
   const originalAttributes = new WeakMap();
+  const viCorrections = new Map([
+    ["Bò xào khổ hoa", "Bò xào khổ qua"],
+    ["Canh rau tơi", "Canh rau mồng tơi"],
+    ["Ếch kho xả", "Ếch kho sả"],
+    ["Thịt heo rit tôm", "Thịt heo rim tôm"],
+    ["Thịt heo rịt tôm", "Thịt heo rim tôm"],
+  ]);
   let currentLanguage = "vi";
   let applying = false;
 
@@ -1188,7 +1226,11 @@
   }
 
   function translateString(value, language) {
-    if (!value || language === "vi") return value;
+    if (!value) return value;
+    if (language === "vi") {
+      const trimmed = value.trim();
+      return viCorrections.has(trimmed) ? value.replace(trimmed, viCorrections.get(trimmed)) : value;
+    }
     const map = maps[language];
     const trimmed = value.trim();
     if (map.has(trimmed)) return value.replace(trimmed, map.get(trimmed));
@@ -1212,7 +1254,11 @@
   }
 
   function translateExactString(value, language) {
-    if (!value || language === "vi") return value;
+    if (!value) return value;
+    if (language === "vi") {
+      const trimmed = value.trim();
+      return viCorrections.has(trimmed) ? value.replace(trimmed, viCorrections.get(trimmed)) : value;
+    }
     const map = maps[language];
     const trimmed = value.trim();
     if (map.has(trimmed)) return value.replace(trimmed, map.get(trimmed));
@@ -1259,18 +1305,18 @@
       button.setAttribute("aria-pressed", String(active));
     });
     const titles = {
-      vi: "Suất ăn công nghiệp Quốc Bình An | 10.000 suất/ngày",
-      en: "Quoc Binh An Industrial Catering | 10,000 meals/day",
-      ko: "Quoc Binh An 산업 급식 | 일 10,000식",
-      ja: "Quoc Binh An 産業給食 | 1日10,000食",
-      zh: "Quoc Binh An工业团餐 | 每日10,000份",
+      vi: "Suất ăn công nghiệp Quốc Bình An | 15.000 suất/ngày",
+      en: "Quoc Binh An Industrial Catering | 15,000 meals/day",
+      ko: "Quoc Binh An 산업 급식 | 일 15,000식",
+      ja: "Quoc Binh An 産業給食 | 1日15,000食",
+      zh: "Quoc Binh An工业团餐 | 每日15,000份",
     };
     const descriptions = {
-      vi: "Quốc Bình An cung cấp suất ăn công nghiệp, suất ăn theo ca, thực đơn chay và tiệc sự kiện với năng lực 10.000 suất mỗi ngày.",
-      en: "Quoc Binh An provides industrial catering, shift meals, vegetarian menus, and event catering with capacity of up to 10,000 meals per day.",
-      ko: "Quoc Binh An은 하루 최대 10,000식 규모의 산업 급식, 교대식, 채식 식단과 행사 케이터링을 제공합니다.",
-      ja: "Quoc Binh Anは1日最大10,000食の産業給食、シフト食、菜食メニュー、イベントケータリングを提供します。",
-      zh: "Quoc Binh An提供工业团餐、班次餐、素食菜单及活动餐饮，每日最高可供应10,000份。",
+      vi: "Quốc Bình An cung cấp suất ăn công nghiệp, suất ăn theo ca, thực đơn chay và tiệc sự kiện với năng lực 15.000 suất mỗi ngày.",
+      en: "Quoc Binh An provides industrial catering, shift meals, vegetarian menus, and event catering with capacity of up to 15,000 meals per day.",
+      ko: "Quoc Binh An은 하루 최대 15,000식 규모의 산업 급식, 교대식, 채식 식단과 행사 케이터링을 제공합니다.",
+      ja: "Quoc Binh Anは1日最大15,000食の産業給食、シフト食、菜食メニュー、イベントケータリングを提供します。",
+      zh: "Quoc Binh An提供工业团餐、班次餐、素食菜单及活动餐饮，每日最高可供应15,000份。",
     };
     const locales = { vi: "vi_VN", en: "en_US", ko: "ko_KR", ja: "ja_JP", zh: "zh_CN" };
     document.title = titles[language];
@@ -1300,6 +1346,13 @@
     getLanguage: () => currentLanguage,
     translate: (value) => translateString(value, currentLanguage),
     translateExact: (value) => translateExactString(value, currentLanguage),
+    auditMenuStrings: (values) => {
+      const uniqueValues = [...new Set((values || []).map((value) => String(value ?? "").trim()).filter(Boolean))];
+      return Object.fromEntries(languages.filter((language) => language !== "vi").map((language) => [
+        language,
+        uniqueValues.filter((value) => translateExactString(value, language) === value),
+      ]));
+    },
   };
   setLanguage(currentLanguage, false);
 })();

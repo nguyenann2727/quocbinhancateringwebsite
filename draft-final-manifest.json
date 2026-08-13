@@ -1,0 +1,137 @@
+{
+  "version": 1,
+  "type": "qba-draft-final-release-manifest",
+  "source": {
+    "filename": "qba-draft-final-2026-08-13T02-07-31-508Z.json",
+    "exportedAt": "2026-08-13T02:07:31.445Z",
+    "sha256": "d1735374c5a42213844d018ca396de37c2b7ca99fd2daa6e417f610a614cca27",
+    "bytes": 21129997
+  },
+  "counts": {
+    "contentRecords": 70,
+    "renderedContent": 194,
+    "imageRecords": 17,
+    "frameRecords": 5
+  },
+  "assets": [
+    {
+      "id": "about-bg",
+      "path": "assets/draft-final/about-bg.png",
+      "bytes": 2378939,
+      "sha256": "135a689304af41b3e2cb995381085025e2a30c1de37379661bf4997ad7038e6a",
+      "mime": "image/png"
+    },
+    {
+      "id": "company-profile-cover",
+      "path": "assets/draft-final/company-profile-cover.jpg",
+      "bytes": 97086,
+      "sha256": "e68b3f0a3219f08cd165223ca7d012d325929545e99d4bc6053caf667002b274",
+      "mime": "image/jpeg"
+    },
+    {
+      "id": "menu-standard-fri",
+      "path": "assets/menu/qba-24k-actual-sample-05.png",
+      "bytes": 2021284,
+      "sha256": "66ffd0f50d13eee7827c79ef710a3abf080ee2754f75b4f85ccd72c85b0c06c5",
+      "mime": "image/default"
+    },
+    {
+      "id": "partner-01",
+      "path": "assets/draft-final/partner-01.webp",
+      "bytes": 3224,
+      "sha256": "638eb993af9f82dbc922fec470bf47c4c5bfb2e885891bb8aa79ca9463fb6121",
+      "mime": "image/webp"
+    },
+    {
+      "id": "partner-03",
+      "path": "assets/draft-final/partner-03.png",
+      "bytes": 6315,
+      "sha256": "0b3de6338986c8b090c15e92ab54f95bf65b340e412941e1cbeae847117ece2a",
+      "mime": "image/png"
+    },
+    {
+      "id": "partner-11",
+      "path": "assets/partner-vinh-hung.png",
+      "bytes": 64755,
+      "sha256": "59cf756b44820ab437e88bf7c09142e18e8d3b4f124579132b426db11ea74a68",
+      "mime": "image/default"
+    },
+    {
+      "id": "process-prep",
+      "path": "assets/draft-final/process-prep.png",
+      "bytes": 1798600,
+      "sha256": "c28296a3c3f27cc5a28bf4607807c5f3296c2784802891a0dfbaf2bbaef20d60",
+      "mime": "image/png"
+    },
+    {
+      "id": "process-receive",
+      "path": "assets/draft-final/process-receive.png",
+      "bytes": 3114991,
+      "sha256": "aa0001042311cb0d5949463093037c43ba732c82608247c1d90cc545199abd03",
+      "mime": "image/png"
+    },
+    {
+      "id": "process-source",
+      "path": "assets/draft-final/process-source.jpg",
+      "bytes": 369824,
+      "sha256": "19018a75734bd2ccf7654c7e5fdc63a3614b0888125104a2cc4950ac337de230",
+      "mime": "image/jpeg"
+    },
+    {
+      "id": "service-breakfast",
+      "path": "assets/services/service-breakfast-prep-v3-web.jpg",
+      "bytes": 447592,
+      "sha256": "b90108ceeb9a5e5bd27ef7efd1b51560ed87e625258f1224056cc8a1a0002036",
+      "mime": "image/default"
+    },
+    {
+      "id": "service-event",
+      "path": "assets/services/service-event-banquet-v3-web.jpg",
+      "bytes": 457746,
+      "sha256": "d6dc3dfc4cc0b6fccf5412b3ef6e82ba0ee51ec5b6dc3a7b7cd658fab0f96e91",
+      "mime": "image/default"
+    },
+    {
+      "id": "service-lunch",
+      "path": "assets/services/service-lunch-tray-v4.jpg",
+      "bytes": 407355,
+      "sha256": "ae156907aec0491a2d8165efb6e366c85ada9cadea2de71cdeada8fa2f15916d",
+      "mime": "image/default"
+    },
+    {
+      "id": "service-night",
+      "path": "assets/draft-final/service-night.png",
+      "bytes": 1700951,
+      "sha256": "8ae052b6814e0ac147237cf2fbfce5d94b23121cf3a41f630ae95482880e889c",
+      "mime": "image/png"
+    },
+    {
+      "id": "service-vegan",
+      "path": "assets/draft-final/service-vegan.png",
+      "bytes": 2416355,
+      "sha256": "80bc20a5c4c6a576b39920adfe81c093d7431506b1818e47583ef2ebb2e9c3b6",
+      "mime": "image/png"
+    },
+    {
+      "id": "value-flexible",
+      "path": "assets/draft-final/value-flexible.png",
+      "bytes": 1236766,
+      "sha256": "73c4df037fd0ce25c1afb46bdee8e2a05bfdc8387fb3cf92c46c6535d2dd9f65",
+      "mime": "image/png"
+    },
+    {
+      "id": "value-ontime",
+      "path": "assets/draft-final/value-ontime.png",
+      "bytes": 1251949,
+      "sha256": "0b7025a3ce0b6935444c52bbc4ca33eb45eaa4316af52b67f27b191371ebd4ad",
+      "mime": "image/png"
+    },
+    {
+      "id": "value-safety",
+      "path": "assets/draft-final/value-safety.png",
+      "bytes": 1432757,
+      "sha256": "3ec13dc613b0a26532e98fd6c71ac2a8dba97179582e57a7a8cbbb93f5a46d5e",
+      "mime": "image/png"
+    }
+  ]
+}
