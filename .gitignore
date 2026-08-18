@@ -10,6 +10,7 @@
 
 # Generated visual QA and temporary exports
 tmp/
+.wrangler/
 
 # Generated Python/editor cache files
 __pycache__/
