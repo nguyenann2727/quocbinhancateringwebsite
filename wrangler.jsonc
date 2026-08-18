@@ -5,6 +5,7 @@
     "command": "python3 scripts/build_site_dist.py"
   },
   "assets": {
-    "directory": "./dist"
+    "directory": "./dist",
+    "not_found_handling": "404-page"
   }
 }

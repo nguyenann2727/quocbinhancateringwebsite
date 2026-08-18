@@ -15,6 +15,8 @@ DIST = ROOT / "dist"
 PUBLIC_PDF = Path("output/pdf/HSNL-Quoc-Binh-An-Catering-WEBSITE.pdf")
 ROOT_FILES = (
     Path("index.html"),
+    Path("404.html"),
+    Path("_headers"),
     Path("styles.css"),
     Path("script.js"),
     Path("i18n.js"),
