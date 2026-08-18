@@ -22,6 +22,7 @@ ROOT_FILES = (
     Path("draft-final-manifest.json"),
     Path("image-config.json"),
     Path("robots.txt"),
+    Path("sitemap.xml"),
 )
 SCAN_FILES = tuple(path for path in ROOT_FILES if path.suffix in {".html", ".css", ".js", ".json"})
 ASSET_LIMIT = 25 * 1024 * 1024
