@@ -5967,3 +5967,20 @@ body {
     font-size: 20px;
   }
 }
+
+/* Mobile layout fix: keep service copy below resized 220px image frames. */
+@media (max-width: 580px) {
+  .service-card:has(.service-photo-frame.has-frame-layout),
+  .services .service-card:has([data-image-slot="service-vegan"].service-photo-frame.has-frame-layout) {
+    padding-top: 258px;
+  }
+
+  /* Keep the full About background visible on phones without changing desktop or other sections. */
+  #about[data-image-slot="about-bg"].has-custom-image {
+    background-color: #f7f4eb;
+    background-blend-mode: soft-light;
+    background-position: center 25% !important;
+    background-size: 100% auto !important;
+    background-repeat: no-repeat !important;
+  }
+}
